@@ -1,3 +1,9 @@
+---
+layout: page
+title: About permision to share
+permalink: /about-permision-to-share/
+---
+
 # About permision to share
 
 TODO: traduzir da versão em português
