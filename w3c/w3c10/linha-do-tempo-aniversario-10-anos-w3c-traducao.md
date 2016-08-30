@@ -65,12 +65,12 @@ Antes de 1989
 *   2003: XForms
 *   2004: Compound Document Formats
 
-## World Wide Web Conference location timeline
+##Timeline da localização da World Wide Web Conference 
 
-*   June 1994: Geneva
-*   October 1994: Chicago
-*   April 1995: Darmstadt
-*   December 1995: Boston
+*   Junho de 1994: Geneva
+*   Outubro de 1994: Chicago
+*   Abril de 1995: Darmstadt
+*   Dezembro de 1995: Boston
 *   1996: Paris (Largest conference to date
 *   1997: Santa Clara
 *   1998: Brisbane
@@ -81,9 +81,9 @@ Antes de 1989
 *   2003: Budapest
 *   2004: New York
 
-## Number of Web Servers timeline
+## Timeline de número de web servers
 
-Source: [Hobbes' Internet Timeline v8.0](http://www.zakon.org/robert/internet/timeline/#Growth)
+Fonte: [Hobbes' Internet Timeline v8.0](http://www.zakon.org/robert/internet/timeline/#Growth)
 
 *   1991: 1
 *   1992: 10
@@ -92,13 +92,13 @@ Source: [Hobbes' Internet Timeline v8.0](http://www.zakon.org/robert/internet/ti
 *   1995: 10,022
 *   1996: 100,000
 *   1997: 603,367
-*   1998: ~1.6 million
-*   1999: ~3.7 million
-*   2000: ~9.5 million
-*   2001: ~26 million
-*   2002: ~36 million
-*   2003: ~35 million
-*   2004: more than ~46 million
+*   1998: ~1.6 milhões
+*   1999: ~3.7 milhões
+*   2000: ~9.5 milhões
+*   2001: ~26 milhões
+*   2002: ~36 milhões
+*   2003: ~35 milhões
+*   2004: Superior a ~46 milhões
 
 * * *
 
