@@ -14,14 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: História da Web em português
-email: your-email@domain.com
+lang: pt
+#email: your-email@domain.com
 description: >
   Aqui você encontra textos sobre sobre a história da web de abrangência
   mundial e específicas do Brasil no idioma português, inclusive contemporânea.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://historia.pt.webiwg.org" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: WebIWG
+github_username:  Dkmister/historia-web-pt
 
 # Build settings
 markdown: kramdown
