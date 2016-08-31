@@ -18,8 +18,8 @@ email: your-email@domain.com
 description: >
   Aqui você encontra textos sobre sobre a história da web de abrangência
   mundial e específicas do Brasil no idioma português, inclusive contemporânea.
-baseurl: "/historia-web-pt" # the subpath of your site, e.g. /blog
-url: "https://dkmister.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://historia.pt.webiwg.org" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
