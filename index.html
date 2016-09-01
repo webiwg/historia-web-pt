@@ -4,26 +4,20 @@ layout: default
 
 <div class="home">
   <h1 class="page-heading">Página inicial</h1>
-  <p>Neste momento, as traduções estão sendo feitas e não há grande quantidade de conteúdo. Volte em breve</p>
-
+  <p>{{ site.description | escape }}</p>
+  <h2 class="page-heading">Lista de artigos traduzidos</h2>
+  <p>Neste momento, as traduções estão sendo feitas e não há grande quantidade de conteúdo. Volte em breve para ter acesso a mais conteúdo</p>
   <ul>
     <li><a href="{{ '/w3c/w3c10/linha-do-tempo-aniversario-10-anos-w3c.html' | prepend: site.baseurl }}">Linha do tempo de aniversário de 10 anos da W3C</a></li>
   </ul>
-  <!--
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+  <h2 class="page-heading">Lista de artigos em processo de tradução pela equipe de voluntários</h2>
+  <ul>
+    <li><a href="https://github.com/Dkmister/historia-web-pt/issues/3">10 aniversário da W3C, Infográfico</a></li>
+    <li><a href="https://github.com/Dkmister/historia-web-pt/issues/5">Hobbes' Internet Timeline - the definitive ARPAnet & Internet history</a></li>
+    <li><a href="https://github.com/Dkmister/historia-web-pt/issues/6">John Foliot - Using Accesskeys – Is it worth it?</a></li>
+    <li><a href="https://github.com/Dkmister/historia-web-pt/issues/7">John Foliot - More reasons why we don’t use accesskeys</a></li>
+    <li><a href="https://github.com/Dkmister/historia-web-pt/issues/8">John Foliot - Accesskeys and Reserved Keystroke Combinations</a></li>
+    <li><a href="https://github.com/Dkmister/historia-web-pt/issues/9">John Foliot - Link Relationships as an Alternative to Accesskeys</a></li>
+    <li><a href="https://github.com/Dkmister/historia-web-pt/issues/10">John Foliot - The Future of Accesskeys</a></li>
   </ul>
-
-  <p class="rss-subscribe">Inscreva-se <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-  -->
 </div>

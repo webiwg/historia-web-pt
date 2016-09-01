@@ -1,7 +1,7 @@
 ---
 layout: translation
 date: 2005-04-14
-title: Long Description of W3C10 Timeline Graphic
+title: Linha do tempo de aniversário de 10 anos da W3C
 description: Description of W3C10 Timeline Graphic from pre-internet to date
 copyright: '<a href="http://www.w3.org/Consortium/Legal/ipr-notice#Copyright" shape="rect">Copyright</a> of the original
 2010 <a href="/" shape="rect"><acronym title=" World Wide Web Consortium">W3C</acronym></a><sup></sup> (<a href=" http://www.csail.mit.edu/" shape="rect"><acronym title=" Massachusetts Institute of Technology">MIT</acronym></a>, <a href="http://www.ercim.org/" shape="rect"><acronym title=" European Research Consortium for Informatics and Mathematics">ERCIM</acronym></a>,

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-permalink: /sobre/
+permalink: /sobre.html
 ---
 
 Aqui você encontra textos sobre sobre a história da web de abrangência
