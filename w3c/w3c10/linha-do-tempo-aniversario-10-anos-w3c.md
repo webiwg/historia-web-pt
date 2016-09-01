@@ -1,56 +1,70 @@
-# ![W3C](/Icons/w3c_home) Long Description of W3C10 Timeline Graphic
+---
+layout: translation
+date: 2005-04-14
+title: Long Description of W3C10 Timeline Graphic
+description: Description of W3C10 Timeline Graphic from pre-internet to date
+copyright: "Copyright © 2004-2005 W3C® (MIT, ERCIM, Keio), All Rights Reserved. W3C liability, trademark, document use and software licensing rules apply."
+license: null
+license-custom: null
+authors: null
+translator: "Vilmar Neto"
+reviewer: "Lucas de Vito"
+original: https://www.w3.org/2005/01/timelines/description
+---
 
-This [timeline graphic](timeline-2500x998.png) produced for [W3C's Tenth Anniversary Celebration](/2004/09/W3C10.html) displays the following types of information chronologically:
+# ![W3C] Long Description of W3C10 Timeline Graphic
+
+Este [gráfico temporal(timeline)](timeline-2500x998.png) produzido pela [W3C's Tenth Anniversary Celebration](/2004/09/W3C10.html) mostra cronologicamente os seguinte tipos de informação:
 
 *   [Pre-Internet, Internet, Web, W3C Event timeline](#events)
 *   [W3C Activity Creation timeline](#activities)
 *   [World Wide Web Conference location timeline](#wwwconf)
 *   [Number of Web Servers timeline](#servers)
 
-## Pre-Internet, Internet, Web, W3C Event timeline
+## Pré Internet, Internet, Web, Linha do tempo de Eventos W3C
 
-Before 1989
+Antes de 1989
 
-*   1945: [Vannevar Bush article In Atlantic Monthly](http://www.theatlantic.com/unbound/flashbks/computer/bushf.htm) about a photo-electrical mechanical device called a Memex, for memory extension, which could make and follow links between documents on microfiche
-*   1960: [J.C.R. Licklider](http://memex.org/licklider.html), <cite>Man Computer Symbiosis</cite>
-*   1962: Douglas Englebart publishes "[AUGMENTING HUMAN INTELLECT: A Conceptual Framework](http://www.bootstrap.org/augdocs/friedewald030402/augmentinghumanintellect/ahi62index.html)"
-*   1965: Ted Nelson coins the term "Hypertext" in "A File Structure for the Complex, the Changing, and the Indeterminate". 20th National Conference, New York, Association for Computing Machinery
-*   1968: Douglas Englebart demonstrates [Online System (NLS)](http://www.ibiblio.org/pioneers/englebart.html).
-*   1969: Advanced Research Projects Agency commissions ARPANET to conduct research on networking. First ARPANET nodes connected.
-*   1971: Ray Tomlinson of BBN creates email program to send messages across a distributed network.
-*   1972: Tomlinson expands program to ARPANET users, using the "@" sign as part of the address.
-*   1974: Vint Cerf and Bob Kahn publish "A Protocol for Packet Network Interconnection", which specified in detail the design of a Transmission Control Protocol (TCP).
-*   1978: Part of TCP splits off, becoming the Internet Protocol (IP).
-*   1980: While consulting for CERN, Tim Berners-Lee writes a notebook program, "Enquire-Within-Upon-Everything", which allows links to be made between arbitrary nodes.
-*   1984: Paul Mockapetris introduces Domain Name System (DNS).
+*   1945: [Artigo de Vannevar Bush na Atlantic Monthly](http://www.theatlantic.com/unbound/flashbks/computer/bushf.htm) sobre um mecanismo photo-elétrico chamado Memex, para extensão de memória, que poderia criar e seguir links entre documentos em micro-ficha.
+*   1960: [J.C.R. Licklider](http://memex.org/licklider.html), <cite>Man Computer Symbiosis</cite>.
+*   1962: Douglas Englebart publica "[AUGMENTING HUMAN INTELLECT: A Conceptual. Framework](http://www.bootstrap.org/augdocs/friedewald030402/augmentinghumanintellect/ahi62index.html)"
+*   1965: Ted Nelson cunha o termo "Hypertext" em "A File Structure for the Complex, the Changing, and the Indeterminate". 20th National Conference, Nova York, Association for Computing Machinery.
+*   1968: Douglas Englebart demonstra [Online System (NLS)](http://www.ibiblio.org/pioneers/englebart.html).
+*   1969: Advanced Research Projects Agency/ Agência de Projetos de Pesquisa Avançado concede a ARPANET a pesquisa em networking. Primeiros nodos ARPANET são conectados.
+*   1971: Ray Tomlinson da BBN cria um programa de email para enviar mensagens através da rede distribuída.
+*   1972: Tomlinson expande o programa para usuário da ARPANET, usando o símbolo "@" como parte do endereço.
+*   1974: Vint Cerf e Bob Kahn publicam "A Protocol for Packet Network Interconnection", que especificou detalhadamente o design do Protocolo de Transmissão de Controle / Transmission Control Protocol (TCP).
+*   1978: Parte do TCP se separa, tornando o Protocolo de Internet/ Internet Protocol (IP).
+*   1980:Enquanto consultor da CERN, Tim Berners-Lee escreve um programa de notebook, "Enquire-Within-Upon-Everything", que permite link sejam feitos através de nodos arbitrários.
+*   1984: Paul Mockapetris introduz o Nome de Domínio do Sistema / Domain Name System (DNS).
 
-1989 to 1993
+1989 a 1993
 
-*   Mar 1989: "[Information Management: A Proposal](http://www.w3.org/History/1989/proposal.html)" written by Tim Berners-Lee and circulated for comments at CERN.
-*   May 1990: Information Management: A proposal, version 2 published.
-*   End 1990: Development begins for first browser (called "WorldWideWeb"), editor, server, and line-mode browser. Culminates in first Web client-server communication over Internet in December 1990.
-*   Dec 1991: Hypertext '91 Conference in San Antonio, Texas (USA). TBL paper on Web only accepted as poster session.
-*   Jun 1992: TimBL visits Xerox, hosted by Larry Masinter.
-*   Aug 1992: TimBL visits MIT/LCS hosted by Karen Sollins.
-*   Dec 1992: First Web server outside of Europe set up at Stanford University.
-*   Jan 1993: Number of browsers increasing and includes Midas, Erwise, Viola, and Samba.
-*   Mar 1993: NCSA releases first alpha version of Mosaic for X Windows.
-*   Apr 1993: CERN agrees to allow anyone to use Web protocol and code royalty-free.
-*   Jun 1993: Dale Dougherty of O'Reilly hosts [WWW Wizards Workshop](http://www.w3.org/History/1994/WWW/WorkingNotes/Overview.html#z45) in Cambridge Massachusetts, USA
-*   Nov 1993: At a Newcastle, U.K. conference, Tim Berners-Lee discusses the future of the Web with MIT's David Gifford, who suggests that Tim contact Michael Dertouzos.
+*   Março de 1989: "[Information Management: A Proposal](http://www.w3.org/History/1989/proposal.html)" written by Tim Berners-Lee and circulated for comments at CERN.
+*   Maio de 1990: Information Management: A proposal, version 2 published.
+*   Final de 1990: Começa o desenvolvimento do primeiro navegador (chamado "WorldWideWeb"), editor, servidor, line-mode browser (LMB). culminando na primeira comunicação entre cliente-servidor pela Internet em dezembro de 1990.
+*   Dezembro de 1991: Hypertext '91 Conference em San Antonio, Texas, EUA. TBL paper on Web only accepted as poster session.
+*   Junho de 1992: TimBL visits Xerox, hosted by Larry Masinter.
+*   Agosto de 1992: TimBL visits MIT/LCS hosted by Karen Sollins.
+*   Dezembro de 1992: First Web server outside of Europe set up at Stanford University.
+*   Janeiro de 1993: Cresce o número de navegadores, que inclui Midas, Erwise, Viola, e Samba.
+*   Março de 1993: NCSA lança a primeira versão alfa do Mosaic para X Windows.
+*   Abril de 1993: CERN agrees to allow anyone to use Web protocol and code royalty-free.
+*   Junho de 1993: Dale Dougherty da O'Reilly sedia a [WWW Wizards Workshop](http://www.w3.org/History/1994/WWW/WorkingNotes/Overview.html#z45) em Cambridge, Massachusetts, EUA.
+*   Novembro de 1993: Em uma conferência em Newcastle, Reino Unido, Tim Berners-Lee discute o futuro da Web com David Gifford, do MIT, que sugere a Tim entrar em contato com Michael Dertouzos.
 
-1994 to 1997
+1994 a 1997
 
-*   1994: Mark Andreessen and colleagues leave NCSA to form Mosaic Communications Corp., which later became Netscape.
-*   1994: Traditional dial-up systems (CompuServe, AOL, Prodigy) begin to provide Internet access.
-*   Feb 1994: Tim Berners-Lee meets Michael Dertouzos in Zurich to discuss possibility of starting new organization at MIT
-*   Apr 1994: Alan Kotok, then at DEC, visits CERN to discuss creation of Consortium
-*   1 Oct 1994: W3C created.
-*   Apr 1995: INRIA becomes W3C Host in Europe.
-*   Jun 1995: First W3C Workshop, on Content Rating; leads to PICS.
-*   Jun 1996: In response to "Peabody meeting" W3C forms Process ERB
-*   Sep 1996: Keio University becomes W3C Host in Asia.
-*   1997: W3C publishes first W3C Recommendation for HTML — HTML 3.2.
+*   1994: Mark Andreessen e colegas saem da NCSA para formar a Mosaic Communications Corp., que depois viraria a Netscape.
+*   1994: Tradicionais sistemas dial-up (CompuServe, AOL, Prodigy) começam a disponibilizar acesso à Internet.
+*   Fevereiro de 1994: Tim Berners-Lee encontra-se com Michael Dertouzos em Zurique para discutir a possibilidade de começar uma nova organização no MIT.
+*   Abril de 1994: Alan Kotok, na época na DEC, visita o CERN para discutir a criação do Consortium.
+*   1º de outubro de 1994: W3C é criada.
+*   Abril de 1995: INRIA torna-se um servidor W3C na Europe.
+*   Junho de 1995: Primeira W3C Workshop, sobre Content Rating; leva ao PICS.
+*   Junho de 1996: Em resposta ao "Peabody meeting", a W3C forma o Processo ERB.
+*   Setembro de 1996: A Universidade Keio, em Tóquio, Japão, torna-se um servidor W3C na Asia.
+*   1997: W3C publica a primeira Recomendação W3C para HTML — HTML 3.2.
 
 ## W3C Activity Creation timeline
 
@@ -65,25 +79,25 @@ Before 1989
 *   2003: XForms
 *   2004: Compound Document Formats
 
-## World Wide Web Conference location timeline
+##Linha do tempo da localização da World Wide Web Conference
 
-*   June 1994: Geneva
-*   October 1994: Chicago
-*   April 1995: Darmstadt
-*   December 1995: Boston
-*   1996: Paris (Largest conference to date
+*   Junho de 1994: Genebra
+*   Outubro de 1994: Chicago
+*   Abril de 1995: Darmstadt
+*   Dezembro de 1995: Boston
+*   1996: Paris (maior conferência até hoje)
 *   1997: Santa Clara
 *   1998: Brisbane
 *   1999: Toronto
 *   2000: Amsterdam
 *   2001: Hong Kong
 *   2002: Honolulu
-*   2003: Budapest
-*   2004: New York
+*   2003: Budapeste
+*   2004: Nova York
 
-## Number of Web Servers timeline
+## Linha do tempo do número de web servers
 
-Source: [Hobbes' Internet Timeline v8.0](http://www.zakon.org/robert/internet/timeline/#Growth)
+Fonte: [Hobbes' Internet Timeline v8.0](http://www.zakon.org/robert/internet/timeline/#Growth)
 
 *   1991: 1
 *   1992: 10
@@ -92,13 +106,13 @@ Source: [Hobbes' Internet Timeline v8.0](http://www.zakon.org/robert/internet/ti
 *   1995: 10,022
 *   1996: 100,000
 *   1997: 603,367
-*   1998: ~1.6 million
-*   1999: ~3.7 million
-*   2000: ~9.5 million
-*   2001: ~26 million
-*   2002: ~36 million
-*   2003: ~35 million
-*   2004: more than ~46 million
+*   1998: ~1.6 milhões
+*   1999: ~3.7 milhões
+*   2000: ~9.5 milhões
+*   2001: ~26 milhões
+*   2002: ~36 milhões
+*   2003: ~35 milhões
+*   2004: Superior a ~46 milhões
 
 * * *
 
