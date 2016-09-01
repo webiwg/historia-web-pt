@@ -3,16 +3,23 @@ layout: translation
 date: 2005-04-14
 title: Long Description of W3C10 Timeline Graphic
 description: Description of W3C10 Timeline Graphic from pre-internet to date
-copyright: "Copyright © 2004-2005 W3C® (MIT, ERCIM, Keio), All Rights Reserved. W3C liability, trademark, document use and software licensing rules apply."
-license: null
+copyright: '<a href="http://www.w3.org/Consortium/Legal/ipr-notice#Copyright" shape="rect">Copyright</a> of the original
+2010 <a href="/" shape="rect"><acronym title=" World Wide Web Consortium">W3C</acronym></a><sup></sup> (<a href=" http://www.csail.mit.edu/" shape="rect"><acronym title=" Massachusetts Institute of Technology">MIT</acronym></a>, <a href="http://www.ercim.org/" shape="rect"><acronym title=" European Research Consortium for Informatics and Mathematics">ERCIM</acronym></a>,
+<a href="http://www.keio.ac.jp/" shape="rect">Keio</a>),
+All Rights Reserved. Translated by <acronym title="Web Independent Working Group">WebIWG</acronym>.
+W3C <a href="http://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer" shape="rect">liability</a>, <a href="http://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks" shape="rect">trademark</a> and <a rel="Copyright" href=" http://www.w3.org/Consortium/Legal/copyright-documents" shape="rect">document use</a> rules
+apply for the original and the translation.</p>'
+license: "W3C Software License"
 license-custom: null
-authors: null
+authors: ["W3C Communications Team"]
 translator: "Vilmar Neto"
 reviewer: "Lucas de Vito"
-original: https://www.w3.org/2005/01/timelines/description
+original: {
+    title: "Long Description of W3C10 Timeline Graphic",
+    link: "https://www.w3.org/2005/01/timelines/description",
+    dateOfTranslation: "2016-10-31"
+}
 ---
-
-# ![W3C] Long Description of W3C10 Timeline Graphic
 
 Este [gráfico temporal(timeline)](timeline-2500x998.png) produzido pela [W3C's Tenth Anniversary Celebration](/2004/09/W3C10.html) mostra cronologicamente os seguinte tipos de informação:
 
@@ -79,7 +86,7 @@ Antes de 1989
 *   2003: XForms
 *   2004: Compound Document Formats
 
-##Linha do tempo da localização da World Wide Web Conference
+## Linha do tempo da localização da World Wide Web Conference
 
 *   Junho de 1994: Genebra
 *   Outubro de 1994: Chicago
@@ -113,10 +120,3 @@ Fonte: [Hobbes' Internet Timeline v8.0](http://www.zakon.org/robert/internet/tim
 *   2002: ~36 milhões
 *   2003: ~35 milhões
 *   2004: Superior a ~46 milhões
-
-* * *
-
-<address>[Communications Team](mailto:w3t-comm@w3.org)
-last revised $Date: 2005/04/14 04:16:09 $ by $Author: ijacobs $</address>
-
-[Copyright]( http://www.w3.org/Consortium/Legal/ipr-notice#Copyright) © 2004-2005 [<acronym title=" World Wide Web Consortium">W3C</acronym>](/)<sup>®</sup> ([<acronym title=" Massachusetts Institute of Technology">MIT</acronym>]( http://www.csail.mit.edu/), <a class="colora"><acronym title=" European Research Consortium for Informatics and Mathematics">ERCIM</acronym></a>, [Keio](http://www.keio.ac.jp/)), All Rights Reserved. W3C [liability](/Consortium/Legal/ipr-notice#Legal_Disclaimer), [trademark](/Consortium/Legal/ipr-notice#W3C_Trademarks), [document use]( /Consortium/Legal/copyright-documents) and [software licensing](/Consortium/Legal/copyright-software) rules apply. Your interactions with this site are in accordance with our [public]( /Consortium/Legal/privacy-statement#Public) and [Member]( /Consortium/Legal/privacy-statement#Members) privacy statements.
