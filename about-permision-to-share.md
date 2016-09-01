@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About permision to share
-permalink: /about-permision-to-share/
+permalink: /about-permision-to-share.html
 ---
 
 # About permision to share

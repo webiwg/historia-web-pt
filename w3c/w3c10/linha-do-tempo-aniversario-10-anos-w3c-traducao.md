@@ -1,5 +1,6 @@
 ---
 layout: translation
+date: 2005-04-14
 title: Long Description of W3C10 Timeline Graphic
 description: Description of W3C10 Timeline Graphic from pre-internet to date
 copyright: "Copyright © 2004-2005 W3C® (MIT, ERCIM, Keio), All Rights Reserved. W3C liability, trademark, document use and software licensing rules apply."
@@ -78,7 +79,7 @@ Antes de 1989
 *   2003: XForms
 *   2004: Compound Document Formats
 
-##Linha do tempo da localização da World Wide Web Conference 
+##Linha do tempo da localização da World Wide Web Conference
 
 *   Junho de 1994: Genebra
 *   Outubro de 1994: Chicago
