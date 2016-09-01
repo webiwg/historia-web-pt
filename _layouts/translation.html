@@ -6,14 +6,13 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</time>
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{% include date-portugues.html date=page.date %}</time>
       {% if page.authors %} • Autoria de <strong itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.authors }}</span></strong>{% endif %}
       {% if page.translator %} • Traduzido por <strong>{{ page.translator }}</strong>{% endif %}
-      {% if page.revisor %} • Revisado por <strong>{{ page.revisor }}</strong>{% endif %}
+      {% if page.reviewers %} • Revisado por <strong>{{ page.reviewers }}</strong>{% endif %}
     </p>
     {% if page.original %}
-    <p class="post-meta">Original: <a href="{{ page.original.link }}">{{ page.original.title }}</a> obtida em {{ page.original.dateOfTranslation | date: "%Y-%m-%d" }}
-
+    <p class="post-meta">Original: <a href="{{ page.original.link }}">{{ page.original.title }}</a> obtida em {% include date-portugues.html date=page.original.dateOfTranslation %}
 
     </p>
     {% endif %}

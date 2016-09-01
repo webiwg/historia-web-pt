@@ -12,8 +12,8 @@ apply for the original and the translation.</p>'
 license: "W3C Software License"
 license-custom: null
 authors: ["W3C Communications Team"]
-translator: "Vilmar Neto"
-reviewer: "Lucas de Vito"
+translators: "Vilmar Neto"
+reviewers: "Lucas de Vito"
 original: {
     title: "Long Description of W3C10 Timeline Graphic",
     link: "https://www.w3.org/2005/01/timelines/description",
