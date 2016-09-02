@@ -48,15 +48,15 @@ Antes de 1989
 1989 a 1993
 
 *   Março de 1989: "[Information Management: A Proposal](http://www.w3.org/History/1989/proposal.html)" written by Tim Berners-Lee and circulated for comments at CERN.
-*   Maio de 1990: Information Management: A proposal, version 2 published.
+*   Maio de 1990: Information Management: A proposal, 2ª versão publicada.
 *   Final de 1990: Começa o desenvolvimento do primeiro navegador (chamado "WorldWideWeb"), editor, servidor, line-mode browser (LMB). culminando na primeira comunicação entre cliente-servidor pela Internet em dezembro de 1990.
 *   Dezembro de 1991: Hypertext '91 Conference em San Antonio, Texas, EUA. TBL paper on Web only accepted as poster session.
-*   Junho de 1992: TimBL visits Xerox, hosted by Larry Masinter.
-*   Agosto de 1992: TimBL visits MIT/LCS hosted by Karen Sollins.
-*   Dezembro de 1992: First Web server outside of Europe set up at Stanford University.
+*   Junho de 1992: TimBL visita Xerox, anfitriado por Larry Masinter.
+*   Agosto de 1992: TimBL visita MIT/LCS , anfitriada por Karen Sollins.
+*   Dezembro de 1992: Primeiro Web server fora da Europa estabelecido na Stanford University.
 *   Janeiro de 1993: Cresce o número de navegadores, que inclui Midas, Erwise, Viola, e Samba.
 *   Março de 1993: NCSA lança a primeira versão alfa do Mosaic para X Windows.
-*   Abril de 1993: CERN agrees to allow anyone to use Web protocol and code royalty-free.
+*   Abril de 1993: CERN concorda em permitir a qualquer um o uso de Web protocol e code royalty-free.
 *   Junho de 1993: Dale Dougherty da O'Reilly sedia a [WWW Wizards Workshop](http://www.w3.org/History/1994/WWW/WorkingNotes/Overview.html#z45) em Cambridge, Massachusetts, EUA.
 *   Novembro de 1993: Em uma conferência em Newcastle, Reino Unido, Tim Berners-Lee discute o futuro da Web com David Gifford, do MIT, que sugere a Tim entrar em contato com Michael Dertouzos.
 
