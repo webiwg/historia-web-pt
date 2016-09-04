@@ -20,10 +20,18 @@ description: >
   Aqui você encontra textos sobre sobre a história da web de abrangência
   mundial e específicas do Brasil no idioma português, inclusive contemporânea.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://historia.pt.webiwg.org" # the base hostname & protocol for your site
+url: "http://historia.pt.webiwg.org" # url completa para o site. NÃO termine com barra
 twitter_username: WebIWG
 github_username:  WebIWG
+
+# Usado por jekyll-seo-tag
+author:
+  twitter: webiwg
 
 # Build settings
 markdown: kramdown
 theme: minima
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
