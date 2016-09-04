@@ -6,12 +6,14 @@ Mais do que apenas citar uma linha de acontecimentos, o objetivo é ir um pouco
 além e servir de base para interessados entenderem como chegamos até aqui, e
 potencialmente **inspirar ações que melhorem o futuro**.
 
-O projeto é coordenado por [Vilmar Neto @Dkmister](https://github.com/Dkmister).
+O projeto é coordenado por [Vilmar Neto](https://github.com/Dkmister).
+O site publicado está em [http://historia.pt.webiwg.org/](http://historia.pt.webiwg.org/)
+e seu código fonte em [https://github.com/webiwg/historia-web-pt](https://github.com/webiwg/historia-web-pt).
 
 ## Sobre o conteúdo desde repositório
-- A fonte original já não deve ter versão confiável, de fácil acesso e bem 
+- A fonte original já não deve ter versão confiável, de fácil acesso e bem
 - conhecida em também em português
-- Explicitamente, padrões técnicos (que provavelmente já tem tradução) não 
+- Explicitamente, padrões técnicos (que provavelmente já tem tradução) não
 serão incluídos aqui
 - Textos com **grande** volume podem não ser incluídos; sem problemas adição
 apenas de partes relevantes

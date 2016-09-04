@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://historia.pt.webiwg.org" # url completa para o site. NÃO termine com barra
 twitter_username: WebIWG
 github_username:  WebIWG
+github_repository: webiwg/historia-web-pt
 
 # Usado por jekyll-seo-tag
 author:
