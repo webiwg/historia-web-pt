@@ -30,27 +30,21 @@ isDraft: true
 discussion: https://github.com/webiwg/historia-web-pt/issues/5
 ---
 
-[1950s](#1950s) | [1960s](#1960s) | [1970s](#1970s) | [1980s](#1980s) | [1990s](#1990s) | [2000s](#2000s) | [2010s](#2010s) | [Growth](#Growth) | [FAQ](#FAQ) | [Sources](#Sources)
+<!-- Geração automática de índice, inicio -->
 
 
+## Índice de tópicos
+{:.no_toc}
 
-## Hobbes' Internet Timeline 23
+1. Indice de Tópicos. Esta linha será substituída
+{:toc}
 
-by [Robert H'obbes' Zakon](http://www.zakon.org/) with support from
-[Zakon Group LLC](http://www.ZakonGroup.com) and [OpenConf](http://www.OpenConf.com)
 
-* * *
+<!-- Geração automática de índice, fim -->
 
-Interested in having Hobbes speak on the history of Internet technology and innovation at your event?
-_email hobbes –at– zakon.org_
+## Por década
 
-* * *
-
-**Hobbes' Internet Timeline Copyright (c)1993-2016 by Robert H Zakon.** Permission is granted for use of this document in whole or in part for non-commercial purposes as long as this Copyright notice and a link to this document, at the archive listed at the end, is included. A copy of the material the Timeline appears in is requested. For commercial uses, please contact the author first. Links to this document are welcome after e-mailing the author with the document URL where the link will appear. Hosting of the Timeline on other public Internet sites is not permitted.
-
-* * *
-
-### <a name="1950s">1950s</a>
+### 1950s
 
 <dl>
 
@@ -62,7 +56,7 @@ _email hobbes –at– zakon.org_
 
 * * *
 
-### <a name="1960s">1960s</a>
+### 1960s
 
 
 <dl>
@@ -196,7 +190,7 @@ _email hobbes –at– zakon.org_
 
 
 
-### <a name="1970s">1970s</a>
+### 1970s
 
 
 
@@ -334,7 +328,7 @@ _email hobbes –at– zakon.org_
 
 
 
-### <a name="1980s">1980s</a>
+### 1980s
 
 
 
@@ -544,7 +538,7 @@ _email hobbes –at– zakon.org_
 
 
 
-### <a name="1990s">1990s</a>
+### 1990s
 
 
 
@@ -988,7 +982,7 @@ _email hobbes –at– zakon.org_
 
 
 
-### <a name="2000s">2000s</a>
+### 2000s
 
 
 
@@ -1311,7 +1305,7 @@ _email hobbes –at– zakon.org_
 
 
 
-### <a name="2010s">2010s</a>
+### 2010s
 
 
 
@@ -1491,14 +1485,12 @@ _email hobbes –at– zakon.org_
 
 * * *
 
-**_<font face="arial,helvetica,sans-serif">If you enjoy the Timeline or make use of it in some way, please [let me know](contributions.html)._**
+**_If you enjoy the Timeline or make use of it in some way, please [let me know](contributions.html)._**
 
 * * *
 
 
-
-### <a name="Growth">Growth</a>
-
+## Growth
 
 
 **Early Internet growth:**
@@ -1640,11 +1632,7 @@ _email hobbes –at– zakon.org_
 
 * * *
 
-
-
-### <a name="FAQ">Hobbes' Internet Timeline FAQ</a>
-
-
+## Hobbes' Internet Timeline FAQ
 
 <dl>
 
@@ -1684,9 +1672,7 @@ If you are interested in translating to another language or format, email me fir
 
 
 
-### <a name="Sources">Sources</a>
-
-
+## Sources
 
 <pre>Hobbes' Internet Timeline was compiled from a number of sources, with some
 of the stand-outs being:
