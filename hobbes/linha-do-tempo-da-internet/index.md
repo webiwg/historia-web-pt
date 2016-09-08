@@ -718,332 +718,223 @@ discussion: https://github.com/webiwg/historia-web-pt/issues/5
 * * *
 
 
-
 ### 2000s
 
+2000
+:  The US timekeeper (USNO) and a few other time services around the world report the new year as 19100 on 1 Jan
+:  A massive denial of service attack is launched against major web sites, including Yahoo, Amazon, and eBay in early February
+:  Web size estimates by NEC-RI and Inktomi surpass 1 billion indexable pages
+:  ICANN redelegates the .pn domain, returning it to the Pitcairn Island community (February)
+:  Internet2 backbone network deploys IPv6 (16 May)
+:  Various domain name hijackings took place in late May and early June, including internet.com, bali.com, and web.net
+:  A testbed allowing the registration of domain names in Chinese, Japanese, and Korean begins operation on 9 November.
+   This testbed, created by VeriSign without IETF authorization, only allows the second-level domain to be non-English, still forcing use of .com, .net, .org.
+   The Chinese government blocks internal registrations, stating that registrations in Chinese are its sovereignty right
+:  ICANN selects new TLDs: .aero, .biz, .coop, .info, .museum, .name, .pro (16 Nov)
+:  Mexico's connection to Internet2 becomes fully operational as the California research network (CalREN-2) is connected with Mexico's Corporación Universitaria para el Desarrollo de Internet (CUDI) network.
+  Though connected in November, the link's inauguration by California's Governor and Mexico's President was not until March of 2001.
+:  After months of legal proceedings, the French court rules Yahoo! must block French users from accessing hate memorabilia in its auction site (Nov).
+   Given its inability to provide such a block on the Internet, Yahoo! removes those auctions entirely (Jan 2001).
+   The case is eventually thrown out (Feb 2003).
+:  The European Commission contracts with a consortium of 30 national research networks for the development of Géant,
+   Europe's new gigabit research network meant to enhance the current capability provided by TEN-155 (6 Nov)
+:  Australian government endorses the transfer of authority for the .au domain to auDA (18 Dec).
+   ICANN signs over control to auDA on 26 Oct 2001.
+:  US$1M+ Domain Sales: AsSeenOnTV.com (5.1M)
+:  RFC 2795: [The Infinite Monkey Protocol Suite](http://www.ietf.org/rfc/rfc2795.txt)
+:  _Hacks of the Year:_ RSA Security (Feb), Apache (May), Western Union (Sep), Microsoft (Oct)
+:  _Technologies of the Year:_ ASP, Napster
+:  _Emerging Technologies:_ Wireless devices, IPv6
+:  _Viruses of the Year:_ [Love Letter](http://www.cert.org/advisories/CA-2000-04.html) (May)
+:  _Lawsuits of the Year:_ Napster, DeCSS
 
+2001
+:  The first live distributed musical -- _The Technophobe & The Madman_ -- over Internet2 networks debuts on 20 Feb
+:  VeriSign extends its multilingual domain testbed to encompass various European languages (26 Feb),
+   and later the full Unicode character set (5 Apr) opening up most of the world's languages
+:  Forwarding email in Australia becomes illegal with the passing of the Digital Agenda Act,
+   as it is seen as a technical infringement of personal copyright (4 Mar)
+:  Radio stations broadcasting over the Web go silent over actor royalty disputes (10 Apr)
+:  High schools in five states (Michigan, Missouri, Oregon, Virginia, and Washington) become the first to gain Internet2 access
+:  US Dept of Commerce issues a notice of intent on 6 April to turn over management for the .edu domain from VeriSign to [Educause](http://www.educause.edu/).
+   Award agreement is reached on 29 October. Community colleges will finally be able to register under .edu
+:  Napster keeps finding itself embroiled in litigation and is eventually forced to suspend service;
+   it comes back later in the year as a subscription service
+:  European Council finalizes an international cybercrime treaty on 22 June and adopts it on 9 November.
+   This is the first treaty addressing criminal offenses committed over the Internet.
+:  .biz and .info are added to the root server on 27 June with registrations beginning in July.
+   .biz domain go live on 7 Nov.
+:  Afghanistan's Taliban bans Internet access country-wide, including from Government offices,
+   in an attempt to control content (13 Jul)
+:  Code Red worm and Sircam virus infiltrate thousands of web servers and email accounts,
+   respectively, causing a spike in Internet bandwidth usage and security breaches (July)
+:  A fire in a train tunnel running through Baltimore,
+   Maryland seriously damages various fiber-optic cable bundles used by backbone providers,
+   disrupting Internet traffic in the Mid-Atlantic states and creating a ripple effect across the US (18 Jul)
+:  Brazil RNP2 is connected to Internet2's Abilene over 45Mbps line (21 Aug)
+:  GÉANT, the pan-European Gigabit Research and Education Network,
+   becomes operational (23 Oct), replacing the TEN-155 network which was closed down (30 Nov)
+:  .museum begins resolving (Nov)
+:  First uncompressed real-time gigabit HDTV transmission across a wide-area IP network takes place on Internet2 (12 Nov).
+:  Dutch SURFnet and Internet2's Abilene connect via gigabit ethernet (15 Nov)
+:  .us domain operational responsibility assumed by NeuStar (20 Nov)
+:  US$1M+ Domain Sales: Insure.com (16.M in Dec)
+:  RFC 3091: [Pi Digit Generation Protocol](http://www.ietf.org/rfc/rfc3091.txt)
+:  RFC 3092: [Etymology of "Foo"](http://www.ietf.org/rfc/rfc3092.txt)
+:  RFC 3093: [Firewall Enhancement Protocol (FEP)](http://www.ietf.org/rfc/rfc3093.txt)
+:  _Viruses of the Year:_ Code Red (Jul), Nimda (Sep), SirCam (Jul), BadTrans (Apr, Nov)
+:  _Emerging Technologies:_ Grid Computing, P2P
+
+2002
+:  US ISP Association (USISPA) is created from the former CIX (11 Jan)
+:  .name begins resolving (15 Jan)
+:  .coop registrations begin (30 Jan)
+:  Global Terabit Research Network (GTRN) is formed composed of two OC-48 2.4GB circuits connecting Internet2 Abiline, CANARIE CA*net3, and GÉANT (18 Feb)
+:  .aero registrations begin 18 March and beings resolving 2 September
+:  Federally recognized US Indian tribes become eligible to register under .gov (26 Apr)
+:  Hundreds of Internet radio stations observe a _Day of Silence_ in protest of proposed song royalty rate increases (1 May)
+:  The highest wi-fi network in the northeast US is deployed by this Timeline's author. The solar-powered network bridges Mounts Washington and Wildcat in New Hampshire
+:  Abilene (Internet2) backbone deploys native IPv6 (5 Aug)
+:  The 69/8 IP range is allocated to ARIN in August after having been in the [bogon](http://www.cymru.com/Documents/bogon-list.html) list;
+   users and servers assigned a 69/8 address find themselves blocked from many Internet sites
+:  Internet2 now has 200 university, 60 corporate, and 40 affiliate members (2 Sep)
+:  Having your own Blog becomes hip
+:  Hundreds of Spain-based web sites take their content offline in protest of a new law that took effect on 12 Oct requiring all commercial Web sites to register with the government
+:  A distributed denial of service (DDoS) attack struck the 13 DNS root servers knocking out all but 5 (21-23 Oct).
+   Amidst national security concerns, VeriSign hastens a planned relocation of one of its two DNS root servers
+:  A new US law creates a kids-safe "dot-kids" domain (kids.us) to be implemented in 2003 (3 Dec)
+:  The FBI teams up with Terras Lycos to disseminate virtual wanted posts across the Web portal's properties (11 Dec)
+:  RFC 3251: [Electricity over IP](http://www.ietf.org/rfc/rfc3251.txt)
+:  RFC 3252: [Binary Lexical Octet Ad-hoc Transport](http://www.ietf.org/rfc/rfc3252.txt)
+
+2003
+:  Public Interest Registry (PIR) takes over as .org registry operator on 1 Jan. Transition is completed on 27 Jan. By giving up .org, VeriSign is able to retain control over .com domains
+:  The first official Swiss online election takes place in Anières (7 Jan)
+:  The registration for domain ogrish.com is deleted (11 Jan) by the German registrar Joker.com at the request of a German prosecutor claiming objectionable content;
+   the site however is hosted in the United States and complies with US laws.
+:  The SQL Slammer worm causes one of the largest and fastest spreading DDoS attacks ever.
+   Taking roughly 10 minutes to spread worldwide,
+   the worm took down 5 of the 13 DNS root servers along with tens of thousands of other servers,
+   and impacted a multitude of systems ranging from (bank) ATM systems to air traffic control to emergency (911) systems (25 Jan).
+   This is followed in August by the Sobig.F virus (19 Aug), the fastest spreading virus ever,
+   and the Blaster (MSBlast) worm (11 Aug), another one of the most destructive worms ever
+:  k.root-servers.net changes to using nsd vs. bind to increase diversity of software in the root name server system (19 Feb)
+:  .nl registrations open up to anyone, including individuals and foreigners (29 Jan); .se also opens up its registration in April.
+:  .af is [redelegated](http://www.iana.org/reports/af-report-08jan03.htm) on 8 Jan and becomes live once again on 12 Feb with UNDP technical assistance. First domains are moc.gov.af and undp.org.af (15 Feb)
+:  .pro sunrise registration begins 23 Apr under .cpa.pro, .law.pro, .med.pro
+:  Flash mobs, organized over the Net, start in New York and quickly form in cities worlwide
+:  Taxes make headlines as: larger US Internet retailers begin collecting taxes on all purchases;
+   some US states tax Internet bandwidth;
+   and the EU requires all Internet companies to collect value added tax (VAT) on digital downloads starting 1 July
+:  The French Ministry of Culture bans the use of the word "e-mail" by government ministries,
+   and adopts the use of the more French sounding "courriel" (Jul)
+:  KRNIC begins offering Hangeul.kr domains (19 Aug)
+:  .kids.us sunrise registration begins 17 June and public registration on 9 Sep
+:  The Recording Industry Association of America (RIAA) sues 261 individuals on 8 Sep for allegedly distributing copyright music files over peer-to-peer networks
+:  VeriSign deploys a wildcard service (Site Finder) into the .com and .net TLDs causing much confusion as URLs with invalid domains are redirected to a VeriSign page (15 Sep).
+   ICANN orders VeriSign to stop the service, which they comply with on 4 Oct
+:  Last Abilene segment upgraded to 10Gbps (5 Nov)
+:  National LambdaRail announced as a new US R&D networking infrastructure (16 Sep).
+  The first connection takes place between Pittsburgh Supercomputing Center (PSC) and Extensible Terascale Facility (ETF) in Chicago (18 Nov)
+:  [Little GLORIAD](http://www.gloriad.org) (Global Ring Network for Advanced Application Development)
+   starts operations (22 Dec), consisting of a networked ring across the northern hemisphere with connections in Chicago, Amsterdam, Moscow, Novosibirsk, Zabajkal'sk, Manzhouli, Beijing, and Hong Kong.
+   This is the first-ever fiber network connections across the Russia-China border
+:  RFC 3514: [The Security Flag in the IPv4 Header](http://www.ietf.org/rfc/rfc3514.txt) (The Evil Bit)
+
+2004
+:  For the first time, there are more instances of DNS root servers outside the US with the launch of an anycast instance of the RIPE NCC operated [K-root server](http://k.root-servers.org)
+:  Abiline, the Internet2 backbone, upgrade from 2.5Gbps to 10Gbps is completed (4 Feb)
+:  Thefacebook launches (4 Feb)
+:  Network Solutions begins offering 100 year domain registration (24 Mar)
+:  One of the .ly nameservers stops responding (7 Apr) causing the other nameserver to go offline (9 Apr), making the domain inaccessible. Service is restored 13 Apr
+:  ICANN authorizes new gTLDs: .asia, .cat, .jobs, .mobi, .tel, and .travel
+:  VeriSign Naming and Directory Service (VNDS) begins updating all 13 .com/.net authoritative name servers in near real-time vs. twice each day (8 Sep)
+:  Lycos Europe releases a screen saver to help fight spam by keeping spam servers busy with requests (1 Dec).
+   The service is discontinued within a few days after backbone providers block access to the download site and the service causes some servers to crash.
+:  Verizon begins blocking all email traffic from European ISPs on 22 Dec in an attempt to abate spam from the region into its US network
+:  CERNET2, the first backbone IPv6 network in China,
+  is launched by the China Education and Research Network (CERN) connecting 25 universities in 20 cities at speeds of 1-10Gbps (27 Dec)
+:  US$1M+ Domain Sales: CreditCards.com (2.75M)
+:  _Emerging Technologies:_ Social networking, Web mashups
+:  RFC 3751: [Omniscience Protocol Requirements](http://www.ietf.org/rfc/rfc3751.txt)
+
+2005
+:  .jobs, .mobi, and .travel begin accepting registrations
+:  .se becomes the first ccTLD to implement DNSSEC
+:  Estonia offers Internet voting nationally for local elections
+:  Pakistan suffers a near complete Internet outage as a submarine cable becomes defective (Jun)
+:  Two feuding providers (Cogent, Level 3) sever their peering connection resulting in many customers from one provider not being able to access resources on the other's network (Oct)
+:  Number of Internet users reaches 1 Billion (Oct)
+:  .eu (European Union) launches on 7 Dec
+:  US$1M+ Domain Sales: Fish.com (1.02M)
+:  RFC 4041: [Requirements for Morality Sections in Routing Area Drafts](http://www.ietf.org/rfc/rfc4041.txt)
+:  RFC 4042: [UTF-9 and UTF-18 Efficient Transformation Formats of Unicode](http://www.ietf.org/rfc/rfc4042.txt)
+
+2006
+:  .cat registrations begin for Catalan-related domains
+:  Zimbabwe looses most of its Internet access after its satellite connectivity is cut by the provider for non-payment
+:  ICANN lifts price controls on .biz, .info, and .org domain names, after the same was done for .net in 2005, raising fears of tiered pricing where popular domains would cost more
+:  US Government prohibits private (anonymized) domain registrations for .us after 26 Jan
+:  First tweet is sent out by Jack Dorsey (21 Mar) -- "just setting up my twttr"
+:  ICANN board votes against .xxx TLD (10 May), only to approve it five years later
+:  The 6bone, an IPv6 testbed, is phased out after 10 years operation (6 Jun)
+:  .ax (Åland Islands) ccTLD comes into service on 15 Aug
+:  .cm registry implements wildcard domains redirecting all .com typos to its own page (Aug)
+:  Internet2 connectivity begins switching from Abilene to its new network (Nov)
+:  Internet connectivity to southeast Asia is severely limited after major fiber optic lines are severely damaged by an earthquake in Taiwan and subsequent underwater muslides (Dec)
+:  US$1M+ Domain Sales: Sex.com (14M?), Diamond.com (7.5M), Vodka.com (3M), Cameras.com (1.5M)
+:  _Emerging Technologies:_ Cloud computing
+
+2007
+:  ICANN drops .um domain name (US minor outlying islands) for lack of use (Jan)
+:  Estonia offers the first online national parliamentary elections on 26-28 Feb
+:  ICANN terminates RegisterFly.com's registrar status on 16 Mar (effective 31 Mar)
+:  Internet2 traffic in the Northeast US is disrupted on 1 May when a homeless man starts a fire under a Boston bridge causing a fiber break
+:  Use of #hashtag proposed by Tweeter user number 1,186, Chris Messina (23 Aug)
+:  Internet2's Abilene network is retired (Sep) as the last connections are switched over to the new Level 3 network
+:  Internet2 completes US East to West coast span of its 100GB/s network on 9 Oct
+:  .asia sunrise period begins in October
+:  US$1M+ Domain Sales: Porn.com (9.5M), Computer.com (2.1M), Seniros.com (1.8M),
+   Tandberg.com (1.5M), Scores.com, Vista.com (1.25M), Chinese.com (1.12M), Guy.com (1M), Topix.com (1M)
+:  RFC 4824: [The Transmission of IP Datagrams over the Semaphore Flag Signaling System (SFSS)](http://www.ietf.org/rfc/rfc4824.txt)<
+
+2008
+:  NASA successfully tests the first deep space communications network modeled on the Internet,
+   using the Disruption-Tolerant Networking (DTN) software to transmit images
+   to/from a science spacecraft ~20 million miles above Earth
+:  Google's crawler reaches 1 trillion pages, although only a fraction are indexed by the search engine.
+  For comparison, Google's original index had 26 million pages in 1998, and reached 1 billion in 2000
+:  The Middle East, India, and other parts of Africa and Asia see a major degradation in Internet service,
+   including outages, after several undersea cables carrying Internet traffic to the region are cut within 1 week (Jan-Feb)
+:  IPv6 addresses are added for the first time to 6 of the root zone servers (4 Feb)
+:  YouTube becomes unreacheable for a couple of hours after Pakistan Telecom starts an unauthorized announcement of YouTube's subnet prefix (24 Feb)
+:  US$1M+ Domain Sales: Fund.com (9.9M), Clothes.com (4.9M), Shopping.de (2.8M), Kredit.de (1.17M), Cruises.co.uk (1.09M), Invest.com (1.01M)
+:  RFC 5241: [Naming Rights in IETF Protocols](http://www.ietf.org/rfc/rfc5241.txt)
+:  RFC 5242: [A Generalized Unified Character Code: Western European and CJK Sections](http://www.ietf.org/rfc/rfc5242.txt)
+
+2009
+:  DNSSEC becomes operational on .gov (28 Feb), .org (2 Jun), .us (15 Dec)
+:  .tel registrations begin
+:  Bitcoins start being minted
+:  US Department of Commerce relaxes control over ICANN, in favor of a multi-national oversight group
+:  Domain tasting gets severely curtailed after ICANN raises the 2008-introduced fee for erroneously registered domains from $0.20 to $6.95; domain kiting however conitnues
+:  Twitter is asked by the US Government to delay planned maintenance of its service on 15 June as a result of heavy use by Iranian users during unrest in that country
+:  .se domains become unreachable for an hour on 12 Oct after an incorrectly configured software update modifies all registrations
+:  ICANN opens up applications for internationalized domain names (16 Nov)
+:  Crowdfunding becomes a popular means of raising startup funds; Kickstart founded on April 28
+:  _Emerging Technologies:_ Location awareness
+:  US$1M+ Domain Sales: Insure.com (16M in Oct), Toys.com (5.1M in Feb),
+   Auction.com (1.7M in Mar), Candy.com (3M in Jun),
+   Webcam.com (1.02M in Jun), Fly.com (1.76M), Call.com (1.1M in Sep),
+   Ticket.com (1.53M in Oct), Russia.com (1.5M in Dec)
+:  RFC 5513: [IANA Considerations for Three Letter Acronyms](http://www.ietf.org/rfc/rfc5513.txt)
+:  RFC 5514: [IPv6 over Social Networks](http://www.ietf.org/rfc/rfc5514.txt)
+{: .dl-traducao}
 
 <dl>
 
-<dt>**2000**</dt>
-
-<dd>The US timekeeper (USNO) and a few other time services around the world report the new year as 19100 on 1 Jan</dd>
-
-<dd>A massive denial of service attack is launched against major web sites, including Yahoo, Amazon, and eBay in early February</dd>
-
-<dd>Web size estimates by NEC-RI and Inktomi surpass 1 billion indexable pages</dd>
-
-<dd>ICANN redelegates the .pn domain, returning it to the Pitcairn Island community (February)</dd>
-
-<dd>Internet2 backbone network deploys IPv6 (16 May)</dd>
-
-<dd>Various domain name hijackings took place in late May and early June, including internet.com, bali.com, and web.net</dd>
-
-<dd>A testbed allowing the registration of domain names in Chinese, Japanese, and Korean begins operation on 9 November. This testbed, created by VeriSign without IETF authorization, only allows the second-level domain to be non-English, still forcing use of .com, .net, .org. The Chinese government blocks internal registrations, stating that registrations in Chinese are its sovereignty right</dd>
-
-<dd>ICANN selects new TLDs: .aero, .biz, .coop, .info, .museum, .name, .pro (16 Nov)
-</dd>
-
-<dd>Mexico's connection to Internet2 becomes fully operational as the California research network (CalREN-2) is connected with Mexico's Corporación Universitaria para el Desarrollo de Internet (CUDI) network. Though connected in November, the link's inauguration by California's Governor and Mexico's President was not until March of 2001.</dd>
-
-<dd>After months of legal proceedings, the French court rules Yahoo! must block French users from accessing hate memorabilia in its auction site (Nov). Given its inability to provide such a block on the Internet, Yahoo! removes those auctions entirely (Jan 2001). The case is eventually thrown out (Feb 2003).</dd>
-
-<dd>The European Commission contracts with a consortium of 30 national research networks for the development of Géant, Europe's new gigabit research network meant to enhance the current capability provided by TEN-155 (6 Nov)</dd>
-
-<dd>Australian government endorses the transfer of authority for the .au domain to auDA (18 Dec). ICANN signs over control to auDA on 26 Oct 2001.</dd>
-
-<dd>US$1M+ Domain Sales: AsSeenOnTV.com (5.1M)</dd>
-
-<dd>RFC 2795: [The Infinite Monkey Protocol Suite](http://www.ietf.org/rfc/rfc2795.txt)</dd>
-
-<dd>_Hacks of the Year:_ RSA Security (Feb), Apache (May), Western Union (Sep), Microsoft (Oct)</dd>
-
-<dd>_Technologies of the Year:_ ASP, Napster</dd>
-
-<dd>_Emerging Technologies:_ Wireless devices, IPv6</dd>
-
-<dd>_Viruses of the Year:_ [Love Letter](http://www.cert.org/advisories/CA-2000-04.html) (May)</dd>
-
-<dd>_Lawsuits of the Year:_ Napster, DeCSS</dd>
-
-<dt>**2001**</dt>
-
-<dd>The first live distributed musical -- _The Technophobe & The Madman_ -- over Internet2 networks debuts on 20 Feb</dd>
-
-<dd>VeriSign extends its multilingual domain testbed to encompass various European languages (26 Feb), and later the full Unicode character set (5 Apr) opening up most of the world's languages</dd>
-
-<dd>Forwarding email in Australia becomes illegal with the passing of the Digital Agenda Act, as it is seen as a technical infringement of personal copyright (4 Mar)</dd>
-
-<dd>Radio stations broadcasting over the Web go silent over actor royalty disputes (10 Apr)</dd>
-
-<dd>High schools in five states (Michigan, Missouri, Oregon, Virginia, and Washington) become the first to gain Internet2 access</dd>
-
-<dd>US Dept of Commerce issues a notice of intent on 6 April to turn over management for the .edu domain from VeriSign to [Educause](http://www.educause.edu/). Award agreement is reached on 29 October. Community colleges will finally be able to register under .edu</dd>
-
-<dd>Napster keeps finding itself embroiled in litigation and is eventually forced to suspend service; it comes back later in the year as a subscription service</dd>
-
-<dd>European Council finalizes an international cybercrime treaty on 22 June and adopts it on 9 November. This is the first treaty addressing criminal offenses committed over the Internet.</dd>
-
-<dd>.biz and .info are added to the root server on 27 June with registrations beginning in July. .biz domain go live on 7 Nov.</dd>
-
-<dd>Afghanistan's Taliban bans Internet access country-wide, including from Government offices, in an attempt to control content (13 Jul)</dd>
-
-<dd>Code Red worm and Sircam virus infiltrate thousands of web servers and email accounts, respectively, causing a spike in Internet bandwidth usage and security breaches (July)</dd>
-
-<dd>A fire in a train tunnel running through Baltimore, Maryland seriously damages various fiber-optic cable bundles used by backbone providers, disrupting Internet traffic in the Mid-Atlantic states and creating a ripple effect across the US (18 Jul)</dd>
-
-<dd>Brazil RNP2 is connected to Internet2's Abilene over 45Mbps line (21 Aug)</dd>
-
-<dd>GÉANT, the pan-European Gigabit Research and Education Network, becomes operational (23 Oct), replacing the TEN-155 network which was closed down (30 Nov)</dd>
-
-<dd>.museum begins resolving (Nov)</dd>
-
-<dd>First uncompressed real-time gigabit HDTV transmission across a wide-area IP network takes place on Internet2 (12 Nov).</dd>
-
-<dd>Dutch SURFnet and Internet2's Abilene connect via gigabit ethernet (15 Nov)</dd>
-
-<dd>.us domain operational responsibility assumed by NeuStar (20 Nov)</dd>
-
-<dd>US$1M+ Domain Sales: Insure.com (16.M in Dec)</dd>
-
-<dd>RFC 3091: [Pi Digit Generation Protocol](http://www.ietf.org/rfc/rfc3091.txt)</dd>
-
-<dd>RFC 3092: [Etymology of "Foo"](http://www.ietf.org/rfc/rfc3092.txt)</dd>
-
-<dd>RFC 3093: [Firewall Enhancement Protocol (FEP)](http://www.ietf.org/rfc/rfc3093.txt)</dd>
-
-<dd>_Viruses of the Year:_ Code Red (Jul), Nimda (Sep), SirCam (Jul), BadTrans (Apr, Nov)</dd>
-
-<dd>_Emerging Technologies:_ Grid Computing, P2P</dd>
-
-<dt>**2002**</dt>
-
-<dd>US ISP Association (USISPA) is created from the former CIX (11 Jan)</dd>
-
-<dd>.name begins resolving (15 Jan)</dd>
-
-<dd>.coop registrations begin (30 Jan)</dd>
-
-<dd>Global Terabit Research Network (GTRN) is formed composed of two OC-48 2.4GB circuits connecting Internet2 Abiline, CANARIE CA*net3, and GÉANT (18 Feb)</dd>
-
-<dd>.aero registrations begin 18 March and beings resolving 2 September</dd>
-
-<dd>Federally recognized US Indian tribes become eligible to register under .gov (26 Apr)</dd>
-
-<dd>Hundreds of Internet radio stations observe a _Day of Silence_ in protest of proposed song royalty rate increases (1 May)</dd>
-
-<dd>The highest wi-fi network in the northeast US is deployed by this Timeline's author. The solar-powered network bridges Mounts Washington and Wildcat in New Hampshire</dd>
-
-<dd>Abilene (Internet2) backbone deploys native IPv6 (5 Aug)</dd>
-
-<dd>The 69/8 IP range is allocated to ARIN in August after having been in the [bogon](http://www.cymru.com/Documents/bogon-list.html) list; users and servers assigned a 69/8 address find themselves blocked from many Internet sites</dd>
-
-<dd>Internet2 now has 200 university, 60 corporate, and 40 affiliate members (2 Sep)</dd>
-
-<dd>Having your own Blog becomes hip</dd>
-
-<dd>Hundreds of Spain-based web sites take their content offline in protest of a new law that took effect on 12 Oct requiring all commercial Web sites to register with the government</dd>
-
-<dd>A distributed denial of service (DDoS) attack struck the 13 DNS root servers knocking out all but 5 (21-23 Oct). Amidst national security concerns, VeriSign hastens a planned relocation of one of its two DNS root servers</dd>
-
-<dd>A new US law creates a kids-safe "dot-kids" domain (kids.us) to be implemented in 2003 (3 Dec)</dd>
-
-<dd>The FBI teams up with Terras Lycos to disseminate virtual wanted posts across the Web portal's properties (11 Dec)</dd>
-
-<dd>RFC 3251: [Electricity over IP](http://www.ietf.org/rfc/rfc3251.txt)</dd>
-
-<dd>RFC 3252: [Binary Lexical Octet Ad-hoc Transport](http://www.ietf.org/rfc/rfc3252.txt)</dd>
-
-<dt>**2003**</dt>
-
-<dd>Public Interest Registry (PIR) takes over as .org registry operator on 1 Jan. Transition is completed on 27 Jan. By giving up .org, VeriSign is able to retain control over .com domains</dd>
-
-<dd>The first official Swiss online election takes place in Anières (7 Jan)</dd>
-
-<dd>The registration for domain ogrish.com is deleted (11 Jan) by the German registrar Joker.com at the request of a German prosecutor claiming objectionable content; the site however is hosted in the United States and complies with US laws.</dd>
-
-<dd>The SQL Slammer worm causes one of the largest and fastest spreading DDoS attacks ever. Taking roughly 10 minutes to spread worldwide, the worm took down 5 of the 13 DNS root servers along with tens of thousands of other servers, and impacted a multitude of systems ranging from (bank) ATM systems to air traffic control to emergency (911) systems (25 Jan). This is followed in August by the Sobig.F virus (19 Aug), the fastest spreading virus ever, and the Blaster (MSBlast) worm (11 Aug), another one of the most destructive worms ever</dd>
-
-<dd>k.root-servers.net changes to using nsd vs. bind to increase diversity of software in the root name server system (19 Feb)</dd>
-
-<dd>.nl registrations open up to anyone, including individuals and foreigners (29 Jan); .se also opens up its registration in April.</dd>
-
-<dd>.af is [redelegated](http://www.iana.org/reports/af-report-08jan03.htm) on 8 Jan and becomes live once again on 12 Feb with UNDP technical assistance. First domains are moc.gov.af and undp.org.af (15 Feb)</dd>
-
-<dd>.pro sunrise registration begins 23 Apr under .cpa.pro, .law.pro, .med.pro</dd>
-
-<dd>Flash mobs, organized over the Net, start in New York and quickly form in cities worlwide</dd>
-
-<dd>Taxes make headlines as: larger US Internet retailers begin collecting taxes on all purchases; some US states tax Internet bandwidth; and the EU requires all Internet companies to collect value added tax (VAT) on digital downloads starting 1 July</dd>
-
-<dd>The French Ministry of Culture bans the use of the word "e-mail" by government ministries, and adopts the use of the more French sounding "courriel" (Jul)</dd>
-
-<dd>KRNIC begins offering Hangeul.kr domains (19 Aug)</dd>
-
-<dd>.kids.us sunrise registration begins 17 June and public registration on 9 Sep</dd>
-
-<dd>The Recording Industry Association of America (RIAA) sues 261 individuals on 8 Sep for allegedly distributing copyright music files over peer-to-peer networks</dd>
-
-<dd>VeriSign deploys a wildcard service (Site Finder) into the .com and .net TLDs causing much confusion as URLs with invalid domains are redirected to a VeriSign page (15 Sep). ICANN orders VeriSign to stop the service, which they comply with on 4 Oct</dd>
-
-<dd>Last Abilene segment upgraded to 10Gbps (5 Nov)</dd>
-
-<dd>National LambdaRail announced as a new US R&D networking infrastructure (16 Sep). The first connection takes place between Pittsburgh Supercomputing Center (PSC) and Extensible Terascale Facility (ETF) in Chicago (18 Nov)</dd>
-
-<dd>[Little GLORIAD](http://www.gloriad.org) (Global Ring Network for Advanced Application Development) starts operations (22 Dec), consisting of a networked ring across the northern hemisphere with connections in Chicago, Amsterdam, Moscow, Novosibirsk, Zabajkal'sk, Manzhouli, Beijing, and Hong Kong. This is the first-ever fiber network connections across the Russia-China border</dd>
-
-<dd>RFC 3514: [The Security Flag in the IPv4 Header](http://www.ietf.org/rfc/rfc3514.txt) (The Evil Bit)</dd>
-
-<dt>**2004**</dt>
-
-<dd>For the first time, there are more instances of DNS root servers outside the US with the launch of an anycast instance of the RIPE NCC operated [K-root server](http://k.root-servers.org)</dd>
-
-<dd>Abiline, the Internet2 backbone, upgrade from 2.5Gbps to 10Gbps is completed (4 Feb)</dd>
-
-<dd>Thefacebook launches (4 Feb)</dd>
-
-<dd>Network Solutions begins offering 100 year domain registration (24 Mar)</dd>
-
-<dd>One of the .ly nameservers stops responding (7 Apr) causing the other nameserver to go offline (9 Apr), making the domain inaccessible. Service is restored 13 Apr</dd>
-
-<dd>ICANN authorizes new gTLDs: .asia, .cat, .jobs, .mobi, .tel, and .travel</dd>
-
-<dd>VeriSign Naming and Directory Service (VNDS) begins updating all 13 .com/.net authoritative name servers in near real-time vs. twice each day (8 Sep)</dd>
-
-<dd>Lycos Europe releases a screen saver to help fight spam by keeping spam servers busy with requests (1 Dec). The service is discontinued within a few days after backbone providers block access to the download site and the service causes some servers to crash.</dd>
-
-<dd>Verizon begins blocking all email traffic from European ISPs on 22 Dec in an attempt to abate spam from the region into its US network</dd>
-
-<dd>CERNET2, the first backbone IPv6 network in China, is launched by the China Education and Research Network (CERN) connecting 25 universities in 20 cities at speeds of 1-10Gbps (27 Dec)</dd>
-
-<dd>US$1M+ Domain Sales: CreditCards.com (2.75M)</dd>
-
-<dd>_Emerging Technologies:_ Social networking, Web mashups</dd>
-
-<dd>RFC 3751: [Omniscience Protocol Requirements](http://www.ietf.org/rfc/rfc3751.txt)</dd>
-
-<dt>**2005**</dt>
-
-<dd>.jobs, .mobi, and .travel begin accepting registrations</dd>
-
-<dd>.se becomes the first ccTLD to implement DNSSEC</dd>
-
-<dd>Estonia offers Internet voting nationally for local elections</dd>
-
-<dd>Pakistan suffers a near complete Internet outage as a submarine cable becomes defective (Jun)</dd>
-
-<dd>Two feuding providers (Cogent, Level 3) sever their peering connection resulting in many customers from one provider not being able to access resources on the other's network (Oct)</dd>
-
-<dd>Number of Internet users reaches 1 Billion (Oct)</dd>
-
-<dd>.eu (European Union) launches on 7 Dec</dd>
-
-<dd>US$1M+ Domain Sales: Fish.com (1.02M)</dd>
-
-<dd>RFC 4041: [Requirements for Morality Sections in Routing Area Drafts](http://www.ietf.org/rfc/rfc4041.txt)</dd>
-
-<dd>RFC 4042: [UTF-9 and UTF-18 Efficient Transformation Formats of Unicode](http://www.ietf.org/rfc/rfc4042.txt)</dd>
-
-<dt>**2006**</dt>
-
-<dd>.cat registrations begin for Catalan-related domains</dd>
-
-<dd>Zimbabwe looses most of its Internet access after its satellite connectivity is cut by the provider for non-payment</dd>
-
-<dd>ICANN lifts price controls on .biz, .info, and .org domain names, after the same was done for .net in 2005, raising fears of tiered pricing where popular domains would cost more</dd>
-
-<dd>US Government prohibits private (anonymized) domain registrations for .us after 26 Jan</dd>
-
-<dd>First tweet is sent out by Jack Dorsey (21 Mar) -- "just setting up my twttr"</dd>
-
-<dd>ICANN board votes against .xxx TLD (10 May), only to approve it five years later</dd>
-
-<dd>The 6bone, an IPv6 testbed, is phased out after 10 years operation (6 Jun)</dd>
-
-<dd>.ax (Åland Islands) ccTLD comes into service on 15 Aug</dd>
-
-<dd>.cm registry implements wildcard domains redirecting all .com typos to its own page (Aug)</dd>
-
-<dd>Internet2 connectivity begins switching from Abilene to its new network (Nov)</dd>
-
-<dd>Internet connectivity to southeast Asia is severely limited after major fiber optic lines are severely damaged by an earthquake in Taiwan and subsequent underwater muslides (Dec)</dd>
-
-<dd>US$1M+ Domain Sales: Sex.com (14M?), Diamond.com (7.5M), Vodka.com (3M), Cameras.com (1.5M)</dd>
-
-<dd>_Emerging Technologies:_ Cloud computing</dd>
-
-<dt>**2007**</dt>
-
-<dd>ICANN drops .um domain name (US minor outlying islands) for lack of use (Jan)</dd>
-
-<dd>Estonia offers the first online national parliamentary elections on 26-28 Feb</dd>
-
-<dd>ICANN terminates RegisterFly.com's registrar status on 16 Mar (effective 31 Mar)</dd>
-
-<dd>Internet2 traffic in the Northeast US is disrupted on 1 May when a homeless man starts a fire under a Boston bridge causing a fiber break</dd>
-
-<dd>Use of #hashtag proposed by Tweeter user number 1,186, Chris Messina (23 Aug)</dd>
-
-<dd>Internet2's Abilene network is retired (Sep) as the last connections are switched over to the new Level 3 network</dd>
-
-<dd>Internet2 completes US East to West coast span of its 100GB/s network on 9 Oct</dd>
-
-<dd>.asia sunrise period begins in October</dd>
-
-<dd>US$1M+ Domain Sales: Porn.com (9.5M), Computer.com (2.1M), Seniros.com (1.8M), Tandberg.com (1.5M), Scores.com, Vista.com (1.25M), Chinese.com (1.12M), Guy.com (1M), Topix.com (1M)</dd>
-
-<dd>RFC 4824: [The Transmission of IP Datagrams over the Semaphore Flag Signaling System (SFSS)](http://www.ietf.org/rfc/rfc4824.txt)</dd>
-
-<dt>**2008**</dt>
-
-<dd>NASA successfully tests the first deep space communications network modeled on the Internet, using the Disruption-Tolerant Networking (DTN) software to transmit images to/from a science spacecraft ~20 million miles above Earth</dd>
-
-<dd>Google's crawler reaches 1 trillion pages, although only a fraction are indexed by the search engine. For comparison, Google's original index had 26 million pages in 1998, and reached 1 billion in 2000</dd>
-
-<dd>The Middle East, India, and other parts of Africa and Asia see a major degradation in Internet service, including outages, after several undersea cables carrying Internet traffic to the region are cut within 1 week (Jan-Feb)</dd>
-
-<dd>IPv6 addresses are added for the first time to 6 of the root zone servers (4 Feb)</dd>
-
-<dd>YouTube becomes unreacheable for a couple of hours after Pakistan Telecom starts an unauthorized announcement of YouTube's subnet prefix (24 Feb)</dd>
-
-<dd>US$1M+ Domain Sales: Fund.com (9.9M), Clothes.com (4.9M), Shopping.de (2.8M), Kredit.de (1.17M), Cruises.co.uk (1.09M), Invest.com (1.01M)</dd>
-
-<dd>RFC 5241: [Naming Rights in IETF Protocols](http://www.ietf.org/rfc/rfc5241.txt)</dd>
-
-<dd>RFC 5242: [A Generalized Unified Character Code: Western European and CJK Sections](http://www.ietf.org/rfc/rfc5242.txt)</dd>
-
-<dt>**2009**</dt>
-
-<dd>DNSSEC becomes operational on .gov (28 Feb), .org (2 Jun), .us (15 Dec)</dd>
-
-<dd>.tel registrations begin</dd>
-
-<dd>Bitcoins start being minted</dd>
-
-<dd>US Department of Commerce relaxes control over ICANN, in favor of a multi-national oversight group</dd>
-
-<dd>Domain tasting gets severely curtailed after ICANN raises the 2008-introduced fee for erroneously registered domains from $0.20 to $6.95; domain kiting however conitnues</dd>
-
-<dd>Twitter is asked by the US Government to delay planned maintenance of its service on 15 June as a result of heavy use by Iranian users during unrest in that country</dd>
-
-<dd>.se domains become unreachable for an hour on 12 Oct after an incorrectly configured software update modifies all registrations</dd>
-
-<dd>ICANN opens up applications for internationalized domain names (16 Nov)</dd>
-
-<dd>Crowdfunding becomes a popular means of raising startup funds; Kickstart founded on April 28</dd>
-
-<dd>_Emerging Technologies:_ Location awareness</dd>
-
-<dd>US$1M+ Domain Sales: Insure.com (16M in Oct), Toys.com (5.1M in Feb), Auction.com (1.7M in Mar), Candy.com (3M in Jun), Webcam.com (1.02M in Jun), Fly.com (1.76M), Call.com (1.1M in Sep), Ticket.com (1.53M in Oct), Russia.com (1.5M in Dec)</dd>
-
-<dd>RFC 5513: [IANA Considerations for Three Letter Acronyms](http://www.ietf.org/rfc/rfc5513.txt)</dd>
-
-<dd>RFC 5514: [IPv6 over Social Networks](http://www.ietf.org/rfc/rfc5514.txt)
-
-
 
 ### 2010s
-
 
 
 </dd>
