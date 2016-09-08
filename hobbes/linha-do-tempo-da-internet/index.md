@@ -241,217 +241,151 @@ discussion: https://github.com/webiwg/historia-web-pt/issues/5
 
 * * *
 
-
-
 ### 1980s
 
-
-
-<dl>
-
-<dt>**1980**</dt>
-
-<dd>ARPANET grinds to a complete halt on 27 October because of an accidentally-propagated status-message virus</dd>
-
-<dd>First C/30-based IMP at BBN</dd>
-
-<dt>**1981**</dt>
-
-<dd>[BITNET](http://www.cren.net/cren/history.html), the "Because It's Time NETwork"
-
-*   Started as a cooperative network at the City University of New York, with the first connection to Yale (:feg:)
-*   Original acronym stood for 'There' instead of 'Time' in reference to the free NJE protocols provided with the IBM systems
-*   Provides electronic mail and listserv servers to distribute information, as well as file transfers
-
-</dd>
-
-<dd>CSNET (Computer Science NETwork) built by a collaboration of computer scientists and Univ of Delaware, Purdue Univ, Univ of Wisconsin, RAND Corporation and BBN through seed money granted by NSF to provide networking services (especially email) to university scientists with no access to ARPANET. CSNET later becomes known as the Computer and Science Network. (:amk,lhl:)</dd>
-
-<dd>C/30 IMPs predominate the network; first C/30 TIP at SAC</dd>
-
-<dd>Minitel (Teletel) is deployed across France by France Telecom.</dd>
-
-<dd>True Names by Vernor Vinge (:pds:)</dd>
-
-<dd>RFC 801: [NCP/TCP Transition Plan](http://www.faqs.org/rfcs/rfc801.html)</dd>
-
-<dt>**1982**</dt>
-
-<dd>Norway leaves network to become an Internet connection via TCP/IP over SATNET; UCL does the same</dd>
-
-<dd>DCA and ARPA establish the Transmission Control Protocol (TCP) and Internet Protocol (IP), as the protocol suite, commonly known as TCP/IP, for ARPANET. (:vgc:)
-
-*   This leads to one of the first definitions of an "internet" as a connected set of networks, specifically those using TCP/IP, and "Internet" as connected TCP/IP internets.
-*   DoD declares TCP/IP suite to be standard for DoD (:vgc:)
-
-</dd>
-
-<dd>EUnet (European UNIX Network) is created by EUUG to provide email and USENET services. (:glg:)
-
-*   original connections between the Netherlands, Denmark, Sweden, and UK
-
-</dd>
-
-<dd>Exterior Gateway Protocol (RFC 827) specification. EGP is used for gateways between networks.</dd>
-
-<dt>**1983**</dt>
-
-<dd>Name server developed at Univ of Wisconsin, no longer requiring users to know the exact path to other systems</dd>
-
-<dd>Cutover from NCP to TCP/IP (1 January)</dd>
-
-<dd>No more Honeywell or Pluribus IMPs; TIPs replaced by TACs (terminal access controller)</dd>
-
-<dd>Stuttgart and Korea get connected</dd>
-
-<dd>Movement Information Net (MINET) started early in the year in Europe, connected to Internet in Sept</dd>
-
-<dd>CSNET / ARPANET gateway put in place</dd>
-
-<dd>ARPANET split into ARPANET and MILNET; the latter became integrated with the Defense Data Network created the previous year. 68 of the 113 existing nodes went to MILNET</dd>
-
-<dd>Desktop workstations come into being, many with Berkeley UNIX (4.2 BSD) which includes IP networking software (:mpc:)</dd>
-
-<dd>Networking needs switch from having a single, large time sharing computer connected to the Internet at each site, to instead connecting entire local networks</dd>
-
-<dd>[Internet Activities Board (IAB)](http://www.iab.org/) established, replacing ICCB</dd>
-
-<dd>EARN (European Academic and Research Network) established. Very similar to the way BITNET works with a gateway funded by IBM-Europe</dd>
-
-<dd>FidoNet developed by Tom Jennings</dd>
-
-<dt>**1984**</dt>
-
-<dd>Domain Name System (DNS) introduced</dd>
-
-<dd>Number of hosts breaks 1,000</dd>
-
-<dd>JUNET (Japan Unix Network) established using UUCP</dd>
-
-<dd>JANET (Joint Academic Network) established in the UK using the Coloured Book protocols; previously SERCnet</dd>
-
-<dd>Moderated newsgroups introduced on USENET (mod.*)</dd>
-
-<dd>Neuromancer by William Gibson</dd>
-
-<dd>Canada begins a one-year effort to network its universities. The NetNorth Network is connected to BITNET in Ithaca from Toronto (:kf1:)</dd>
-
-<dd>[Kremvax](http://groups.google.com/groups?selm=0001%40kremvax.UUCP) message announcing USSR connectivity to USENET</dd>
-
-<dt>**1985**</dt>
-
-<dd>Whole Earth 'Lectronic Link (WELL) started</dd>
-
-<dd>Information Sciences Institute (ISI) at USC is given responsibility for DNS root management by DCA, and SRI for DNS NIC registrations</dd>
-
-<dd>Symbolics.com is assigned on 15 March to become the first registered domain. Other firsts: cmu.edu, purdue.edu, rice.edu, berkeley.edu, ucla.edu, rutgers.edu, bbn.com (24 Apr); mit.edu (23 May); think.com (24 may); css.gov (June); mitre.org, .uk (July)</dd>
-
-<dd>100 years to the day of the last spike being driven on the cross-Canada railroad, the last Canadian university is connected to NetNorth in a one year effort to have coast-to-coast connectivity. (:kf1:)</dd>
-
-<dd>RFC 968: ['Twas the Night Before Start-up](http://www.faqs.org/rfcs/rfc968.html)</dd>
-
-<dt>**1986**</dt>
-
-<dd>NSFNET created (backbone speed of 56Kbps)
-
-*   NSF establishes 5 super-computing centers to provide high-computing power for all (JVNC@Princeton, PSC@Pittsburgh, SDSC@UCSD, NCSA@UIUC, Theory Center@Cornell).
-*   This allows an explosion of connections, especially from universities.
-
-</dd>
-
-<dd>NSF-funded SDSCNET, JVNCNET, SURANET, and NYSERNET operational (:sw1:)</dd>
-
-<dd>[Internet Engineering Task Force (IETF)](http://www.ietf.org) and Internet Research Task Force (IRTF) comes into existence under the IAB. First IETF meeting held in January at Linkabit in San Diego</dd>
-
-<dd>The first Freenet (Cleveland) comes on-line 16 July under the auspices of the Society for Public Access Computing (SoPAC). Later Freenet program management assumed by the National Public Telecomputing Network (NPTN) in 1989 (:sk2,rab:)</dd>
-
-<dd>Network News Transfer Protocol (NNTP) designed to enhance Usenet news performance over TCP/IP.</dd>
-
-<dd>Mail Exchanger (MX) records developed by Craig Partridge allow non-IP network hosts to have domain addresses.</dd>
-
-<dd>The first in a series of congestion collapses begin occurring in October. (:jtl:)</dd>
-
-<dd>The great USENET name change; moderated newsgroups changed in 1987.</dd>
-
-<dd>BARRNET (Bay Area Regional Research Network) established using high speed links. Operational in 1987.</dd>
-
-<dd>New England gets cut off from the Net as AT&T suffers a fiber optics cable break between Newark/NJ and White Plains/NY. Yes, all seven New England ARPANET trunk lines were in the one severed cable. Outage took place between 1:11 and 12:11 EST on 12 December</dd>
-
-<dd>.fi is registered by members of the Finnish Unix User Group (FUUG) in Tampere (12 Dec)</dd>
-
-<dt>**1987**</dt>
-
-<dd>NSF signs a cooperative agreement to manage the NSFNET backbone with Merit Network, Inc. (IBM and MCI involvement was through an agreement with Merit). Merit, IBM, and MCI later founded ANS.</dd>
-
-<dd>UUNET is founded with Usenix funds to provide commercial UUCP and Usenet access. Originally an experiment by Rick Adams and Mike O'Dell</dd>
-
-<dd>First TCP/IP Interoperability Conference (March), name changed in 1988 to INTEROP</dd>
-
-<dd>Email link established between Germany and China using CSNET protocols, with the first message from China sent on 20 September. (:wz1:)</dd>
-
-<dd>The concept and plan for a national US research and education network is proposed by Gordon Bell et al in a report to the Office of Science and Technology, written in response to a congressional request by Al Gore. (Nov) It would take four years until the establishment of this network by Congress (:gb1:)</dd>
-
-<dd>[1000th RFC](http://www.faqs.org/rfcs/rfc1000.html): "Request For Comments reference guide"</dd>
-
-<dd>Number of hosts breaks 10,000</dd>
-
-<dd>Number of BITNET hosts breaks 1,000</dd>
-
-<dt>**1988**</dt>
-
-<dd>2 November - Internet worm burrows through the Net, affecting ~6,000 of the 60,000 hosts on the Internet (:ph1:)</dd>
-
-<dd>CERT (Computer Emergency Response Team) formed by DARPA in response to the needs exhibited during the Morris worm incident. The worm is the only advisory issued this year.</dd>
-
-<dd>DoD chooses to adopt OSI and sees use of TCP/IP as an interim. US Government OSI Profile (GOSIP) defines the set of protocols to be supported by Government purchased products (:gck:)</dd>
-
-<dd>Los Nettos network created with no federal funding, instead supported by regional members (founding: Caltech, TIS, UCLA, USC, ISI).</dd>
-
-<dd>NSFNET backbone upgraded to T1 (1.544Mbps)</dd>
-
-<dd>CERFnet (California Education and Research Federation network) founded by Susan Estrada.</dd>
-
-<dd>Internet Assigned Numbers Authority (IANA) established in December with Jon Postel as its Director. Postel was also the RFC Editor and US Domain registrar for many years.</dd>
-
-<dd>Internet Relay Chat (IRC) developed by Jarkko Oikarinen (:zby:)</dd>
-
-<dd>First Canadian regionals join NSFNET: ONet via Cornell, RISQ via Princeton, BCnet via Univ of Washington (:ec1:)</dd>
-
-<dd>FidoNet gets connected to the Net, enabling the exchange of email and news (:tp1:)</dd>
-
-<dd>The first multicast tunnel is established between Stanford and BBN in the Summer of 1988.</dd>
-
-<dd>Countries connecting to NSFNET: Canada (CA), Denmark (DK), France (FR), Iceland (IS), Norway (NO), Sweden (SE)</dd>
-
-<dt>**1989**</dt>
-
-<dd>Number of hosts breaks 100,000</dd>
-
-<dd>[RIPE](http://www.ripe.net/) (Reseaux IP Europeens) formed (by European service providers) to ensure the necessary administrative and technical coordination to allow the operation of the pan-European IP Network. (:glg:)</dd>
-
-<dd>First relays between a commercial electronic mail carrier and the Internet: MCI Mail through the Corporation for the National Research Initiative (CNRI), and CompuServe through Ohio State Univ (:jg1,ph1:)</dd>
-
-<dd>Corporation for Research and Education Networking ([CREN](http://www.cren.net/)) is formed by merging CSNET into BITNET (August)</dd>
-
-<dd>AARNET - Australian Academic Research Network - set up by AVCC and CSIRO; introduced into service the following year (:gmc:)</dd>
-
-<dd>First link between Australia and NSFNET via Hawaii on 23 June. Australia had been limited to USENET access since the early 1980s</dd>
-
-<dd>Cuckoo's Egg by Clifford Stoll tells the real-life tale of a German cracker group who infiltrated numerous US facilities</dd>
-
-<dd>UCLA sponsors the Act One symposium to celebrate ARPANET's 20th anniversary and its decommissioning (August)</dd>
-
-<dd>RFC 1121: [Act One - The Poems](http://www.faqs.org/rfcs/rfc1121.html)</dd>
-
-<dd>RFC 1097: [TELNET SUBLIMINAL-MESSAGE Option](http://www.faqs.org/rfcs/rfc1097.html)</dd>
-
-<dd>Countries connecting to NSFNET: Australia (AU), Germany (DE), Israel (IL), Italy (IT), Japan (JP), Mexico (MX), Netherlands (NL), New Zealand (NZ), Puerto Rico (PR), United Kingdom (UK)</dd>
-
-</dl>
+1980
+:  ARPANET grinds to a complete halt on 27 October because of an accidentally-propagated status-message virus
+:  First C/30-based IMP at BBN
+
+1981
+:  [BITNET](http://www.cren.net/cren/history.html), the "Because It's Time NETwork"
+
+    *  Started as a cooperative network at the City University of New York, with the first connection to Yale (:feg:)
+    *  Original acronym stood for 'There' instead of 'Time' in reference to the free NJE protocols provided with the IBM systems
+    *  Provides electronic mail and listserv servers to distribute information, as well as file transfers
+
+:  CSNET (Computer Science NETwork) built by a collaboration of computer scientists and Univ of Delaware,
+   Purdue Univ, Univ of Wisconsin, RAND Corporation and BBN through seed money granted by NSF to provide networking services (especially email) to university scientists with no access to ARPANET. CSNET later becomes known as the Computer and Science Network. (:amk,lhl:)
+:  C/30 IMPs predominate the network; first C/30 TIP at SAC
+:  Minitel (Teletel) is deployed across France by France Telecom.
+:  True Names by Vernor Vinge (:pds:)
+:  RFC 801: [NCP/TCP Transition Plan](http://www.faqs.org/rfcs/rfc801.html)
+
+1982
+:  Norway leaves network to become an Internet connection via TCP/IP over SATNET; UCL does the same
+:  DCA and ARPA establish the Transmission Control Protocol (TCP) and Internet Protocol (IP),
+   as the protocol suite, commonly known as TCP/IP, for ARPANET. (:vgc:)
+
+    *  This leads to one of the first definitions of an "internet" as a connected set of networks,
+       specifically those using TCP/IP, and "Internet" as connected TCP/IP internets.
+    *  DoD declares TCP/IP suite to be standard for DoD (:vgc:)
+:  EUnet (European UNIX Network) is created by EUUG to provide email and USENET services. (:glg:)
+    *  original connections between the Netherlands, Denmark, Sweden, and UK
+:  Exterior Gateway Protocol (RFC 827) specification. EGP is used for gateways between networks.
+
+1983
+:  Name server developed at Univ of Wisconsin, no longer requiring users to know the exact path to other systems
+:  Cutover from NCP to TCP/IP (1 January)
+:  No more Honeywell or Pluribus IMPs; TIPs replaced by TACs (terminal access controller)
+:  Stuttgart and Korea get connected
+:  Movement Information Net (MINET) started early in the year in Europe, connected to Internet in Sept
+:  CSNET / ARPANET gateway put in place
+:  ARPANET split into ARPANET and MILNET;
+   the latter became integrated with the Defense Data Network created the previous year. 68 of the 113 existing nodes went to MILNET
+:  Desktop workstations come into being, many with Berkeley UNIX (4.2 BSD) which includes IP networking software (:mpc:)
+:  Networking needs switch from having a single,
+   large time sharing computer connected to the Internet at each site,
+   to instead connecting entire local networks
+:  [Internet Activities Board (IAB)](http://www.iab.org/) established, replacing ICCB
+:  EARN (European Academic and Research Network) established.
+   Very similar to the way BITNET works with a gateway funded by IBM-Europe
+:  FidoNet developed by Tom Jennings
+
+1984
+:  Domain Name System (DNS) introduced
+:  Number of hosts breaks 1,000
+:  JUNET (Japan Unix Network) established using UUCP
+:  JANET (Joint Academic Network) established in the UK using the Coloured Book protocols; previously SERCnet
+:  Moderated newsgroups introduced on USENET (mod.*)
+:  Neuromancer by William Gibson
+:  Canada begins a one-year effort to network its universities.
+   The NetNorth Network is connected to BITNET in Ithaca from Toronto (:kf1:)
+:  [Kremvax](http://groups.google.com/groups?selm=0001%40kremvax.UUCP) message announcing USSR connectivity to USENET
+
+1985
+:  Whole Earth 'Lectronic Link (WELL) started
+:  Information Sciences Institute (ISI) at USC is given responsibility for DNS root management by DCA,
+   and SRI for DNS NIC registrations
+:  Symbolics.com is assigned on 15 March to become the first registered domain.
+   Other firsts: cmu.edu, purdue.edu, rice.edu, berkeley.edu, ucla.edu, rutgers.edu, bbn.com (24 Apr);
+   mit.edu (23 May); think.com (24 may); css.gov (June); mitre.org, .uk (July)
+:  100 years to the day of the last spike being driven on the cross-Canada railroad,
+   the last Canadian university is connected to NetNorth in a one year effort to have coast-to-coast connectivity. (:kf1:)
+:  RFC 968: ['Twas the Night Before Start-up](http://www.faqs.org/rfcs/rfc968.html)
+:  NSFNET created (backbone speed of 56Kbps)
+
+    *  NSF establishes 5 super-computing centers to provide high-computing power for all (JVNC@Princeton, PSC@Pittsburgh, SDSC@UCSD, NCSA@UIUC, Theory Center@Cornell).
+    *  This allows an explosion of connections, especially from universities.
+:  NSF-funded SDSCNET, JVNCNET, SURANET, and NYSERNET operational (:sw1:)
+:  [Internet Engineering Task Force (IETF)](http://www.ietf.org)
+   and Internet Research Task Force (IRTF) comes into existence under the IAB.
+   First IETF meeting held in January at Linkabit in San Diego
+:  The first Freenet (Cleveland) comes on-line 16 July under the auspices of the Society for Public Access Computing (SoPAC).
+   Later Freenet program management assumed by the National Public Telecomputing Network (NPTN) in 1989 (:sk2,rab:)
+:  Network News Transfer Protocol (NNTP) designed to enhance Usenet news performance over TCP/IP.
+:  Mail Exchanger (MX) records developed by Craig Partridge allow non-IP network hosts to have domain addresses.
+:  The first in a series of congestion collapses begin occurring in October. (:jtl:)
+:  The great USENET name change; moderated newsgroups changed in 1987.
+:  BARRNET (Bay Area Regional Research Network) established using high speed links. Operational in 1987.
+:  New England gets cut off from the Net as AT&T suffers a fiber optics cable break between Newark/NJ and White Plains/NY.
+   Yes, all seven New England ARPANET trunk lines were in the one severed cable. Outage took place between 1:11 and 12:11 EST on 12 December
+:  .fi is registered by members of the Finnish Unix User Group (FUUG) in Tampere (12 Dec)
+
+1987
+:  NSF signs a cooperative agreement to manage the NSFNET backbone with Merit Network, Inc.
+   (IBM and MCI involvement was through an agreement with Merit). Merit, IBM, and MCI later founded ANS.
+:  UUNET is founded with Usenix funds to provide commercial UUCP and Usenet access.
+   Originally an experiment by Rick Adams and Mike O'Dell
+:  First TCP/IP Interoperability Conference (March), name changed in 1988 to INTEROP
+:  Email link established between Germany and China using CSNET protocols,
+   with the first message from China sent on 20 September. (:wz1:)
+:  The concept and plan for a national US research and education network is proposed by Gordon Bell et al in a report to the Office of Science and Technology,
+   written in response to a congressional request by Al Gore. (Nov) It would take four years until the establishment of this network by Congress (:gb1:)
+:  [1000th RFC](http://www.faqs.org/rfcs/rfc1000.html): "Request For Comments reference guide"
+:  Number of hosts breaks 10,000
+:  Number of BITNET hosts breaks 1,000
+
+1988
+:  2 November - Internet worm burrows through the Net, affecting ~6,000 of the 60,000 hosts on the Internet (:ph1:)
+:  CERT (Computer Emergency Response Team) formed by DARPA in response to the needs exhibited during the Morris worm incident.
+   The worm is the only advisory issued this year.
+:  DoD chooses to adopt OSI and sees use of TCP/IP as an interim.
+   US Government OSI Profile (GOSIP) defines the set of protocols to be supported by Government purchased products (:gck:)
+:  Los Nettos network created with no federal funding, instead supported by regional members
+   (founding: Caltech, TIS, UCLA, USC, ISI).
+:  NSFNET backbone upgraded to T1 (1.544Mbps)
+:  CERFnet (California Education and Research Federation network) founded by Susan Estrada.
+:  Internet Assigned Numbers Authority (IANA) established in December with Jon Postel as its Director.
+   Postel was also the RFC Editor and US Domain registrar for many years.
+:  Internet Relay Chat (IRC) developed by Jarkko Oikarinen (:zby:)
+:  First Canadian regionals join NSFNET: ONet via Cornell, RISQ via Princeton, BCnet via Univ of Washington (:ec1:)
+:  FidoNet gets connected to the Net, enabling the exchange of email and news (:tp1:)
+:  The first multicast tunnel is established between Stanford and BBN in the Summer of 1988.
+:  Countries connecting to NSFNET: Canada (CA), Denmark (DK), France (FR), Iceland (IS), Norway (NO), Sweden (SE)
+
+1989
+:  Number of hosts breaks 100,000
+:  [RIPE](http://www.ripe.net/) (Reseaux IP Europeens) formed (by European service providers)
+   to ensure the necessary administrative and technical coordination to allow the operation of the pan-European IP Network. (:glg:)
+:  First relays between a commercial electronic mail carrier and the Internet:
+   MCI Mail through the Corporation for the National Research Initiative (CNRI),
+   and CompuServe through Ohio State Univ (:jg1,ph1:)
+:  Corporation for Research and Education Networking ([CREN](http://www.cren.net/))
+   is formed by merging CSNET into BITNET (August)
+:  AARNET - Australian Academic Research Network - set up by AVCC and CSIRO;
+   introduced into service the following year (:gmc:)
+:  First link between Australia and NSFNET via Hawaii on 23 June.
+   Australia had been limited to USENET access since the early 1980s
+:  Cuckoo's Egg by Clifford Stoll tells the real-life tale of a German cracker group who infiltrated numerous US facilities
+:  UCLA sponsors the Act One symposium to celebrate ARPANET's 20th anniversary and its decommissioning (August)
+:  RFC 1121: [Act One - The Poems](http://www.faqs.org/rfcs/rfc1121.html)
+:  RFC 1097: [TELNET SUBLIMINAL-MESSAGE Option](http://www.faqs.org/rfcs/rfc1097.html)
+:  Countries connecting to NSFNET: Australia (AU), Germany (DE), Israel (IL),
+   Italy (IT), Japan (JP), Mexico (MX), Netherlands (NL), New Zealand (NZ),
+  Puerto Rico (PR), United Kingdom (UK)
+{: .dl-traducao}
 
 * * *
-
-
 
 ### 1990s
 
