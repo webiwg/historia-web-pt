@@ -31,7 +31,7 @@ discussion: https://github.com/webiwg/historia-web-pt/issues/5
 ---
 
 <!-- Geração automática de índice, inicio -->
-
+<nav  markdown="1">
 
 ## Índice de tópicos
 {:.no_toc}
@@ -39,20 +39,21 @@ discussion: https://github.com/webiwg/historia-web-pt/issues/5
 1. Indice de Tópicos. Esta linha será substituída
 {:toc}
 
-
+</nav>
 <!-- Geração automática de índice, fim -->
 
 ## Por década
 
 ### 1950s
 
-<dl>
+{:auto_ids-year}
+1957
+: USSR launches Sputnik, first artificial earth satellite.
+  In response, US forms the Advanced Research Projects Agency ([ARPA](http://www.darpa.mil/)),
+  the following year,
+  within the Department of Defense (DoD) to establish US lead in science and technology applicable to the military (:amk:)
+{: .dl-traducao}
 
-<dt>**1957**</dt>
-
-<dd>USSR launches Sputnik, first artificial earth satellite. In response, US forms the Advanced Research Projects Agency ([ARPA](http://www.darpa.mil/)), the following year, within the Department of Defense (DoD) to establish US lead in science and technology applicable to the military (:amk:)</dd>
-
-</dl>
 
 * * *
 
