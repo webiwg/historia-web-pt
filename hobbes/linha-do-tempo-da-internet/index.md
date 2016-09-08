@@ -46,12 +46,11 @@ discussion: https://github.com/webiwg/historia-web-pt/issues/5
 
 ### 1950s
 
-{:auto_ids-year}
 1957
-: USSR launches Sputnik, first artificial earth satellite.
-  In response, US forms the Advanced Research Projects Agency ([ARPA](http://www.darpa.mil/)),
-  the following year,
-  within the Department of Defense (DoD) to establish US lead in science and technology applicable to the military (:amk:)
+:  USSR launches Sputnik, first artificial earth satellite.
+   In response, US forms the Advanced Research Projects Agency ([ARPA](http://www.darpa.mil/)),
+   the following year,
+   within the Department of Defense (DoD) to establish US lead in science and technology applicable to the military (:amk:)
 {: .dl-traducao}
 
 
@@ -59,137 +58,77 @@ discussion: https://github.com/webiwg/historia-web-pt/issues/5
 
 ### 1960s
 
+1961
+:  Leonard Kleinrock, MIT: "[Information Flow in Large Communication Nets](http://www.lk.cs.ucla.edu/bibliography-public_reports.html)" (May 31)
 
-<dl>
+    * First paper on packet-switching (PS) theory
+1962
+:  J.C.R. Licklider & W. Clark, MIT: "[On-Line Man Computer Communication](http://portal.acm.org/citation.cfm?id=1460847)" (August)
 
-<dt>**1961**</dt>
+    * _Galactic Network_ concept encompassing distributed social interactions
 
-<dd>Leonard Kleinrock, MIT: "[Information Flow in Large Communication Nets](http://www.lk.cs.ucla.edu/bibliography-public_reports.html)" (May 31)
+1964
+:  Paul Baran, RAND: "[On Distributed Communications Networks](http://www.rand.org/pubs/research_memoranda/RM3420.html)
 
-*   First paper on packet-switching (PS) theory
+    * Packet-switching networks; no single outage point
 
-</dd>
+1965
+:  ARPA sponsors study on "cooperative network of time-sharing computers"
 
-<dt>**1962**</dt>
+    * TX-2 at MIT Lincoln Lab and AN/FSQ-32 at System Development Corporation (Santa Monica, CA) are directly linked (without packet switches) via a dedicated 1200bps phone line;
+    Digital Equipment Corporation (DEC) computer at ARPA later added to form "The Experimental Network"
 
-<dd>J.C.R. Licklider & W. Clark, MIT: "[On-Line Man Computer Communication](http://portal.acm.org/citation.cfm?id=1460847)" (August)
+1966
+: Lawrence G. Roberts, MIT: "Towards a Cooperative Network of Time-Shared Computers" (October)
 
-*   _Galactic Network_ concept encompassing distributed social interactions
+  * First ARPANET plan
 
-</dd>
+1967
+: ARPANET design discussions held by Larry Roberts at ARPA IPTO PI meeting in Ann Arbor, Michigan (April)
+: [ACM](http://www.acm.org/) Symposium on Operating Systems Principles in Gatlinburg, Tennessee (October)
 
-<dt>**1964**</dt>
+    *   First design paper on ARPANET published by Larry Roberts: "Multiple Computer Networks and Intercomputer Communication
+    *   First meeting of the three independent packet network teams (RAND, NPL, ARPA)
+: National Physical Laboratory (NPL) in Middlesex, England develops NPL Data Network under Donald Watts Davies who coins the term packet. The NPL network, an experiment in packet-switching, used 768kbps lines
 
-<dd>Paul Baran, RAND: "[On Distributed Communications Networks](http://www.rand.org/pubs/research_memoranda/RM3420.html)"
+1968
+:  PS-network presented to the Advanced Research Projects Agency (ARPA)
+: [Request for quotation](http://www.cs.utexas.edu/users/chris/DIGITAL_ARCHIVE/ARPANET/RFQ-ARPA-IMP.pdf) for ARPANET (29 Jul) sent out in August; responses received in September
+:  University of California Los Angeles (UCLA) awarded Network Measurement Center contract in October
+:  Network Working Group (NWG), headed by Steve Crocker, loosely organized to develop host level protocols for communication over the ARPANET. (:vgc:)
+:  Tymnet built as part of Tymshare service (:vgc:)
+1969
+:  Bolt Beranek and Newman, Inc. (BBN) awarded Packet Switch contract to build Interface Message Processors (IMPs) in January
+:  US Senator Edward Kennedy sends a congratulatory telegram to BBN for its million-dollar ARPA contract to build the "Interfaith" Message Processor, and thanking them for their ecumenical efforts
+:  ARPANET commissioned by DoD for research into networking
+:  Nodes are stood up as BBN builds each IMP [Honeywell DDP-516 mini computer with 12K of memory]; AT&T provides lines bundled to 50kbps
+:  Node 1: UCLA (30 August, hooked up 2 September)
 
-*   Packet-switching networks; no single outage point
+    *  _Function:_ Network Measurement Center
+    *  _System,OS:_ SDS SIGMA 7, SEX
+    *  [Diagram of the first host to IMP connection](http://www.computerhistory.org/internet_history/full_size_images/1969_2-node_map.gif)
+:  Node 2: Stanford Research Institute (SRI) (1 October)
 
-</dd>
+    *   Network Information Center (NIC)
+    *   SDS940/Genie
+    *   Doug Engelbart's project on "Augmentation of Human Intellect"
+:  Node 3: University of California Santa Barbara (UCSB) (1 November)
 
-<dt>**1965**</dt>
-
-<dd>ARPA sponsors study on "cooperative network of time-sharing computers"
-
-*   TX-2 at MIT Lincoln Lab and AN/FSQ-32 at System Development Corporation (Santa Monica, CA) are directly linked (without packet switches) via a dedicated 1200bps phone line; Digital Equipment Corporation (DEC) computer at ARPA later added to form "The Experimental Network"
-
-</dd>
-
-<dt>**1966**</dt>
-
-<dd>Lawrence G. Roberts, MIT: "Towards a Cooperative Network of Time-Shared Computers" (October)
-
-*   First ARPANET plan
-
-</dd>
-
-<dt>**1967**</dt>
-
-<dd>ARPANET design discussions held by Larry Roberts at ARPA IPTO PI meeting in Ann Arbor, Michigan (April)</dd>
-
-<dd>[ACM](http://www.acm.org/) Symposium on Operating Systems Principles in Gatlinburg, Tennessee (October)
-
-*   First design paper on ARPANET published by Larry Roberts: "Multiple Computer Networks and Intercomputer Communication
-*   First meeting of the three independent packet network teams (RAND, NPL, ARPA)
-
-</dd>
-
-<dd>National Physical Laboratory (NPL) in Middlesex, England develops NPL Data Network under Donald Watts Davies who coins the term packet. The NPL network, an experiment in packet-switching, used 768kbps lines</dd>
-
-<dt>**1968**</dt>
-
-<dd>PS-network presented to the Advanced Research Projects Agency (ARPA)</dd>
-
-<dd>[Request for quotation](http://www.cs.utexas.edu/users/chris/DIGITAL_ARCHIVE/ARPANET/RFQ-ARPA-IMP.pdf) for ARPANET (29 Jul) sent out in August; responses received in September</dd>
-
-<dd>University of California Los Angeles (UCLA) awarded Network Measurement Center contract in October</dd>
-
-<dd>Network Working Group (NWG), headed by Steve Crocker, loosely organized to develop host level protocols for communication over the ARPANET. (:vgc:)</dd>
-
-<dd>Tymnet built as part of Tymshare service (:vgc:)</dd>
-
-<dt>**1969**</dt>
-
-<dd>Bolt Beranek and Newman, Inc. (BBN) awarded Packet Switch contract to build Interface Message Processors (IMPs) in January</dd>
-
-<dd>US Senator Edward Kennedy sends a congratulatory telegram to BBN for its million-dollar ARPA contract to build the "Interfaith" Message Processor, and thanking them for their ecumenical efforts</dd>
-
-<dd>
-
-<dl>
-
-<dt>ARPANET commissioned by DoD for research into networking</dt>
-
-<dd>Nodes are stood up as BBN builds each IMP [Honeywell DDP-516 mini computer with 12K of memory]; AT&T provides lines bundled to 50kbps</dd>
-
-<dd>Node 1: UCLA (30 August, hooked up 2 September)
-
-*   _Function:_ Network Measurement Center
-*   _System,OS:_ SDS SIGMA 7, SEX
-*   [Diagram of the first host to IMP connection](http://www.computerhistory.org/internet_history/full_size_images/1969_2-node_map.gif)
-
-</dd>
-
-<dd>Node 2: Stanford Research Institute (SRI) (1 October)
-
-*   Network Information Center (NIC)
-*   SDS940/Genie
-*   Doug Engelbart's project on "Augmentation of Human Intellect"
-
-</dd>
-
-<dd>Node 3: University of California Santa Barbara (UCSB) (1 November)
-
-*   Culler-Fried Interactive Mathematics
-*   IBM 360/75, OS/MVT
-
-</dd>
-
-<dd>Node 4: University of Utah (December)
-
-*   Graphics
-*   DEC PDP-10, Tenex
-
-</dd>
-
-<dd>[Diagram of the 4-node ARPAnet](http://www.computerhistory.org/internet_history/full_size_images/1969_4-node_map.gif)</dd>
-
-</dl>
-
-</dd>
-
-<dd>First Request for Comment (RFC): "[Host Software](http://www.faqs.org/rfcs/rfc1.html)" by Steve Crocker (7 April)</dd>
-
-<dd>RFC 4: [Network Timetable](http://www.faqs.org/rfcs/rfc4.html)</dd>
-
-<dd>First packets sent by Charley Kline at UCLA as he tried logging into SRI. The first attempt resulted in the system crashing as the letter G of LOGIN was entered. (October 29) [ [Log entry](http://www.computerhistory.org/internet_history/full_size_images/imp_log.jpg) ]</dd>
-
-<dd>Univ of Michigan, Michigan State and Wayne State Univ establish X.25-based Merit network for students, faculty, alumni (:sw1:)</dd>
-
-</dl>
+    *   Culler-Fried Interactive Mathematics
+    *   IBM 360/75, OS/MVT
+:  Node 4: University of Utah (December)
+    *   Graphics
+    *   DEC PDP-10, Tenex
+:  [Diagram of the 4-node ARPAnet](http://www.computerhistory.org/internet_history/full_size_images/1969_4-node_map.gif)
+:  First Request for Comment (RFC): "[Host Software](http://www.faqs.org/rfcs/rfc1.html)" by Steve Crocker (7 April)
+:  RFC 4: [Network Timetable](http://www.faqs.org/rfcs/rfc4.html)
+:  First packets sent by Charley Kline at UCLA as he tried logging into SRI.
+   The first attempt resulted in the system crashing as the letter G of LOGIN was entered.
+   (October 29) [ [Log entry](http://www.computerhistory.org/internet_history/full_size_images/imp_log.jpg) ]
+:  Univ of Michigan, Michigan State and Wayne State Univ establish X.25-based Merit network for students, faculty, alumni (:sw1:)
+{: .dl-traducao}
 
 * * *
-
-
 
 ### 1970s
 
