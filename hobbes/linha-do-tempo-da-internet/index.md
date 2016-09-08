@@ -389,443 +389,331 @@ discussion: https://github.com/webiwg/historia-web-pt/issues/5
 
 ### 1990s
 
-
-
-<dl>
-
-<dt>**1990**</dt>
-
-<dd>ARPANET ceases to exist</dd>
-
-<dd>[Electronic Frontier Foundation (EFF)](http://www.eff.org/) is founded by Mitch Kapor</dd>
-
-<dd>Archie released by Peter Deutsch, Alan Emtage, and Bill Heelan at McGill</dd>
-
-<dd>Hytelnet released by Peter Scott (Univ of Saskatchewan)</dd>
-
-<dd>The World comes on-line (world.std.com), becoming the first commercial provider of Internet dial-up access</dd>
-
-<dd>ISO Development Environment (ISODE) developed to provide an approach for OSI migration for the DoD. ISODE software allows OSI application to operate over TCP/IP (:gck:)</dd>
-
-<dd>CA*net formed by 10 regional networks as national Canadian backbone with direct connection to NSFNET (:ec1:)</dd>
-
-<dd>The first remotely operated machine to be hooked up to the Internet, the Internet Toaster by John Romkey, (controlled via SNMP) makes its debut at Interop.</dd>
-
-<dd>Czechoslovakia (.cs) connects to EARN/BitNet (11 Oct); .cs deleted in 1993</dd>
-
-<dd>RFC 1149: [A Standard for the Transmission of IP Datagrams on Avian Carriers](http://www.faqs.org/rfcs/rfc1149.html). [Implementation](http://www.blug.linux.no/rfc1149/) is completed 11 years later by the Bergen Linux Users Group (28 Apr 2001)</dd>
-
-<dd>RFC 1178: [Choosing a Name for Your Computer](http://www.faqs.org/rfcs/rfc1178.html)</dd>
-
-<dd>Countries connecting to NSFNET: Argentina (AR), Austria (AT), Belgium (BE), Brazil (BR), Chile (CL), Greece (GR), India (IN), Ireland (IE), Korea (KR), Spain (ES), Switzerland (CH)</dd>
-
-<dt>**1991**</dt>
-
-<dd>First connection takes place between Brazil, by Fapesp, and the Internet at 9600 baud.</dd>
-
-<dd>Commercial Internet eXchange (CIX) Association, Inc. formed by General Atomics (CERFnet), Performance Systems International, Inc. (PSInet), and UUNET Technologies, Inc. (AlterNet), as NSF lifts restrictions on the commercial use of the Net (March) (:glg:)</dd>
-
-<dd>Wide Area Information Servers (WAIS), invented by Brewster Kahle, released by Thinking Machines Corporation</dd>
-
-<dd>Gopher released by Paul Lindner and Mark P. McCahill from the Univ of Minnesota</dd>
-
-<dd>[World-Wide Web (WWW)](http://www.w3.org/History/) released by [CERN](http://www.cern.ch/); Tim Berners-Lee developer (:pb1:). First Web server is nxoc01.cern.ch, launched in Nov 1990 and later renamed info.cern.ch.</dd>
-
-<dd>PGP (Pretty Good Privacy) released by Philip Zimmerman (:ad1:)</dd>
-
-<dd>US High Performance Computing Act (Gore 1) establishes the National Research and Education Network (NREN)</dd>
-
-<dd>NSFNET backbone upgraded to T3 (44.736Mbps)</dd>
-
-<dd>NSFNET traffic passes 1 trillion bytes/month and 10 billion packets/month</dd>
-
-<dd>Defense Data Network NIC contract awarded by DISA to Government Systems Inc. who takes over from SRI on 1 Oct</dd>
-
-<dd>Start of JANET IP Service (JIPS) which signaled the changeover from Coloured Book software to TCP/IP within the UK academic network. IP was initially 'tunneled' within X.25\. (:gst:)</dd>
-
-<dd>RFC 1216: [Gigabit Network Economics and Paradigm Shifts](http://www.faqs.org/rfcs/rfc1216.html)</dd>
-
-<dd>RFC 1217: [Memo from the Consortium for Slow Commotion Research (CSCR)](http://www.faqs.org/rfcs/rfc1217.html)</dd>
-
-<dd>Countries connecting to NSFNET: Croatia (HR), Hong Kong (HK), Hungary (HU), Poland (PL), Portugal (PT), Singapore (SG), South Africa (ZA), Taiwan (TW), Tunisia (TN)</dd>
-
-<dt>**1992**</dt>
-
-<dd>Internet Society (ISOC) is chartered (January)</dd>
-
-<dd>IAB reconstituted as the Internet Architecture Board and becomes part of the Internet Society</dd>
-
-<dd>Number of hosts breaks 1,000,000</dd>
-
-<dd>First MBONE audio multicast (March) and video multicast (November)</dd>
-
-<dd>[RIPE](http://www.ripe.net/) Network Coordination Center (NCC) created in April to provide address registration and coordination services to the European Internet community (:dk1:)</dd>
-
-<dd>Veronica, a gopherspace search tool, is released by Univ of Nevada</dd>
-
-<dd>[World Bank](http://www.worldbank.org/) comes on-line</dd>
-
-<dd>The term "[surfing the Internet](http://www.netmom.com/about-net-mom/26-surfing-the-internet.html)" is coined by Jean Armour Polly (:jap:); Brendan Kehoe uses the term "net-surfing" as early as 6 June 1991 in a [USENET post](http://groups-beta.google.com/group/comp.admin.policy/msg/4c76bb41a52c2347?dmode=source) (:bt1:)</dd>
-
-<dd>[Zen and the Art of the Internet](http://www.cs.indiana.edu/docproject/zen/zen-1.0_toc.html) is published by Brendan Kehoe (:jap:)</dd>
-
-<dd>Internet Hunt started by Rick Gates</dd>
-
-<dd>RFC 1300: [Remembrances of Things Past](http://www.faqs.org/rfcs/rfc1300.html)</dd>
-
-<dd>RFC 1313: [Today's Programming for KRFC AM 1313 - Internet Talk Radio](http://www.faqs.org/rfcs/rfc1313.html)</dd>
-
-<dd>Countries connecting to NSFNET: Antarctica (AQ), Cameroon (CM), Cyprus (CY), Ecuador (EC), Estonia (EE), Kuwait (KW), Latvia (LV), Luxembourg (LU), Malaysia (MY), Slovenia (SI), Thailand (TH), Venezuela (VE)</dd>
-
-<dt>**1993**</dt>
-
-<dd>[InterNIC](http://www.internic.net/) created by NSF to provide specific Internet services: (:sc1:)
-
-*   directory and database services (AT&T)
-*   registration services (Network Solutions Inc.)
-*   information services (General Atomics/CERFnet)
-
-</dd>
-
-<dd>US White House email comes on-line at whitehouse.gov; [web site](http://clinton1.nara.gov/) launches in 1994
-
-*   President Bill Clinton: president@whitehouse.gov
-*   Vice-President Al Gore: vice-president@whitehouse.gov
-
-</dd>
-
-<dd>Worms of a new kind find their way around the Net - WWW Worms (W4), joined by Spiders, Wanderers, Crawlers, and Snakes ...</dd>
-
-<dd>Internet Talk Radio begins broadcasting (:sk2:)</dd>
-
-<dd>[United Nations](http://www.un.org/) (UN) comes on-line (:vgc:)</dd>
-
-<dd>US National Information Infrastructure Act</dd>
-
-<dd>Businesses and media begin taking notice of the Internet</dd>
-
-<dd>.sk (Slovakia) and .cz (Czech Republic) created after split of Czechoslovakia; .cs decomissioned</dd>
-
-<dd>InterCon International KK (IIKK) provides Japan's first commercial Internet connection in September. TWICS, though an IIKK leased line, begins offering dial-up accounts the following month (:tb1:)</dd>
-
-<dd>Mosaic takes the Internet by storm (22 Apr); WWW proliferates at a 341,634% annual growth rate of service traffic. Gopher's growth is 997%.</dd>
-
-<dd>RFC 1437: [The Extension of MIME Content-Types to a New Medium](http://www.faqs.org/rfcs/rfc1437.html)</dd>
-
-<dd>RFC 1438: [IETF Statements of Boredom (SOBs)](http://www.faqs.org/rfcs/rfc1438.html)</dd>
-
-<dd>Countries connecting to NSFNET: Bulgaria (BG), Costa Rica (CR), Egypt (EG), Fiji (FJ), Ghana (GH), Guam (GU), Indonesia (ID), Kazakhstan (KZ), Kenya (KE), Liechtenstein (LI), Peru (PE), Romania (RO), Russian Federation (RU), Turkey (TR), Ukraine (UA), UAE (AE), US Virgin Islands (VI)</dd>
-
-<dt>**1994**</dt>
-
-<dd>ARPANET/Internet celebrates 25th anniversary</dd>
-
-<dd>Communities begin to be wired up directly to the Internet (Lexington and Cambridge, Mass., USA)</dd>
-
-<dd>US [Senate](http://www.senate.gov/) and [House](http://www.house.gov/) provide information servers</dd>
-
-<dd>Shopping malls arrive on the Internet</dd>
-
-<dd>First cyberstation, RT-FM, broadcasts from Interop in Las Vegas</dd>
-
-<dd>The National Institute for Standards and Technology (NIST) suggests that GOSIP should incorporate TCP/IP and drop the "OSI-only" requirement (:gck:)</dd>
-
-<dd>Arizona law firm of [Canter & Siegel](ftp://d.armory.com/pub/user/leavitt/html/cands.report.html) "spams" the Internet with email advertising green card lottery services; Net citizens flame back</dd>
-
-<dd>NSFNET traffic passes 10 trillion bytes/month</dd>
-
-<dd>Yes, it's true - you can now order pizza from the Hut online</dd>
-
-<dd>WWW edges out telnet to become 2nd most popular service on the Net (behind ftp-data) based on % of packets and bytes traffic distribution on NSFNET</dd>
-
-<dd>Japanese Prime Minister on-line ([http://www.kantei.go.jp/](http://www.kantei.go.jp/))</dd>
-
-<dd>UK's HM Treasury on-line ([http://www.hm-treasury.gov.uk/](http://www.hm-treasury.gov.uk/))</dd>
-
-<dd>New Zealand's Info Tech Prime Minister on-line ([http://www.govt.nz/](http://www.govt.nz/))</dd>
-
-<dd>First Virtual, the first cyberbank, open up for business</dd>
-
-<dd>Radio stations start rockin' (rebroadcasting) round the clock on the Net: WXYC at Univ of NC, KJHK at Univ of KS-Lawrence, KUGS at Western WA Univ</dd>
-
-<dd>IPng recommended by IETF at its Toronto meeting (July) and approved by IESG in November. Later documented as RFC 1752</dd>
-
-<dd>The first banner ads appear on hotwired.com in October. They were for Zima (a beverage) and AT&T</dd>
-
-<dd>Trans-European Research and Education Network Association ([TERENA](http://www.terena.org)) is formed by the merger of RARE and EARN, with representatives from 38 countries as well as [CERN](http://www.cern.ch/) and ECMWF. TERENA's aim is to "promote and participate in the development of a high quality international information and telecommunications infrastructure for the benefit of research and education" (October)</dd>
-
-<dd>After noticing that many network software vendors used domain.com in their documentation examples, Bill Woodcock and Jon Postel register the domain. Sure enough, after looking at the domain access logs, it was evident that many users were using the example domain in configuring their applications.</dd>
-
-<dd>The first web-based machine translation system is developed by this Timeline's author, supporting 9 languages, and made available the following year to hundreds of thousands of users on OSIS and Intelink, both US government networks</dd>
-
-<dd>RFC 1605: [SONET to Sonnet Translation](http://www.faqs.org/rfcs/rfc1605.html)</dd>
-
-<dd>RFC 1606: [A Historical Perspective On The Usage Of IP Version 9](http://www.faqs.org/rfcs/rfc1606.html)</dd>
-
-<dd>RFC 1607: [A VIEW FROM THE 21ST CENTURY](http://www.faqs.org/rfcs/rfc1607.html)</dd>
-
-<dd>Countries connecting to NSFNET: Algeria (DZ), Armenia (AM), Bermuda (BM), Burkina Faso (BF), China (CN), Colombia (CO), Jamaica (JM), Jordan (JO), Lebanon (LB), Lithuania (LT), Macao (MO), Morocco (MA), New Caledonia (NC), Nicaragua (NI), Niger (NE), Panama (PA), Philippines (PH), Senegal (SN), Sri Lanka (LK), Swaziland (SZ), Uruguay (UY), Uzbekistan (UZ)</dd>
-
-<dd>Top 10 Domains by Host #: com, edu, uk, gov, de, ca, mil, au, org, net</dd>
-
-<dt>**1995**</dt>
-
-<dd>NSFNET reverts back to a research network. Main US backbone traffic now routed through interconnected network providers</dd>
-
-<dd>The new NSFNET is born as NSF establishes the very high speed Backbone Network Service (vBNS) linking super-computing centers: NCAR, NCSA, SDSC, CTC, PSC</dd>
-
-<dd>Neda Rayaneh Institute (NRI), Iran's first commercial provider, comes online, connecting via satellite to Cadvision, a Canadian provider (:rm1:)</dd>
-
-<dd>Hong Kong police disconnect all but one of the colony's Internet providers for failure to obtain a license; thousands of users are left without service (:kf2:)</dd>
-
-<dd>Sun launches JAVA on May 23</dd>
-
-<dd>RealAudio, an audio streaming technology, lets the Net hear in near real-time</dd>
-
-<dd>Radio HK, the first commercial 24 hr., Internet-only radio station starts broadcasting</dd>
-
-<dd>WWW surpasses ftp-data in March as the service with greatest traffic on NSFNet based on packet count, and in April based on byte count</dd>
-
-<dd>Traditional online dial-up systems ([CompuServe](http://www.compuserve.com/), [America Online](http://www.aol.com/), Prodigy) begin to provide Internet access</dd>
-
-<dd>Chris Lamprecht (aka "Minor Threat") becomes the first person banned from accessing the Internet by a US District Court judge in Texas</dd>
-
-<dd>Thousands in Minneapolis-St. Paul (USA) lose Net access after transients start a bonfire under a bridge at the Univ of MN causing fiber-optic cables to melt (30 July)</dd>
-
-<dd>A number of Net related companies go public, with Netscape leading the pack with the 3rd largest ever NASDAQ IPO share value (9 August)</dd>
-
-<dd>Registration of domain names is no longer free. Beginning 14 September, a $50 annual fee has been imposed, which up until now was subsidized by NSF. NSF continues to pay for .edu registration, and on an interim basis for .gov</dd>
-
-<dd>The Vatican comes on-line ([http://www.vatican.va/](http://www.vatican.va/))</dd>
-
-<dd>The Canadian Government comes on-line ([http://canada.gc.ca/](http://canada.gc.ca/))</dd>
-
-<dd>The first official Internet wiretap was successful in helping the Secret Service and Drug Enforcement Agency (DEA) apprehend three individuals who were illegally manufacturing and selling cell phone cloning equipment and electronic devices</dd>
-
-<dd>Operation Home Front connects, for the first time, soldiers in the field with their families back home via the Internet.</dd>
-
-<dd>Richard White becomes the first person to be declared a munition, under the USA's arms export control laws, because of an RSA file security encryption program tattooed on his arm (:wired496:)</dd>
-
-<dd>RFC 1882: [The 12-Days of Technology Before Christmas](http://www.faqs.org/rfcs/rfc1882.html)</dd>
-
-<dd>Country domains registered: Ethiopia (ET), Cote d'Ivoire (CI), Cook Islands (CK) Cayman Islands (KY), Anguilla (AI), Gibraltar (GI), Vatican (VA), Kiribati (KI), Kyrgyzstan (KG), Madagascar (MG), Mauritius (MU), Micronesia (FM), Monaco (MC), Mongolia (MN), Nepal (NP), Nigeria (NG), Western Samoa (WS), San Marino (SM), Tanzania (TZ), Tonga (TO), Uganda (UG), Vanuatu (VU)</dd>
-
-<dd>Top 10 Domains by Host #: com, edu, net, gov, mil, org, de, uk, ca, au</dd>
-
-<dd>_Technologies of the Year:_ WWW, Search engines</dd>
-
-<dd>_Emerging Technologies:_ Mobile code (JAVA, JAVAscript), Virtual environments (VRML), Collaborative tools</dd>
-
-<dd>_Hacks of the Year:_ The Spot (Jun 12), Hackers Movie Page (12 Aug)</dd>
-
-<dt>**1996**</dt>
-
-<dd>Internet phones catch the attention of US telecommunication companies who ask the US Congress to ban the technology (which has been around for years)</dd>
-
-<dd>Malaysian Prime Minister Mahathir Mohamad, PLO Leader Yasser Arafat, and Phillipine President Fidel Ramos meet for ten minutes in an online interactive chat session on 17 January.</dd>
-
-<dd>The controversial US Communications Decency Act (CDA) becomes law in the US in order to prohibit distribution of indecent materials over the Net. A few months later a three-judge panel imposes an injunction against its enforcement. Supreme Court unanimously rules most of it unconstitutional in 1997.</dd>
-
-<dd>BackRub, Google's precursor, comes online</dd>
-
-<dd>9,272 organizations find themselves unlisted after the InterNIC drops their name service as a result of not having paid their domain name fee</dd>
-
-<dd>Various ISPs suffer extended service outages, bringing into question whether they will be able to handle the growing number of users. AOL (19 hours), Netcom (13 hours), AT&T WorldNet (28 hours - email only)</dd>
-
-<dd>Domain name tv.com sold to CNET for US$15,000</dd>
-
-<dd>New York's Public Access Networks Corp (PANIX) is shut down after repeated SYN attacks by a cracker using methods outlined in a hacker magazine ([2600](http://www.2600.org))</dd>
-
-<dd>MCI upgrades Internet backbone adding ~13,000 ports, bringing the effective speed from 155Mbps to 622Mbps.</dd>
-
-<dd>The Internet Ad Hoc Committee announces plans to add 7 new generic Top Level Domains (gTLD): .firm, .store, .web, .arts, .rec, .info, .nom. The IAHC plan also calls for a competing group of domain registrars worldwide.</dd>
-
-<dd>A malicious cancelbot is released on USENET wiping out more than 25,000 messages</dd>
-
-<dd>The WWW browser war, fought primarily between Netscape and Microsoft, has rushed in a new age in software development, whereby new releases are made quarterly with the help of Internet users eager to test upcoming (beta) versions.</dd>
-
-<dd>Internet2 project is kicked off by representatives from 34 universities on 1 Oct (:msb:)</dd>
-
-<dd>RFC 1925: [The Twelve Networking Truths](http://www.faqs.org/rfcs/rfc1925.html)</dd>
-
-<dd>Restrictions on Internet use around the world:
-
-*   _China:_ requires users and ISPs to register with the police
-*   _Germany:_ cuts off access to some newsgroups carried on CompuServe
-*   _Saudi Arabia:_ confines Internet access to universities and hospitals
-*   _Singapore:_ requires political and religious content providers to register with the state
-*   _New Zealand_: classifies computer disks as "publications" that can be censored and seized
-*   _source: Human Rights Watch_
-
-</dd>
-
-<dd>Country domains registered: Qatar (QA), Central African Republic (CF), Oman (OM), Norfolk Island (NF), Tuvalu (TV), French Polynesia (PF), Syria (SY), Aruba (AW), Cambodia (KH), French Guiana (GF), Eritrea (ER), Cape Verde (CV), Burundi (BI), Benin (BJ) Bosnia-Herzegovina (BA), Andorra (AD), Guadeloupe (GP), Guernsey (GG), Isle of Man (IM), Jersey (JE), Lao (LA), Maldives (MV), Marshall Islands (MH), Mauritania (MR), Northern Mariana Islands (MP), Rwanda (RW), Togo (TG), Yemen (YE), Zaire (ZR)</dd>
-
-<dd>Top 10 Domains by Host #: com, edu, net, uk, de, jp, us, mil, ca, au</dd>
-
-<dd>_Hacks of the Year:_ US Dept of Justice (17 Aug), CIA (19 Sep), Air Force (29 Dec), UK Labour Party (6 Dec), NASA DDCSOL - USAFE - US Air Force (30 Dec)</dd>
-
-<dd>_Technologies of the Year:_ Search engines, JAVA, Internet Phone</dd>
-
-<dd>_Emerging Technologies:_ Virtual environments (VRML), Collaborative tools, Internet appliance (Network Computer)</dd>
-
-<dt>**1997**</dt>
-
-<dd>[2000th RFC](http://www.faqs.org/rfcs/rfc2000.html): "Internet Official Protocol Standards"</dd>
-
-<dd>71,618 mailing lists registered at Liszt, a mailing list directory</dd>
-
-<dd>The [American Registry for Internet Numbers (ARIN)](http://www.arin.net/) is established to handle administration and registration of IP numbers to the geographical areas currently handled by Network Solutions (InterNIC), starting March 1998.</dd>
-
-<dd>CA*net II launched in June to provide Canada's next generation Internet using ATM/SONET</dd>
-
-<dd>In protest of the DNS monopoly, AlterNIC's owner, Eugene Kashpureff, hacks DNS so users going to www.internic.net end up at www.alternic.net</dd>
-
-<dd>Domain name business.com sold for US$150,000</dd>
-
-<dd>Early in the morning of 17 July, human error at Network Solutions causes the DNS table for .com and .net domains to become corrupted, making millions of systems unreachable.</dd>
-
-<dd>Longest hostname registered with InterNIC: CHALLENGER.MED.SYNAPSE.UAH.UALBERTA.CA</dd>
-
-<dd>101,803 Name Servers in whois database</dd>
-
-<dd>RFC 2100: [The Naming of Hosts](http://www.faqs.org/rfcs/rfc2100.html)</dd>
-
-<dd>Country domains registered: Falkland Islands (FK), East Timor (TP), R of Congo (CG), Christmas Island (CX), Gambia (GM), Guinea-Bissau (GW), Haiti (HT), Iraq (IQ), Libya (LY), Malawi (MW), Martinique (MQ), Montserrat (MS), Myanmar (MM), French Reunion Island (RE), Seychelles (SC), Sierra Leone (SL), Somalia (SO), Sudan (SD), Tajikistan (TJ), Turkmenistan (TM), Turks and Caicos Islands (TC), British Virgin Islands (VG), Heard and McDonald Islands (HM), French Southern Territories (TF), British Indian Ocean Territory (IO), Svalbard and Jan Mayen Islands (SJ), St Pierre and Miquelon (PM), St Helena (SH), South Georgia/Sandwich Islands (GS), Sao Tome and Principe (ST), Ascension Island (AC), US Minor Outlying Islands (UM), Mayotte (YT), Wallis and Futuna Islands (WF), Tokelau Islands (TK), Chad Republic (TD), Afghanistan (AF), Cocos Island (CC), Bouvet Island (BV), Liberia (LR), American Samoa (AS), Niue (NU), Equatorial New Guinea (GQ), Bhutan (BT), Pitcairn Island (PN), Palau (PW), DR of Congo (CD)</dd>
-
-<dd>Top 10 Domains by Host #: com, edu, net, jp, uk, de, us, au, ca, mil</dd>
-
-<dd>_Hacks of the Year:_ Indonesian Govt (19 Jan, 10 Feb, 24 Apr, 30 Jun, 22 Nov), NASA (5 Mar), UK Conservative Party (27 Apr), Spice Girls (14 Nov)</dd>
-
-<dd>_Technologies of the Year:_ Push, Multicasting</dd>
-
-<dd>_Emerging Technologies:_ Push</dd>
-
-<dt>**1998**</dt>
-
-<dd>_Hobbes' Internet Timeline_ is released as [RFC 2235](http://www.faqs.org/rfcs/rfc2235.html) & FYI 32</dd>
-
-<dd>US Depart of Commerce (DoC) releases the [Green Paper](http://www.ntia.doc.gov/ntiahome/domainname/dnsdrft.htm) outlining its plan to privatize DNS on 30 January. This is followed up by a [White Paper](http://www.ntia.doc.gov/ntiahome/domainname/6_5_98dns.htm) on June 5</dd>
-
-<dd>[La Fête de l'Internet](http://www.fete-internet.fr/), a country-wide Internet fest, is held in France 20-21 March</dd>
-
-<dd>Web size estimates range between 275 (Digital) and 320 (NEC) million pages for 1Q</dd>
-
-<dd>Companies flock to the Turkmenistan NIC in order to register their name under the .tm domain, the English abbreviation for trademark</dd>
-
-<dd>Internet users get to be judges in a performance by 12 world champion ice skaters on 27 March, marking the first time a television sport show's outcome is determined by its viewers.</dd>
-
-<dd>Network Solutions registers its 2 millionth domain on 4 May</dd>
-
-<dd>Electronic postal stamps become a reality, with the [US Postal Service](http://www.usps.gov/) allowing stamps to be purchased and downloaded for printing from the Web.</dd>
-
-<dd>Canada kicks off CA*net 3, the first national optical internet</dd>
-
-<dd>CDA II and a ban on Net taxes are signed into US law (21 October)</dd>
-
-<dd>ABCNews.com accidentally posts test US election returns one day early (2 November)</dd>
-
-<dd>Indian ISP market is deregulated in November causing a rush for ISP operation licenses</dd>
-
-<dd>US DoC enters into an [agreement](http://www.ntia.doc.gov/ntiahome/domainname/icann-memorandum.htm) with the [Internet Corporation for Assigned Numbers (ICANN)](http://www.icann.org/) to establish a process for transitioning DNS from US Government management to industry (25 November)</dd>
-
-<dd>San Francisco sites without off-city mirrors go offline as the city blacks out on 8 December</dd>
-
-<dd>Chinese government puts Lin Hai on trial for "inciting the overthrow of state power" for providing 30,000 email addresses to a US Internet magazine (December) [ He is later sentenced to two years in jail ]</dd>
-
-<dd>French Internet users give up their access on 13 December to boycott France Telecom's local phone charges (which are in addition to the ISP charge)</dd>
-
-<dd>US$1M+ Domain Sales: Altavista.com (3.3M) to Compaq</dd>
-
-<dd>Open source software comes of age</dd>
-
-<dd>RFC 2321: [RITA -- The Reliable Internetwork Troubleshooting Agent](http://www.faqs.org/rfcs/rfc2321.html)</dd>
-
-<dd>RFC 2322: [Management of IP numbers by peg-dhcp](http://www.faqs.org/rfcs/rfc2322.html)</dd>
-
-<dd>RFC 2323: [IETF Identification and Security Guidelines](http://www.faqs.org/rfcs/rfc2323.html)</dd>
-
-<dd>RFC 2324: [Hyper Text Coffee Pot Control Protocol (HTCPCP/1.0)](http://www.faqs.org/rfcs/rfc2324.html)</dd>
-
-<dd>Country domains registered: Nauru (NR), Comoros (KM)</dd>
-
-<dd>_Bandwidth Generators:_ Winter Olympics (Feb), World Cup (Jun-Jul), Starr Report (11 Sep), Glenn space launch</dd>
-
-<dd>Top 10 Domains by Host #: com, net, edu, mil, jp, us, uk ,de, ca, au</dd>
-
-<dd>_Hacks of the Year:_ US Dept of Commerce (20 Feb), New York Times (13 Sep), China Society for Human Rights Studies (26 Oct), UNICEF (7 Jan)</dd>
-
-<dd>_Technologies of the Year:_ E-Commerce, E-Auctions, Portals</dd>
-
-<dd>_Emerging Technologies:_ E-Trade, XML, Intrusion Detection</dd>
-
-<dt>**1999**</dt>
-
-<dd>Internet access becomes available to the Saudi Arabian (.sa) public in January</dd>
-
-<dd>vBNS sets up an OC48 link between CalREN South and North using Juniper M40 routers</dd>
-
-<dd>IBM becomes the first Corporate partner to be approved for Internet2 access</dd>
-
-<dd>European Parliament proposes banning the caching of Web pages by ISPs</dd>
-
-<dd>The Internet Fiesta kicks off in March across Europe, building on the success of La Fête de l'Internet held in 1998</dd>
-
-<dd>US State Court rules that domain names are property that may be garnished</dd>
-
-<dd>MCI/Worldcom, the vBNS provider for NSF, begins upgrading the US backbone to 2.5Gbps</dd>
-
-<dd>A forged Web page made to look like a Bloomberg financial news story raised shares of a small technology company by 31% on 7 April.</dd>
-
-<dd>ICANN announces the five testbed registrars for the competitive Shared Registry System on 21 April: AOL, CORE, France Telecom/Oléane, Melbourne IT, Register.com. 29 additional post-testbed registrars are also selected on 21 April, followed by 8 on 25 May, 15 on 6 July, and so on for a total of 98 by year's end. The testbed, originally scheduled to last until 24 June, is extended until 10 September, and then 30 November. The first registrar to come online is Register.com on 7 June</dd>
-
-<dd>SETI@Home launches on 17 May and within four weeks its distributed Internet clients provide more computing power than the most powerful supercomputer of its time (:par:)</dd>
-
-<dd>First large-scale Cyberwar takes place simultaneously with the war in Serbia/Kosovo</dd>
-
-<dd>Abilene, the Internet2 network, reaches across the Atlantic and connects to NORDUnet and SURFnet</dd>
-
-<dd>The Web becomes the focal point of British politics as a list of MI6 agents is released on a UK Web site. Though forced to remove the list from the site, it was too late as the list had already been replicated across the Net. (15 May)</dd>
-
-<dd>Activists Net-wide target the world's financial centers on 18 June, timed to coincide with the G8 Summit. Little actual impact is reported.</dd>
-
-<dd>MCI/Worldcom launches vBNS+, a commercialized version of vBNS targeted at smaller educational and research institutions</dd>
-
-<dd>DoD issues a memo requiring all US military systems to connect via NIPRNET, and not directly to the Internet by 15 Dec 1999 (22 Aug)</dd>
-
-<dd>Somalia gets its first ISP - Olympic Computer (Sep)</dd>
-
-<dd>ISOC approves the formation of the Internet Societal Task Force (ISTF). Vint Cerf serves as first chair</dd>
-
-<dd>Free computers are all the rage (as long as you sign a long term contract for Net service)</dd>
-
-<dd>Country domains registered: Bangladesh (BD), Palestine (PS)</dd>
-
-<dd>vBNS reaches 101 connections</dd>
-
-<dd>US$1M+ Domain Sales: business.com (7.5M on 30 Nov), Wine.com (2.9M), Autos.com (2.2M), WallStreet.com (1M in Apr)</dd>
-
-<dd>RFC 2549: [IP over Avian Carriers with Quality of Service](http://www.faqs.org/rfcs/rfc2549.html)</dd>
-
-<dd>RFC 2550: [Y10K and Beyond](http://www.faqs.org/rfcs/rfc2550.html)</dd>
-
-<dd>RFC 2551: [The Roman Standards Process -- Revision III](http://www.faqs.org/rfcs/rfc2551.html)</dd>
-
-<dd>RFC 2555: [30 Years of RFCs](http://www.faqs.org/rfcs/rfc2555.html)</dd>
-
-<dd>RFC 2626: [The Internet and the Millennium Problem (Year 2000)](http://www.ietf.org/rfc/rfc2626.txt)</dd>
-
-<dd>Top 10 TLDs by Host #: com, net, edu, jp, uk, mil, us, de, ca, au</dd>
-
-<dd>_Hacks of the Year:_ Star Wars (8 Jan), .tp (Jan), USIA (23 Jan), E-Bay (13 Mar), US Senate (27 May), NSI (2 Jul), Paraguay Gov't (20 Jul), AntiOnline (5 Aug), Microsoft (26 Oct), UK Railtrack (31 Dec)</dd>
-
-<dd>_Technologies of the Year:_ E-Trade, Online Banking, MP3</dd>
-
-<dd>_Emerging Technologies:_ Net-Cell Phones, Thin Computing, Embedded Computing</dd>
-
-<dd>_Viruses of the Year:_ [Melissa](http://www.cert.org/advisories/CA-1999-04.html) (March), [ExploreZip](http://www.cert.org/advisories/CA-1999-06.html) (June)</dd>
-
-</dl>
+1990
+:  ARPANET ceases to exist
+:  [Electronic Frontier Foundation (EFF)](http://www.eff.org/) is founded by Mitch Kapor
+:  Archie released by Peter Deutsch, Alan Emtage, and Bill Heelan at McGill
+:  Hytelnet released by Peter Scott (Univ of Saskatchewan)
+:  The World comes on-line (world.std.com), becoming the first commercial provider of Internet dial-up access
+:  ISO Development Environment (ISODE) developed to provide an approach for OSI migration for the DoD.
+   ISODE software allows OSI application to operate over TCP/IP (:gck:)
+:  CA*net formed by 10 regional networks as national Canadian backbone with direct connection to NSFNET (:ec1:)
+:  The first remotely operated machine to be hooked up to the Internet,
+   the Internet Toaster by John Romkey, (controlled via SNMP) makes its debut at Interop.
+:  Czechoslovakia (.cs) connects to EARN/BitNet (11 Oct); .cs deleted in 1993
+:  RFC 1149: [A Standard for the Transmission of IP Datagrams on Avian Carriers](http://www.faqs.org/rfcs/rfc1149.html).  [Implementation](http://www.blug.linux.no/rfc1149/) is completed 11 years later by the Bergen Linux Users Group (28 Apr 2001)
+:  RFC 1178: [Choosing a Name for Your Computer](http://www.faqs.org/rfcs/rfc1178.html)
+:  Countries connecting to NSFNET: Argentina (AR), Austria (AT), Belgium (BE),
+   Brazil (BR), Chile (CL), Greece (GR), India (IN), Ireland (IE), Korea (KR),
+   Spain (ES), Switzerland (CH).
+
+1991
+:  First connection takes place between Brazil, by Fapesp, and the Internet at 9600 baud.
+:  Commercial Internet eXchange (CIX) Association, Inc. formed by General Atomics (CERFnet),
+   Performance Systems International, Inc. (PSInet), and UUNET Technologies, Inc. (AlterNet),
+   as NSF lifts restrictions on the commercial use of the Net (March) (:glg:)
+:  Wide Area Information Servers (WAIS), invented by Brewster Kahle,
+   released by Thinking Machines Corporation
+:  Gopher released by Paul Lindner and Mark P. McCahill from the Univ of Minnesota
+:  [World-Wide Web (WWW)](http://www.w3.org/History/) released by [CERN](http://www.cern.ch/);
+   Tim Berners-Lee developer (:pb1:). First Web server is nxoc01.cern.ch,
+   launched in Nov 1990 and later renamed info.cern.ch.
+:  PGP (Pretty Good Privacy) released by Philip Zimmerman (:ad1:)
+:  US High Performance Computing Act (Gore 1) establishes the National Research and Education Network (NREN)
+:  NSFNET backbone upgraded to T3 (44.736Mbps)
+:  NSFNET traffic passes 1 trillion bytes/month and 10 billion packets/month
+:  Defense Data Network NIC contract awarded by DISA to Government Systems Inc. who takes over from SRI on 1 Oct
+:  Start of JANET IP Service (JIPS) which signaled the changeover from Coloured Book software to TCP/IP within the UK academic network. IP was initially 'tunneled' within X.25\. (:gst:)
+:  RFC 1216: [Gigabit Network Economics and Paradigm Shifts](http://www.faqs.org/rfcs/rfc1216.html)
+:  RFC 1217: [Memo from the Consortium for Slow Commotion Research (CSCR)](http://www.faqs.org/rfcs/rfc1217.html)
+:  Countries connecting to NSFNET: Croatia (HR), Hong Kong (HK), Hungary (HU), Poland (PL), Portugal (PT), Singapore (SG), South Africa (ZA), Taiwan (TW), Tunisia (TN)
+
+1992
+:  Internet Society (ISOC) is chartered (January)
+:  IAB reconstituted as the Internet Architecture Board and becomes part of the Internet Society
+:  Number of hosts breaks 1,000,000
+:  First MBONE audio multicast (March) and video multicast (November)
+:  [RIPE](http://www.ripe.net/) Network Coordination Center (NCC) created in April to
+   provide address registration and coordination services to the European Internet community (:dk1:)
+:  Veronica, a gopherspace search tool, is released by Univ of Nevada
+:  [World Bank](http://www.worldbank.org/) comes on-line
+:  The term "[surfing the Internet](http://www.netmom.com/about-net-mom/26-surfing-the-internet.html)"
+   is coined by Jean Armour Polly (:jap:); Brendan Kehoe uses the term "net-surfing" as early as 6 June 1991
+   in a [USENET post](http://groups-beta.google.com/group/comp.admin.policy/msg/4c76bb41a52c2347?dmode=source) (:bt1:)
+:  [Zen and the Art of the Internet](http://www.cs.indiana.edu/docproject/zen/zen-1.0_toc.html) is published by Brendan Kehoe (:jap:)
+:  Internet Hunt started by Rick Gates
+:  RFC 1300: [Remembrances of Things Past](http://www.faqs.org/rfcs/rfc1300.html)
+:  RFC 1313: [Today's Programming for KRFC AM 1313 - Internet Talk Radio](http://www.faqs.org/rfcs/rfc1313.html)
+:  Countries connecting to NSFNET: Antarctica (AQ), Cameroon (CM), Cyprus (CY),
+   Ecuador (EC), Estonia (EE), Kuwait (KW), Latvia (LV), Luxembourg (LU), Malaysia (MY),
+   Slovenia (SI), Thailand (TH), Venezuela (VE)
+
+1993
+:  [InterNIC](http://www.internic.net/) created by NSF to provide specific Internet services: (:sc1:)
+    *  directory and database services (AT&T)
+    *  registration services (Network Solutions Inc.)
+    *  information services (General Atomics/CERFnet)
+:  US White House email comes on-line at whitehouse.gov; [web site](http://clinton1.nara.gov/) launches in 1994
+    *  President Bill Clinton: president@whitehouse.gov
+    *  Vice-President Al Gore: vice-president@whitehouse.gov
+:  Worms of a new kind find their way around the Net - WWW Worms (W4), joined by Spiders, Wanderers, Crawlers, and Snakes ...
+:  Internet Talk Radio begins broadcasting (:sk2:)
+:  [United Nations](http://www.un.org/) (UN) comes on-line (:vgc:)
+:  US National Information Infrastructure Act
+:  Businesses and media begin taking notice of the Internet
+:  .sk (Slovakia) and .cz (Czech Republic) created after split of Czechoslovakia; .cs decomissioned
+:  InterCon International KK (IIKK) provides Japan's first commercial Internet connection in September.
+   TWICS, though an IIKK leased line, begins offering dial-up accounts the following month (:tb1:)
+:  Mosaic takes the Internet by storm (22 Apr);
+   WWW proliferates at a 341,634% annual growth rate of service traffic.
+   Gopher's growth is 997%.
+:  RFC 1437: [The Extension of MIME Content-Types to a New Medium](http://www.faqs.org/rfcs/rfc1437.html)
+:  RFC 1438: [IETF Statements of Boredom (SOBs)](http://www.faqs.org/rfcs/rfc1438.html)
+:  Countries connecting to NSFNET: Bulgaria (BG), Costa Rica (CR), Egypt (EG),
+   Fiji (FJ), Ghana (GH), Guam (GU), Indonesia (ID), Kazakhstan (KZ), Kenya (KE),
+   Liechtenstein (LI), Peru (PE), Romania (RO), Russian Federation (RU),
+   Turkey (TR), Ukraine (UA), UAE (AE), US Virgin Islands (VI)
+
+1994
+:  ARPANET/Internet celebrates 25th anniversary
+:  Communities begin to be wired up directly to the Internet (Lexington and Cambridge, Mass., USA)
+:  US [Senate](http://www.senate.gov/) and [House](http://www.house.gov/) provide information servers
+:  Shopping malls arrive on the Internet
+:  First cyberstation, RT-FM, broadcasts from Interop in Las Vegas
+:  The National Institute for Standards and Technology (NIST) suggests that GOSIP should incorporate TCP/IP and drop the "OSI-only" requirement (:gck:)
+:  Arizona law firm of [Canter & Siegel](ftp://d.armory.com/pub/user/leavitt/html/cands.report.html) "spams" the Internet with email advertising green card lottery services; Net citizens flame back
+:  NSFNET traffic passes 10 trillion bytes/month
+:  Yes, it's true - you can now order pizza from the Hut online
+:  WWW edges out telnet to become 2nd most popular service on the Net (behind ftp-data)
+   based on % of packets and bytes traffic distribution on NSFNET
+:  Japanese Prime Minister on-line ([http://www.kantei.go.jp/](http://www.kantei.go.jp/))
+:  UK's HM Treasury on-line ([http://www.hm-treasury.gov.uk/](http://www.hm-treasury.gov.uk/))
+:  New Zealand's Info Tech Prime Minister on-line ([http://www.govt.nz/](http://www.govt.nz/))
+:  First Virtual, the first cyberbank, open up for business
+:  Radio stations start rockin' (rebroadcasting) round the clock on the Net:
+   WXYC at Univ of NC, KJHK at Univ of KS-Lawrence, KUGS at Western WA Univ
+:  IPng recommended by IETF at its Toronto meeting (July) and approved by IESG in November. Later documented as RFC 1752
+:  The first banner ads appear on hotwired.com in October. They were for Zima (a beverage) and AT&T
+:  Trans-European Research and Education Network Association ([TERENA](http://www.terena.org)) is formed by the merger of RARE and EARN,
+   with representatives from 38 countries as well as [CERN](http://www.cern.ch/)
+   and ECMWF.TERENA's aim is to "promote and participate in the development of a high quality international information and telecommunications infrastructure for the benefit of research and education" (October)
+:  After noticing that many network software vendors used domain.com in their documentation examples,
+   Bill Woodcock and Jon Postel register the domain.
+   Sure enough, after looking at the domain access logs, it was evident that many users were using the example domain in configuring their applications.
+:  The first web-based machine translation system is developed by this Timeline's author,
+   supporting 9 languages, and made available the following year to hundreds of thousands of users on OSIS and Intelink,
+   both US government networks
+:  RFC 1605: [SONET to Sonnet Translation](http://www.faqs.org/rfcs/rfc1605.html)
+:  RFC 1606: [A Historical Perspective On The Usage Of IP Version 9](http://www.faqs.org/rfcs/rfc1606.html)
+:  RFC 1607: [A VIEW FROM THE 21ST CENTURY](http://www.faqs.org/rfcs/rfc1607.html)
+:  Countries connecting to NSFNET: Algeria (DZ), Armenia (AM), Bermuda (BM),
+   Burkina Faso (BF), China (CN), Colombia (CO), Jamaica (JM), Jordan (JO),
+   Lebanon (LB), Lithuania (LT), Macao (MO), Morocco (MA), New Caledonia (NC),
+   Nicaragua (NI), Niger (NE), Panama (PA), Philippines (PH), Senegal (SN),
+   Sri Lanka (LK), Swaziland (SZ), Uruguay (UY), Uzbekistan (UZ)
+:  Top 10 Domains by Host #: com, edu, uk, gov, de, ca, mil, au, org, net
+
+1995
+:  NSFNET reverts back to a research network.
+   Main US backbone traffic now routed through interconnected network providers
+:  The new NSFNET is born as NSF establishes the very high speed Backbone Network Service (vBNS) linking super-computing centers: NCAR, NCSA, SDSC, CTC, PSC
+:  Neda Rayaneh Institute (NRI), Iran's first commercial provider, comes online,
+   connecting via satellite to Cadvision, a Canadian provider (:rm1:)
+:  Hong Kong police disconnect all but one of the colony's Internet providers for failure to obtain a license;
+   thousands of users are left without service (:kf2:)
+:  Sun launches JAVA on May 23
+:  RealAudio, an audio streaming technology, lets the Net hear in near real-time
+:  Radio HK, the first commercial 24 hr., Internet-only radio station starts broadcasting
+:  WWW surpasses ftp-data in March as the service with greatest traffic on NSFNet based on packet count,
+   and in April based on byte count
+:  Traditional online dial-up systems ([CompuServe](http://www.compuserve.com/),
+   [America Online](http://www.aol.com/), Prodigy) begin to provide Internet access
+:  Chris Lamprecht (aka "Minor Threat") becomes the first person banned from accessing the Internet by a US District Court judge in Texas
+:  Thousands in Minneapolis-St. Paul (USA) lose Net access after transients start a bonfire under a bridge at the Univ of MN causing fiber-optic cables to melt (30 July)
+:  A number of Net related companies go public, with Netscape leading the pack with the 3rd largest ever NASDAQ IPO share value (9 August)
+:  Registration of domain names is no longer free.
+   Beginning 14 September, a $50 annual fee has been imposed, which up until now was subsidized by NSF.
+   NSF continues to pay for .edu registration, and on an interim basis for .gov
+:  The Vatican comes on-line ([http://www.vatican.va/](http://www.vatican.va/))
+:  The Canadian Government comes on-line ([http://canada.gc.ca/](http://canada.gc.ca/))
+:  The first official Internet wiretap was successful in helping the Secret Service and Drug Enforcement Agency (DEA)
+   apprehend three individuals who were illegally manufacturing and selling cell phone cloning equipment and electronic devices
+:  Operation Home Front connects, for the first time,
+   soldiers in the field with their families back home via the Internet.
+:  Richard White becomes the first person to be declared a munition,
+   under the USA's arms export control laws, because of an RSA file security encryption program tattooed on his arm (:wired496:)
+:  RFC 1882: [The 12-Days of Technology Before Christmas](http://www.faqs.org/rfcs/rfc1882.html)
+:  Country domains registered: Ethiopia (ET), Cote d'Ivoire (CI),
+   Cook Islands (CK) Cayman Islands (KY), Anguilla (AI), Gibraltar (GI),
+   Vatican (VA), Kiribati (KI), Kyrgyzstan (KG), Madagascar (MG),
+   Mauritius (MU), Micronesia (FM), Monaco (MC), Mongolia (MN), Nepal (NP),
+   Nigeria (NG), Western Samoa (WS), San Marino (SM), Tanzania (TZ),
+   Tonga (TO), Uganda (UG), Vanuatu (VU)
+:  Top 10 Domains by Host #: com, edu, net, gov, mil, org, de, uk, ca, au
+:  _Technologies of the Year:_ WWW, Search engines
+:  _Emerging Technologies:_ Mobile code (JAVA, JAVAscript), Virtual environments (VRML), Collaborative tools
+:  _Hacks of the Year:_ The Spot (Jun 12), Hackers Movie Page (12 Aug)
+
+1996
+:  Internet phones catch the attention of US telecommunication companies who ask
+   the US Congress to ban the technology (which has been around for years)
+:  Malaysian Prime Minister Mahathir Mohamad, PLO Leader Yasser Arafat,
+   and Phillipine President Fidel Ramos meet for ten minutes in an online interactive chat session on 17 January.
+:  The controversial US Communications Decency Act (CDA) becomes law in the US in order to prohibit distribution of indecent materials over the Net.
+   A few months later a three-judge panel imposes an injunction against its enforcement. Supreme Court unanimously rules most of it unconstitutional in 1997.
+:  BackRub, Google's precursor, comes online
+:  9,272 organizations find themselves unlisted after the InterNIC drops their name service as a result of not having paid their domain name fee
+:  Various ISPs suffer extended service outages,
+   bringing into question whether they will be able to handle the growing number of users.
+   AOL (19 hours), Netcom (13 hours), AT&T WorldNet (28 hours - email only)
+:  Domain name tv.com sold to CNET for US$15,000
+:  New York's Public Access Networks Corp (PANIX) is shut down after repeated SYN attacks by a cracker using methods outlined in a hacker magazine ([2600](http://www.2600.org))
+:  MCI upgrades Internet backbone adding ~13,000 ports, bringing the effective speed from 155Mbps to 622Mbps.
+:  The Internet Ad Hoc Committee announces plans to add 7 new generic Top Level Domains (gTLD):
+  .firm, .store, .web, .arts, .rec, .info, .nom.
+  The IAHC plan also calls for a competing group of domain registrars worldwide.
+:  A malicious cancelbot is released on USENET wiping out more than 25,000 messages
+:  The WWW browser war, fought primarily between Netscape and Microsoft,
+   has rushed in a new age in software development,
+   whereby new releases are made quarterly with the help of Internet users eager to test upcoming (beta) versions.
+:  Internet2 project is kicked off by representatives from 34 universities on 1 Oct (:msb:)
+:  RFC 1925: [The Twelve Networking Truths](http://www.faqs.org/rfcs/rfc1925.html)
+:  Restrictions on Internet use around the world:
+
+    *  _China:_ requires users and ISPs to register with the police
+    *  _Germany:_ cuts off access to some newsgroups carried on CompuServe
+    *  _Saudi Arabia:_ confines Internet access to universities and hospitals
+    *  _Singapore:_ requires political and religious content providers to register with the state
+    *  _New Zealand_: classifies computer disks as "publications" that can be censored and seized
+    *  _source: Human Rights Watch_
+
+:  Country domains registered: Qatar (QA), Central African Republic (CF),
+   Oman (OM), Norfolk Island (NF), Tuvalu (TV), French Polynesia (PF),
+   Syria (SY), Aruba (AW), Cambodia (KH), French Guiana (GF), Eritrea (ER),
+   Cape Verde (CV), Burundi (BI), Benin (BJ) Bosnia-Herzegovina (BA),
+   Andorra (AD), Guadeloupe (GP), Guernsey (GG), Isle of Man (IM), Jersey (JE),
+   Lao (LA), Maldives (MV), Marshall Islands (MH), Mauritania (MR),
+   Northern Mariana Islands (MP), Rwanda (RW), Togo (TG), Yemen (YE), Zaire (ZR)
+:  Top 10 Domains by Host #: com, edu, net, uk, de, jp, us, mil, ca, au
+:  _Hacks of the Year:_ US Dept of Justice (17 Aug), CIA (19 Sep), Air Force (29 Dec),
+   UK Labour Party (6 Dec), NASA DDCSOL - USAFE - US Air Force (30 Dec)
+:  _Technologies of the Year:_ Search engines, JAVA, Internet Phone
+:  _Emerging Technologies:_ Virtual environments (VRML), Collaborative tools, Internet appliance (Network Computer)
+
+1997
+:  [2000th RFC](http://www.faqs.org/rfcs/rfc2000.html): "Internet Official Protocol Standards"
+:  71,618 mailing lists registered at Liszt, a mailing list directory
+:  The [American Registry for Internet Numbers (ARIN)](http://www.arin.net/)
+   is established to handle administration and registration of IP numbers to the geographical areas currently handled by Network Solutions (InterNIC),
+   starting March 1998.
+:  CA*net II launched in June to provide Canada's next generation Internet using ATM/SONET
+:  In protest of the DNS monopoly, AlterNIC's owner, Eugene Kashpureff, hacks DNS so users going to www.internic.net end up at www.alternic.net
+:  Domain name business.com sold for US$150,000
+:  Early in the morning of 17 July, human error at Network Solutions causes the DNS table for .com and .net domains to become corrupted, making millions of systems unreachable.
+:  Longest hostname registered with InterNIC: CHALLENGER.MED.SYNAPSE.UAH.UALBERTA.CA
+:  101,803 Name Servers in whois database
+:  RFC 2100: [The Naming of Hosts](http://www.faqs.org/rfcs/rfc2100.html)
+:  Country domains registered: Falkland Islands (FK), East Timor (TP),
+   R of Congo (CG), Christmas Island (CX), Gambia (GM), Guinea-Bissau (GW),
+   Haiti (HT), Iraq (IQ), Libya (LY), Malawi (MW), Martinique (MQ),
+   Montserrat (MS), Myanmar (MM), French Reunion Island (RE), Seychelles (SC),
+   Sierra Leone (SL), Somalia (SO), Sudan (SD), Tajikistan (TJ),
+   Turkmenistan (TM), Turks and Caicos Islands (TC),
+   British Virgin Islands (VG), Heard and McDonald Islands (HM),
+   French Southern Territories (TF), British Indian Ocean Territory (IO),
+   Svalbard and Jan Mayen Islands (SJ), St Pierre and Miquelon (PM),
+   St Helena (SH), South Georgia/Sandwich Islands (GS),
+   Sao Tome and Principe (ST), Ascension Island (AC),
+   US Minor Outlying Islands (UM), Mayotte (YT),
+   Wallis and Futuna Islands (WF), Tokelau Islands (TK), Chad Republic (TD),
+   Afghanistan (AF), Cocos Island (CC), Bouvet Island (BV), Liberia (LR),
+   American Samoa (AS), Niue (NU), Equatorial New Guinea (GQ), Bhutan (BT),
+   Pitcairn Island (PN), Palau (PW), DR of Congo (CD)
+:  Top 10 Domains by Host #: com, edu, net, jp, uk, de, us, au, ca, mil
+:  _Hacks of the Year:_ Indonesian Govt (19 Jan, 10 Feb, 24 Apr,
+   30 Jun, 22 Nov), NASA (5 Mar), UK Conservative Party (27 Apr), Spice Girls (14 Nov)
+:  _Technologies of the Year:_ Push, Multicasting
+:  _Emerging Technologies:_ Push
+
+1998
+:  _Hobbes' Internet Timeline_ is released as [RFC 2235](http://www.faqs.org/rfcs/rfc2235.html) & FYI 32
+:  US Depart of Commerce (DoC) releases the [Green Paper](http://www.ntia.doc.gov/ntiahome/domainname/dnsdrft.htm) outlining its plan to privatize DNS on 30 January.
+   This is followed up by a [White Paper](http://www.ntia.doc.gov/ntiahome/domainname/6_5_98dns.htm) on June 5
+:  [La Fête de l'Internet](http://www.fete-internet.fr/), a country-wide Internet fest, is held in France 20-21 March
+:  Web size estimates range between 275 (Digital) and 320 (NEC) million pages for 1Q
+:  Companies flock to the Turkmenistan NIC in order to register their name under the .tm domain, the English abbreviation for trademark
+:  Internet users get to be judges in a performance by 12 world champion ice skaters on 27 March, marking the first time a television sport show's outcome is determined by its viewers.
+:  Network Solutions registers its 2 millionth domain on 4 May
+:  Electronic postal stamps become a reality, with the [US Postal Service](http://www.usps.gov/) allowing stamps to be purchased and downloaded for printing from the Web.
+:  Canada kicks off CA*net 3, the first national optical internet
+:  CDA II and a ban on Net taxes are signed into US law (21 October)
+:  ABCNews.com accidentally posts test US election returns one day early (2 November)
+:  Indian ISP market is deregulated in November causing a rush for ISP operation licenses
+:  US DoC enters into an [agreement](http://www.ntia.doc.gov/ntiahome/domainname/icann-memorandum.htm)
+   with the [Internet Corporation for Assigned Numbers (ICANN)](http://www.icann.org/)
+   to establish a process for transitioning DNS from US Government management to industry (25 November)
+:  San Francisco sites without off-city mirrors go offline as the city blacks out on 8 December
+:  Chinese government puts Lin Hai on trial for "inciting the overthrow of state power"
+   for providing 30,000 email addresses to a US Internet magazine (December)
+   [ He is later sentenced to two years in jail ]
+:  French Internet users give up their access on 13 December to boycott France Telecom's local phone charges (which are in addition to the ISP charge)
+:  US$1M+ Domain Sales: Altavista.com (3.3M) to Compaq
+:  Open source software comes of age
+:  RFC 2321: [RITA -- The Reliable Internetwork Troubleshooting Agent](http://www.faqs.org/rfcs/rfc2321.html)
+:  RFC 2322: [Management of IP numbers by peg-dhcp](http://www.faqs.org/rfcs/rfc2322.html)
+:  RFC 2323: [IETF Identification and Security Guidelines](http://www.faqs.org/rfcs/rfc2323.html)
+:  RFC 2324: [Hyper Text Coffee Pot Control Protocol (HTCPCP/1.0)](http://www.faqs.org/rfcs/rfc2324.html)
+:  Country domains registered: Nauru (NR), Comoros (KM)
+:  _Bandwidth Generators:_ Winter Olympics (Feb), World Cup (Jun-Jul), Starr Report (11 Sep), Glenn space launch
+:  Top 10 Domains by Host #: com, net, edu, mil, jp, us, uk ,de, ca, au
+:  _Hacks of the Year:_ US Dept of Commerce (20 Feb), New York Times (13 Sep), China Society for Human Rights Studies (26 Oct), UNICEF (7 Jan)
+:  _Technologies of the Year:_ E-Commerce, E-Auctions, Portals
+:  _Emerging Technologies:_ E-Trade, XML, Intrusion Detection
+
+1999
+:  Internet access becomes available to the Saudi Arabian (.sa) public in January
+:  vBNS sets up an OC48 link between CalREN South and North using Juniper M40 routers
+:  IBM becomes the first Corporate partner to be approved for Internet2 access
+:  European Parliament proposes banning the caching of Web pages by ISPs
+:  The Internet Fiesta kicks off in March across Europe, building on the success of La Fête de l'Internet held in 1998
+:  US State Court rules that domain names are property that may be garnished
+:  MCI/Worldcom, the vBNS provider for NSF, begins upgrading the US backbone to 2.5Gbps
+:  A forged Web page made to look like a Bloomberg financial news story raised shares of a small technology company by 31% on 7 April.
+:  ICANN announces the five testbed registrars for the competitive Shared Registry System on 21 April:
+   AOL, CORE, France Telecom/Oléane, Melbourne IT, Register.com.
+   29 additional post-testbed registrars are also selected on 21 April,
+   followed by 8 on 25 May, 15 on 6 July, and so on for a total of 98 by year's end.
+   The testbed, originally scheduled to last until 24 June,
+   is extended until 10 September, and then 30 November.
+   The first registrar to come online is Register.com on 7 June
+:  SETI@Home launches on 17 May and within four weeks its distributed Internet clients provide more computing power than the most powerful supercomputer of its time (:par:)
+:  First large-scale Cyberwar takes place simultaneously with the war in Serbia/Kosovo
+:  Abilene, the Internet2 network, reaches across the Atlantic and connects to NORDUnet and SURFnet
+:  The Web becomes the focal point of British politics as a list of MI6 agents is released on a UK Web site.
+   Though forced to remove the list from the site, it was too late as the list had already been replicated across the Net. (15 May)
+:  Activists Net-wide target the world's financial centers on 18 June, timed to coincide with the G8 Summit.
+   Little actual impact is reported.
+:  MCI/Worldcom launches vBNS+, a commercialized version of vBNS targeted at smaller educational and research institutions
+:  DoD issues a memo requiring all US military systems to connect via NIPRNET,
+   and not directly to the Internet by 15 Dec 1999 (22 Aug)
+:  Somalia gets its first ISP - Olympic Computer (Sep)
+:  ISOC approves the formation of the Internet Societal Task Force (ISTF).
+   Vint Cerf serves as first chair
+:  Free computers are all the rage (as long as you sign a long term contract for Net service)
+:  Country domains registered: Bangladesh (BD), Palestine (PS)
+:  vBNS reaches 101 connections
+:  US$1M+ Domain Sales: business.com (7.5M on 30 Nov), Wine.com (2.9M), Autos.com (2.2M), WallStreet.com (1M in Apr)
+:  RFC 2549: [IP over Avian Carriers with Quality of Service](http://www.faqs.org/rfcs/rfc2549.html)
+:  RFC 2550: [Y10K and Beyond](http://www.faqs.org/rfcs/rfc2550.html)
+:  RFC 2551: [The Roman Standards Process -- Revision III](http://www.faqs.org/rfcs/rfc2551.html)
+:  RFC 2555: [30 Years of RFCs](http://www.faqs.org/rfcs/rfc2555.html)
+:  RFC 2626: [The Internet and the Millennium Problem (Year 2000)](http://www.ietf.org/rfc/rfc2626.txt)
+:  Top 10 TLDs by Host #: com, net, edu, jp, uk, mil, us, de, ca, au
+:  _Hacks of the Year:_ Star Wars (8 Jan), .tp (Jan), USIA (23 Jan), E-Bay (13 Mar), US Senate (27 May), NSI (2 Jul), Paraguay Gov't (20 Jul), AntiOnline (5 Aug), Microsoft (26 Oct), UK Railtrack (31 Dec)
+:  _Technologies of the Year:_ E-Trade, Online Banking, MP3
+:  _Emerging Technologies:_ Net-Cell Phones, Thin Computing, Embedded Computing
+:  _Viruses of the Year:_ [Melissa](http://www.cert.org/advisories/CA-1999-04.html) (March), [ExploreZip](http://www.cert.org/advisories/CA-1999-06.html) (June)
+{: .dl-traducao}
 
 * * *
 
