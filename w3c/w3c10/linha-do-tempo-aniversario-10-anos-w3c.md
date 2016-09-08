@@ -11,14 +11,25 @@ W3C <a href="http://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer" sha
 apply for the original and the translation.</p>'
 license: "W3C Software License"
 license-custom: null
-authors: ["W3C Communications Team"]
-translators: "Vilmar Neto"
-reviewers: "Lucas de Vito"
 original: {
     title: "Long Description of W3C10 Timeline Graphic",
     link: "https://www.w3.org/2005/01/timelines/description",
     dateOfTranslation: "2016-10-31"
 }
+authors: [{
+    name: "W3C Communications Team",
+    link: "https://www.w3.org/People/domain/comm"
+}]
+sponsors: null
+translators: [{
+    name: "Vilmar Neto",
+    link: "http://www.webiwg.org"
+}]
+reviewers: [{
+    name: "Lucas de Vito",
+    link: "http://www.webiwg.org"
+}]
+
 ---
 
 Este [gráfico temporal(timeline)](timeline-2500x998.png) produzido pela [W3C's Tenth Anniversary Celebration](/2004/09/W3C10.html) mostra cronologicamente os seguinte tipos de informação:

@@ -7,9 +7,20 @@ that helped shape the Internet as we know it today."
 copyright: "Hobbes' Internet Timeline Copyright (c)1993-2016 by Robert H Zakon."
 license: null
 license-custom: "Permission is granted for use of this document in whole or in part for non-commercial purposes as long as this Copyright notice and a link to this document, at the archive listed at the end, is included. A copy of the material the Timeline appears in is requested. For commercial uses, please contact the author first. Links to this document are welcome after e-mailing the author with the document URL where the link will appear. Hosting of the Timeline on other public Internet sites is not permitted."
-authors: ["Robert H'obbes' Zakon"]
-translators: ""
-reviewers: ""
+authors: [{
+    name: "Robert H'obbes' Zakon",
+    link: "http://www.zakon.org/"
+}]
+translators: null
+reviewers: null
+sponsors: [{
+    name: "Zakon Group LLC",
+    link: "http://www.zakongroup.com/"
+},
+{
+    name: "OpenConf",
+    link: "https://www.openconf.com/"
+}]
 original: {
     title: "Hobbes' Internet Timeline 23",
     link: "http://www.zakon.org/robert/internet/timeline/",
