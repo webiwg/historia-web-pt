@@ -896,7 +896,7 @@ discussion: https://github.com/webiwg/historia-web-pt/issues/5
 :  .asia sunrise period begins in October
 :  US$1M+ Domain Sales: Porn.com (9.5M), Computer.com (2.1M), Seniros.com (1.8M),
    Tandberg.com (1.5M), Scores.com, Vista.com (1.25M), Chinese.com (1.12M), Guy.com (1M), Topix.com (1M)
-:  RFC 4824: [The Transmission of IP Datagrams over the Semaphore Flag Signaling System (SFSS)](http://www.ietf.org/rfc/rfc4824.txt)<
+:  RFC 4824: [The Transmission of IP Datagrams over the Semaphore Flag Signaling System (SFSS)](http://www.ietf.org/rfc/rfc4824.txt)
 
 2008
 :  NASA successfully tests the first deep space communications network modeled on the Internet,
@@ -931,192 +931,124 @@ discussion: https://github.com/webiwg/historia-web-pt/issues/5
 :  RFC 5514: [IPv6 over Social Networks](http://www.ietf.org/rfc/rfc5514.txt)
 {: .dl-traducao}
 
-<dl>
-
+* * *
 
 ### 2010s
 
+2010
+:  Astronaut T.J. Creamer inaugurates the new International Space Station direct link to the Internet
+   (aka Crew Support LAN) with a tweet (22 Jan)
+   -- "Hello Twitterverse! We r now LIVE tweeting from the International Space Station
+   -- the 1st live tweet from Space! :) More soon, send your ?s"
+:  A Chinese root DNS server is taken offline after disrupting some services in Chile and US (Mar)
+:  Google announces on 22 January that along with 20+ other US companies,
+   it had been the target of a cyber attack originating in China,
+   and on 22 March stops censoring its services in China
+:  Google+ service launches in public beta on 28 June;
+   surpasses 10M users in Jul 2011, 100M in Feb 2012, and 400M in Sep 2012
+:  Root DNS zone digitally signed (DNSSEC) for first time (15 Jul)
+:  Number of registered domain reach 200M (~ Aug)
+:  A BGP experiment between RIPE NCC and Duke U results in a partial Internet outage (27 Aug)
+:  US Senate authorizes US Dept of Homeland Security to seize domains of sites suspected of piracy (Nov)
+:  Myanmar is temporarily taken offline by a denial of service attack (Nov)
+:  Verisign announced DNSSEC deployed to .net (10 Dec)
+:  Photo-sharing sees a renewal with the launch of social-based services such as Pinterest and Instagram
+:  US$1M+ Domain Sales: Poker.org (1M in Feb), Flying.com (1.1M in Apr), Photo.com (1.25M in May), Dating.com (1.75M in Jun), Slots.com (5.5M in Jun), fb.com (8.5M in Sep), Zip.com (1.6M in Oct), Sex.com (13M on 17 Nov)
+:  RFC 5841: [TCP Option to Denote Packet Mood](http://www.ietf.org/rfc/rfc5841.txt)
+
+2011
+:  LinkedIn reaches 100M users (Mar); surpasses 200M in Jan 2013
+:  Egypt shuts down its last ISP on 31 Jan and remains offline for two days
+:  Number Resource Organization (NRO) announces full depletion of available IPv4 addresses free pool (3 Feb)
+:  US Dept of Homeland Defense seizes 10 domains, including mistakenly mooo.com
+   which hosted 84,000 web sites and remain unavailable for two days (11 Feb)
+:  Internet traffic in Lybia is significantly curtailed for several days in February
+:  APNIC releases last block of IPv4 address in its available pool (14 Apr)
+:  .xxx goes live in root servers (15 Apr)
+:  First non-Latin TLDs (IDN) are inserted into root zone (5 May): مصر (Egypt), السعودية (AlSaudiah), امارات (Emarat)
+:  Millions of .de domains unreachable for hours (12 May)
+:  World IPv6 Day is 8 June
+:  Number of Internet users reaches 2 Billion (Nov)
+:  US$1M+ Domain Sales: DomainName.com (1M in May), Social.com (2.6M in Jul), Box.com (1M in Jul)
+:  RFC 5984: [Increasing Throughput in IP Networks with ESP-Based Forwarding: ESPBasedForwarding](http://www.ietf.org/rfc/rfc5984.txt)
+:  RFC 6214: [Adaptation of RFC 1149 for IPv6](http://www.ietf.org/rfc/rfc6214.txt)
+:  RFC 6217: [Regional Broadcast Using an Atmospheric Link Layer](http://www.ietf.org/rfc/rfc6217.txt)
+
+2012
+:  ICANN begins accepting applications for new generic top-level domains (gTLDs) on 12 Jan
+:  Facebook reaches 1 billion monthly active users (604M mobile) on 14 Sep @ 12:50pm PT, with 581M daily on average
+:  Amazon becomes the largest hosting location by number of web-facing computers (118k), knocking China Telecom from first place (116k)
+:  Canadian online sports gambling company Bodog has its .com domain name ceased by US Dept of Homeland Security, causing fear among international businesses that may be afoul of US laws and whose TLDs have US registries
+:  World IPv6 Launch is 6 June
+:  Minitel shuts down at the end of June
+:  GoDaddy service goes down, making millions of sites inaccessible for several hours (10 Sep)
+:  RIPE NCC distributes last blocks of IPv4 address space from available pool (14 Sep)
+:  Twitter surpasses 200M active users (Dec), and 500M tweets per day (Oct)
+:  NASA's Curiosity Rover checks-in on FourSquare from Mars (3 Oct)
+:  PKNIC is hacked and 284 Pakistani web sites, including apple.pk and google.pk, appear defaced (24 Nov)
+:  Syria is disconnected from the Internet for two days (29 Nov - 1 Dec)
+:  "Gangnam Style" becomes the first YouTube video to reach 1 billion views (21 Dec)
+:  US$1M+ Domain Sales: PersonalLoans.com (1M in Feb), GiftCard.com (4M in Oct), Investing.com (2.45M in Dec)
+:  RFC 6592: [The Null Packet](http://www.ietf.org/rfc/rfc6592.txt)
+:  RFC 6593: [Service Undiscovery Using Hide-and-Go-Seek for the Domain Pseudonym System (DPS)](http://www.ietf.org/rfc/rfc6593.txt)
+
+2013
+:  Netflix and YouTube account for over 50% of Internet traffic measured by bytes
+:  New gTLDs added to domain name root zone (24 Oct): شبكة (web), онлайн (online), сайт (site), and 游戏 (game)
+:  US National Security Agency (NSA) is revealed to be collecting considerable more Internet data than previously thought,
+   including encrypted information from major Internet sites
+:  US$1M+ Domain Sales: ig.com (4.7M in Sep), 114.com (2.1M in Jul), ebet.com (1.35M in Oct), kk.com (2.4M in Nov)
+:  RFC 6919: [Further Key Words for Use in RFCs to Indicate Requirement Levels](http://www.ietf.org/rfc/rfc6969.txt)
+:  RFC 6921: [Design Considerations for Faster-Than-Light (FTL) Communication](http://www.ietf.org/rfc/rfc6921.txt)
+:  The number of Internet hosts surpass 1billion (see chart below)
+
+2014
+:  Most of the Internet traffic in China is redirected to US-based Dynamic Internet Technology for over an hour (21 Jan)
+:  Registration begins for the first few of hundreds new Latin gTLDs,
+   including .guru, .bike, .clothing, .holdings, .ventures, .singles, and .plumbing (29 Jan)
+:  .py ccTLD hacked -- full whois registry data leaked and domains redirected (e.g., google.com.py) (20 Feb)
+:  The number of Web servers surpass 1billion (see chart below)
+:  ICANN announces that it has begun allocating the remaining IPv4 addresses to the five regional Internet registries after LACNIC's supply dropped to below 8 million (20 May)
+:  After an EU court ruling requiring Google to honor "requests to be forgotten",
+   12,000 requests are submitted in the first day (30 May)
+:  Many networks are taken offline due to a Verizon glitch introducing thousands of new prefixes into the global routing table,
+   causing popular but unpatched Cisco routers to reach their 512,000 limit and crash (12 Aug)
+:  RFC 7168: [The Hyper Text Coffee Pot Control Protocol for Tea Efflux Appliances (HTCPCP-TEA)](http://www.ietf.org/rfc/rfc7168.txt)
+:  RFC 7169: [The NSA (No Secrecy Afforded) Certificate Extension](http://www.ietf.org/rfc/rfc7169.txt)
+:  Hacks of the Year: Sony Pictures, Home Depot, JP Morgan, eBay
+:  Bugs of the year: Heartbleed (Dec 2011 - 7 Apr), Poodle (Nov 1996 - 14 Oct), Shellshock (Sep 1989 - 24 Sep)
+:  ICANN domain auction sales (US$): .tech (6.76M), .realty (5.59M),
+   .salon (5.1M), .buy (4.6M), .mls (3.359M), .baby (3.09M), .vip (3M), .spot (2.2M)
+:  US$1M+ Domain Sales: mm.com (1.2M in Jul), sex.xxx (3M in Jun),
+   medicare.com (4.8M in May), mi.com (3.6M in Apr), 37.com (1.96M in Mar),
+   youxi.com (2.43M in Mar), whisky.com (3.1M in Jan)
+
+2015
+:  A Georgian scavenging for copper cuts off much of the Internet in neighbouring Armenia when her spade slices a buried cable (28 Mar)
+:  Largest TLDs by zone size as of 2Q: .com, .tk, .de, .net, .cn, .uk, .org, .ru, .nl, .info
+:  Largest ccTLDs by zone size as of 2Q: .tk, .de, .cn, .uk, .ru, .nl, .eu, .br, .au, .fr
+:  HTTP header "X-Clacks-Overhead: GNU Terry Pratchett" is served by ~84,000 web sites (Jun) 3 months after Sir Pratchett's death
+:  ARIN activates IPv4 Unmet Requests policy, rejecting an IPv4 block request for the first time (1 Jul). ARIN's free pool depletes on 24 Sep.
+:  Out of 100 billion monthly Google searches, those from mobile devices surpass desktops for the first time
+:  1 billion users (1 in 7 people on Earth) access Facebook on a single day (24 Aug)
+:  IANA designates .onion a special use domain for anonymous hidden services on the Tor network (9 Sep)
+:  WordPress powers 25% of web sites as of early November
+:  Most of the internal Internet connectivity in Azerbaijan is lost as a result of a fire in a telecommunications facility (16 Nov)
+:  RFC 7511: [Scenic Routing for IPv6](http://www.ietf.org/rfc/rfc7511.txt)
+:  RFC 7514: [Really Explicit Congestion Notification (RECN)](http://www.ietf.org/rfc/rfc7514.txt)
+:  Hacks of the Year: US Office of Personnel Management, Ashley Madison, Anthem, T-Mobile, IRS
+:  ICANN domain auction sales (US$): .app (25M), .hotels (2.2M), .ping (1.5M)
+:  US$1M+ Domain Sales: Porno.com (8.8M in Feb), PX.com (1M in Sep), 588.com (1M in Sep)
+{: .dl-traducao}
 
-</dd>
 
-<dt>**2010**</dt>
-
-<dd>Astronaut T.J. Creamer inaugurates the new International Space Station direct link to the Internet (aka Crew Support LAN) with a tweet (22 Jan) -- "Hello Twitterverse! We r now LIVE tweeting from the International Space Station -- the 1st live tweet from Space! :) More soon, send your ?s"</dd>
-
-<dd>A Chinese root DNS server is taken offline after disrupting some services in Chile and US (Mar)</dd>
-
-<dd>Google announces on 22 January that along with 20+ other US companies, it had been the target of a cyber attack originating in China, and on 22 March stops censoring its services in China</dd>
-
-<dd>Google+ service launches in public beta on 28 June; surpasses 10M users in Jul 2011, 100M in Feb 2012, and 400M in Sep 2012</dd>
-
-<dd>Root DNS zone digitally signed (DNSSEC) for first time (15 Jul)</dd>
-
-<dd>Number of registered domain reach 200M (~ Aug)</dd>
-
-<dd>A BGP experiment between RIPE NCC and Duke U results in a partial Internet outage (27 Aug)</dd>
-
-<dd>US Senate authorizes US Dept of Homeland Security to seize domains of sites suspected of piracy (Nov)</dd>
-
-<dd>Myanmar is temporarily taken offline by a denial of service attack (Nov)</dd>
-
-<dd>Verisign announced DNSSEC deployed to .net (10 Dec)</dd>
-
-<dd>Photo-sharing sees a renewal with the launch of social-based services such as Pinterest and Instagram</dd>
-
-<dd>US$1M+ Domain Sales: Poker.org (1M in Feb), Flying.com (1.1M in Apr), Photo.com (1.25M in May), Dating.com (1.75M in Jun), Slots.com (5.5M in Jun), fb.com (8.5M in Sep), Zip.com (1.6M in Oct), Sex.com (13M on 17 Nov)</dd>
-
-<dd>RFC 5841: [TCP Option to Denote Packet Mood](http://www.ietf.org/rfc/rfc5841.txt)</dd>
-
-<dt>**2011**</dt>
-
-<dd>LinkedIn reaches 100M users (Mar); surpasses 200M in Jan 2013</dd>
-
-<dd>Egypt shuts down its last ISP on 31 Jan and remains offline for two days</dd>
-
-<dd>Number Resource Organization (NRO) announces full depletion of available IPv4 addresses free pool (3 Feb)</dd>
-
-<dd>US Dept of Homeland Defense seizes 10 domains, including mistakenly mooo.com which hosted 84,000 web sites and remain unavailable for two days (11 Feb)</dd>
-
-<dd>Internet traffic in Lybia is significantly curtailed for several days in February</dd>
-
-<dd>APNIC releases last block of IPv4 address in its available pool (14 Apr)</dd>
-
-<dd>.xxx goes live in root servers (15 Apr)</dd>
-
-<dd>First non-Latin TLDs (IDN) are inserted into root zone (5 May): مصر (Egypt), السعودية (AlSaudiah), امارات (Emarat)</dd>
-
-<dd>Millions of .de domains unreachable for hours (12 May)</dd>
-
-<dd>World IPv6 Day is 8 June</dd>
-
-<dd>Number of Internet users reaches 2 Billion (Nov)</dd>
-
-<dd>US$1M+ Domain Sales: DomainName.com (1M in May), Social.com (2.6M in Jul), Box.com (1M in Jul)</dd>
-
-<dd>RFC 5984: [Increasing Throughput in IP Networks with ESP-Based Forwarding: ESPBasedForwarding](http://www.ietf.org/rfc/rfc5984.txt)</dd>
-
-<dd>RFC 6214: [Adaptation of RFC 1149 for IPv6](http://www.ietf.org/rfc/rfc6214.txt)</dd>
-
-<dd>RFC 6217: [Regional Broadcast Using an Atmospheric Link Layer](http://www.ietf.org/rfc/rfc6217.txt)</dd>
-
-<dt>**2012**</dt>
-
-<dd>ICANN begins accepting applications for new generic top-level domains (gTLDs) on 12 Jan</dd>
-
-<dd>Facebook reaches 1 billion monthly active users (604M mobile) on 14 Sep @ 12:50pm PT, with 581M daily on average</dd>
-
-<dd>Amazon becomes the largest hosting location by number of web-facing computers (118k), knocking China Telecom from first place (116k)</dd>
-
-<dd>Canadian online sports gambling company Bodog has its .com domain name ceased by US Dept of Homeland Security, causing fear among international businesses that may be afoul of US laws and whose TLDs have US registries</dd>
-
-<dd>World IPv6 Launch is 6 June</dd>
-
-<dd>Minitel shuts down at the end of June</dd>
-
-<dd>GoDaddy service goes down, making millions of sites inaccessible for several hours (10 Sep)</dd>
-
-<dd>RIPE NCC distributes last blocks of IPv4 address space from available pool (14 Sep)</dd>
-
-<dd>Twitter surpasses 200M active users (Dec), and 500M tweets per day (Oct)</dd>
-
-<dd>NASA's Curiosity Rover checks-in on FourSquare from Mars (3 Oct)</dd>
-
-<dd>PKNIC is hacked and 284 Pakistani web sites, including apple.pk and google.pk, appear defaced (24 Nov)</dd>
-
-<dd>Syria is disconnected from the Internet for two days (29 Nov - 1 Dec)</dd>
-
-<dd>"Gangnam Style" becomes the first YouTube video to reach 1 billion views (21 Dec)</dd>
-
-<dd>US$1M+ Domain Sales: PersonalLoans.com (1M in Feb), GiftCard.com (4M in Oct), Investing.com (2.45M in Dec)</dd>
-
-<dd>RFC 6592: [The Null Packet](http://www.ietf.org/rfc/rfc6592.txt)</dd>
-
-<dd>RFC 6593: [Service Undiscovery Using Hide-and-Go-Seek for the Domain Pseudonym System (DPS)](http://www.ietf.org/rfc/rfc6593.txt)</dd>
-
-<dt>**2013**</dt>
-
-<dd>Netflix and YouTube account for over 50% of Internet traffic measured by bytes</dd>
-
-<dd>New gTLDs added to domain name root zone (24 Oct): شبكة (web), онлайн (online), сайт (site), and 游戏 (game)</dd>
-
-<dd>US National Security Agency (NSA) is revealed to be collecting considerable more Internet data than previously thought, including encrypted information from major Internet sites</dd>
-
-<dd>US$1M+ Domain Sales: ig.com (4.7M in Sep), 114.com (2.1M in Jul), ebet.com (1.35M in Oct), kk.com (2.4M in Nov)</dd>
-
-<dd>RFC 6919: [Further Key Words for Use in RFCs to Indicate Requirement Levels](http://www.ietf.org/rfc/rfc6969.txt)</dd>
-
-<dd>RFC 6921: [Design Considerations for Faster-Than-Light (FTL) Communication](http://www.ietf.org/rfc/rfc6921.txt)</dd>
-
-<dd>The number of Internet hosts surpass 1billion (see chart below)</dd>
-
-<dt>**2014**</dt>
-
-<dd>Most of the Internet traffic in China is redirected to US-based Dynamic Internet Technology for over an hour (21 Jan)</dd>
-
-<dd>Registration begins for the first few of hundreds new Latin gTLDs, including .guru, .bike, .clothing, .holdings, .ventures, .singles, and .plumbing (29 Jan)</dd>
-
-<dd>.py ccTLD hacked -- full whois registry data leaked and domains redirected (e.g., google.com.py) (20 Feb)</dd>
-
-<dd>The number of Web servers surpass 1billion (see chart below)</dd>
-
-<dd>ICANN announces that it has begun allocating the remaining IPv4 addresses to the five regional Internet registries after LACNIC's supply dropped to below 8 million (20 May)</dd>
-
-<dd>After an EU court ruling requiring Google to honor "requests to be forgotten", 12,000 requests are submitted in the first day (30 May)</dd>
-
-<dd>Many networks are taken offline due to a Verizon glitch introducing thousands of new prefixes into the global routing table, causing popular but unpatched Cisco routers to reach their 512,000 limit and crash (12 Aug)</dd>
-
-<dd>RFC 7168: [The Hyper Text Coffee Pot Control Protocol for Tea Efflux Appliances (HTCPCP-TEA)](http://www.ietf.org/rfc/rfc7168.txt)</dd>
-
-<dd>RFC 7169: [The NSA (No Secrecy Afforded) Certificate Extension](http://www.ietf.org/rfc/rfc7169.txt)</dd>
-
-<dd>Hacks of the Year: Sony Pictures, Home Depot, JP Morgan, eBay</dd>
-
-<dd>Bugs of the year: Heartbleed (Dec 2011 - 7 Apr), Poodle (Nov 1996 - 14 Oct), Shellshock (Sep 1989 - 24 Sep)</dd>
-
-<dd>ICANN domain auction sales (US$): .tech (6.76M), .realty (5.59M), .salon (5.1M), .buy (4.6M), .mls (3.359M), .baby (3.09M), .vip (3M), .spot (2.2M)</dd>
-
-<dd>US$1M+ Domain Sales: mm.com (1.2M in Jul), sex.xxx (3M in Jun), medicare.com (4.8M in May), mi.com (3.6M in Apr), 37.com (1.96M in Mar), youxi.com (2.43M in Mar), whisky.com (3.1M in Jan)</dd>
-
-<dt>**2015**</dt>
-
-<dd>A Georgian scavenging for copper cuts off much of the Internet in neighbouring Armenia when her spade slices a buried cable (28 Mar)</dd>
-
-<dd>Largest TLDs by zone size as of 2Q: .com, .tk, .de, .net, .cn, .uk, .org, .ru, .nl, .info</dd>
-
-<dd>Largest ccTLDs by zone size as of 2Q: .tk, .de, .cn, .uk, .ru, .nl, .eu, .br, .au, .fr</dd>
-
-<dd>HTTP header "X-Clacks-Overhead: GNU Terry Pratchett" is served by ~84,000 web sites (Jun) 3 months after Sir Pratchett's death</dd>
-
-<dd>ARIN activates IPv4 Unmet Requests policy, rejecting an IPv4 block request for the first time (1 Jul). ARIN's free pool depletes on 24 Sep.</dd>
-
-<dd>Out of 100 billion monthly Google searches, those from mobile devices surpass desktops for the first time</dd>
-
-<dd>1 billion users (1 in 7 people on Earth) access Facebook on a single day (24 Aug)</dd>
-
-<dd>IANA designates .onion a special use domain for anonymous hidden services on the Tor network (9 Sep)</dd>
-
-<dd>WordPress powers 25% of web sites as of early November</dd>
-
-<dd>Most of the internal Internet connectivity in Azerbaijan is lost as a result of a fire in a telecommunications facility (16 Nov)</dd>
-
-<dd>RFC 7511: [Scenic Routing for IPv6](http://www.ietf.org/rfc/rfc7511.txt)</dd>
-
-<dd>RFC 7514: [Really Explicit Congestion Notification (RECN)](http://www.ietf.org/rfc/rfc7514.txt)</dd>
-
-<dd>Hacks of the Year: US Office of Personnel Management, Ashley Madison, Anthem, T-Mobile, IRS</dd>
-
-<dd>ICANN domain auction sales (US$): .app (25M), .hotels (2.2M), .ping (1.5M)</dd>
-
-<dd>US$1M+ Domain Sales: Porno.com (8.8M in Feb), PX.com (1M in Sep), 588.com (1M in Sep)</dd>
-
-</dl>
-
+<!--
 * * *
 
 **_If you enjoy the Timeline or make use of it in some way, please [let me know](contributions.html)._**
 
 * * *
-
+-->
 
 ## Growth
 
