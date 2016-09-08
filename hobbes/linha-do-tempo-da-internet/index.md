@@ -26,6 +26,8 @@ original: {
     link: "http://www.zakon.org/robert/internet/timeline/",
     dateOfTranslation: "2016-09-08"
 }
+isDraft: true
+discussion: https://github.com/webiwg/historia-web-pt/issues/5
 ---
 
 [1950s](#1950s) | [1960s](#1960s) | [1970s](#1970s) | [1980s](#1980s) | [1990s](#1990s) | [2000s](#2000s) | [2010s](#2010s) | [Growth](#Growth) | [FAQ](#FAQ) | [Sources](#Sources)

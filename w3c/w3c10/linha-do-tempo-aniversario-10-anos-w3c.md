@@ -29,7 +29,8 @@ reviewers: [{
     name: "Lucas de Vito",
     link: "http://www.webiwg.org"
 }]
-
+isDraft: false
+discussion: https://github.com/webiwg/historia-web-pt/issues/2
 ---
 
 Este [gráfico temporal(timeline)](timeline-2500x998.png) produzido pela [W3C's Tenth Anniversary Celebration](/2004/09/W3C10.html) mostra cronologicamente os seguinte tipos de informação:
