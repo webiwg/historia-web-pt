@@ -1,18 +1,30 @@
-<center>[1950s](#1950s) | [1960s](#1960s) | [1970s](#1970s) | [1980s](#1980s) | [1990s](#1990s) | [2000s](#2000s) | [2010s](#2010s) | [Growth](#Growth) | [FAQ](#FAQ) | [Sources](#Sources)</center>
+---
+layout: translation
+date: 2016-01-01
+title: "Linha do Tempo da Internet - A história definitiva da ARPAnet e Internet"
+description: "An Internet timeline highlighting some of the key events and technologies
+that helped shape the Internet as we know it today."
+copyright: "Hobbes' Internet Timeline Copyright (c)1993-2016 by Robert H Zakon."
+license: null
+license-custom: "Permission is granted for use of this document in whole or in part for non-commercial purposes as long as this Copyright notice and a link to this document, at the archive listed at the end, is included. A copy of the material the Timeline appears in is requested. For commercial uses, please contact the author first. Links to this document are welcome after e-mailing the author with the document URL where the link will appear. Hosting of the Timeline on other public Internet sites is not permitted."
+authors: ["Robert H'obbes' Zakon"]
+translators: ""
+reviewers: ""
+original: {
+    title: "Hobbes' Internet Timeline 23",
+    link: "http://www.zakon.org/robert/internet/timeline/",
+    dateOfTranslation: "2016-09-08"
+}
+---
 
-<center>
+[1950s](#1950s) | [1960s](#1960s) | [1970s](#1970s) | [1980s](#1980s) | [1990s](#1990s) | [2000s](#2000s) | [2010s](#2010s) | [Growth](#Growth) | [FAQ](#FAQ) | [Sources](#Sources)
+
+
 
 ## Hobbes' Internet Timeline 23
 
-by
-
-<font size="+1">[Robert H'obbes' Zakon](http://www.zakon.org/)</font>
-
-with support from
-
+by [Robert H'obbes' Zakon](http://www.zakon.org/) with support from
 [Zakon Group LLC](http://www.ZakonGroup.com) and [OpenConf](http://www.OpenConf.com)
-
-</center>
 
 * * *
 
@@ -25,11 +37,7 @@ _email hobbes –at– zakon.org_
 
 * * *
 
-<center>
-
 ### <a name="1950s">1950s</a>
-
-</center>
 
 <dl>
 
@@ -41,11 +49,8 @@ _email hobbes –at– zakon.org_
 
 * * *
 
-<center>
-
 ### <a name="1960s">1960s</a>
 
-</center>
 
 <dl>
 
@@ -176,11 +181,11 @@ _email hobbes –at– zakon.org_
 
 * * *
 
-<center>
+
 
 ### <a name="1970s">1970s</a>
 
-</center>
+
 
 <dl>
 
@@ -314,11 +319,11 @@ _email hobbes –at– zakon.org_
 
 * * *
 
-<center>
+
 
 ### <a name="1980s">1980s</a>
 
-</center>
+
 
 <dl>
 
@@ -524,11 +529,11 @@ _email hobbes –at– zakon.org_
 
 * * *
 
-<center>
+
 
 ### <a name="1990s">1990s</a>
 
-</center>
+
 
 <dl>
 
@@ -968,11 +973,11 @@ _email hobbes –at– zakon.org_
 
 * * *
 
-<center>
+
 
 ### <a name="2000s">2000s</a>
 
-</center>
+
 
 <dl>
 
@@ -1291,11 +1296,11 @@ _email hobbes –at– zakon.org_
 
 <dd>RFC 5514: [IPv6 over Social Networks](http://www.ietf.org/rfc/rfc5514.txt)
 
-<center>
+
 
 ### <a name="2010s">2010s</a>
 
-</center>
+
 
 </dd>
 
@@ -1473,15 +1478,15 @@ _email hobbes –at– zakon.org_
 
 * * *
 
-<center>**_<font face="arial,helvetica,sans-serif">If you enjoy the Timeline or make use of it in some way, please [let me know](contributions.html).</font>_**</center>
+**_<font face="arial,helvetica,sans-serif">If you enjoy the Timeline or make use of it in some way, please [let me know](contributions.html)._**
 
 * * *
 
-<center>
+
 
 ### <a name="Growth">Growth</a>
 
-</center>
+
 
 **Early Internet growth:**
 
@@ -1516,13 +1521,13 @@ _email hobbes –at– zakon.org_
    Domains  = registered domain name (with name server record)
 </pre>
 
-<center>**Figure: Internet Domains (1989-1997)** [see below for 2000-]
+**Figure: Internet Domains (1989-1997)** [see below for 2000-]
 ![Internet Domains Chart 1](Count_Domains.gif)
 
 **Figure: Internet Networks**
 ![Internet Networks Chart](Count_Networks.gif)
 
-</center>
+
 
 **Worldwide Networks Growth:** (I)nternet (B)ITNET (U)UCP (F)IDONET (O)SI
 
@@ -1539,25 +1544,25 @@ _email hobbes –at– zakon.org_
    08/93    59  51 117  84  31
 </pre>
 
-<center>**Figure: Worldwide Networks Growth**
-![Worldwide Networks Growth Chart](Count_Network.gif)</center>
+**Figure: Worldwide Networks Growth**
+![Worldwide Networks Growth Chart](Count_Network.gif)
 
 **Domain Name Registrations:**
 
-<center>**Figure: Domain Name Registrations (2000-)**
-![Internet Domains Chart 2](Count_Domains2.gif)</center>
+**Figure: Domain Name Registrations (2000-)**
+![Internet Domains Chart 2](Count_Domains2.gif)
 
 **Internet Hosts:**
 
-<center>**Figure: Internet Hosts**
+**Figure: Internet Hosts**
 ![Internet Hosts Chart](Count_Host.gif)
-[click here for a chart showing the logarithmic growth of the Internet](Count_Host-log.gif)</center>
+[click here for a chart showing the logarithmic growth of the Internet](Count_Host-log.gif)
 
 **WWW Growth:**
 
-<center>**Figure: WWW Growth**
+**Figure: WWW Growth**
 ![WWW Growth Chart](Count_WWW.gif)
-[click here for a chart showing the logarithmic growth of the Web](Count_WWW-log.gif)</center>
+[click here for a chart showing the logarithmic growth of the Web](Count_WWW-log.gif)
 
 <pre>   Sites = Number of web servers (one host may have multiple sites by using different
            domains or port numbers)
@@ -1574,8 +1579,8 @@ _email hobbes –at– zakon.org_
 
 **Facebook Growth:**
 
-<center>**Figure: Facebook Accounts / Monthly Active Users (MAUs)**
-![Facebook Accounts chart](Count_Facebook.gif)</center>
+**Figure: Facebook Accounts / Monthly Active Users (MAUs)**
+![Facebook Accounts chart](Count_Facebook.gif)
 
 **USENET Growth:**
 
@@ -1622,11 +1627,11 @@ _email hobbes –at– zakon.org_
 
 * * *
 
-<center>
+
 
 ### <a name="FAQ">Hobbes' Internet Timeline FAQ</a>
 
-</center>
+
 
 <dl>
 
@@ -1664,11 +1669,11 @@ If you are interested in translating to another language or format, email me fir
 
 * * *
 
-<center>
+
 
 ### <a name="Sources">Sources</a>
 
-</center>
+
 
 <pre>Hobbes' Internet Timeline was compiled from a number of sources, with some
 of the stand-outs being:
