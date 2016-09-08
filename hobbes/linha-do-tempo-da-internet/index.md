@@ -61,34 +61,34 @@ discussion: https://github.com/webiwg/historia-web-pt/issues/5
 1961
 :  Leonard Kleinrock, MIT: "[Information Flow in Large Communication Nets](http://www.lk.cs.ucla.edu/bibliography-public_reports.html)" (May 31)
 
-    * First paper on packet-switching (PS) theory
+    *  First paper on packet-switching (PS) theory
 1962
 :  J.C.R. Licklider & W. Clark, MIT: "[On-Line Man Computer Communication](http://portal.acm.org/citation.cfm?id=1460847)" (August)
 
-    * _Galactic Network_ concept encompassing distributed social interactions
+    *  _Galactic Network_ concept encompassing distributed social interactions
 
 1964
 :  Paul Baran, RAND: "[On Distributed Communications Networks](http://www.rand.org/pubs/research_memoranda/RM3420.html)
 
-    * Packet-switching networks; no single outage point
+    *  Packet-switching networks; no single outage point
 
 1965
 :  ARPA sponsors study on "cooperative network of time-sharing computers"
 
-    * TX-2 at MIT Lincoln Lab and AN/FSQ-32 at System Development Corporation (Santa Monica, CA) are directly linked (without packet switches) via a dedicated 1200bps phone line;
+    *  TX-2 at MIT Lincoln Lab and AN/FSQ-32 at System Development Corporation (Santa Monica, CA) are directly linked (without packet switches) via a dedicated 1200bps phone line;
     Digital Equipment Corporation (DEC) computer at ARPA later added to form "The Experimental Network"
 
 1966
 : Lawrence G. Roberts, MIT: "Towards a Cooperative Network of Time-Shared Computers" (October)
 
-  * First ARPANET plan
+  *  First ARPANET plan
 
 1967
 : ARPANET design discussions held by Larry Roberts at ARPA IPTO PI meeting in Ann Arbor, Michigan (April)
 : [ACM](http://www.acm.org/) Symposium on Operating Systems Principles in Gatlinburg, Tennessee (October)
 
-    *   First design paper on ARPANET published by Larry Roberts: "Multiple Computer Networks and Intercomputer Communication
-    *   First meeting of the three independent packet network teams (RAND, NPL, ARPA)
+    *  First design paper on ARPANET published by Larry Roberts: "Multiple Computer Networks and Intercomputer Communication
+    *  First meeting of the three independent packet network teams (RAND, NPL, ARPA)
 : National Physical Laboratory (NPL) in Middlesex, England develops NPL Data Network under Donald Watts Davies who coins the term packet. The NPL network, an experiment in packet-switching, used 768kbps lines
 
 1968
@@ -117,6 +117,7 @@ discussion: https://github.com/webiwg/historia-web-pt/issues/5
     *   Culler-Fried Interactive Mathematics
     *   IBM 360/75, OS/MVT
 :  Node 4: University of Utah (December)
+
     *   Graphics
     *   DEC PDP-10, Tenex
 :  [Diagram of the 4-node ARPAnet](http://www.computerhistory.org/internet_history/full_size_images/1969_4-node_map.gif)
@@ -132,137 +133,111 @@ discussion: https://github.com/webiwg/historia-web-pt/issues/5
 
 ### 1970s
 
+1970
+:  First publication of the original ARPANET Host-Host protocol: C.S. Carr,
+   S. Crocker, V.G. Cerf, "HOST-HOST Communication Protocol in the ARPA Network,"
+   in AFIPS Proceedings of SJCC (:vgc:)
+:  First report on ARPANET at AFIPS: "Computer Network Development to Achieve Resource Sharing" (March)
+:  ALOHAnet, the first packet radio network, developed by Norman Abramson,
+   Univ of Hawaii, becomes operational (July) (:sk2:)
+
+    *  connected to the ARPANET in 1972
+:  ARPANET hosts start using Network Control Protocol (NCP), first host-to-host protocol
+:  First cross-country link installed by AT&T between UCLA and BBN at 56kbps.
+   This line is later replaced by another between BBN and RAND.
+   A second line is added between MIT and Utah
+
+1971
+:  15 nodes (23 hosts): UCLA, SRI, UCSB, Univ of Utah, BBN, MIT, RAND, SDC, Harvard, Lincoln Lab, Stanford, UIU(C), CWRU, CMU, NASA/Ames
+:  BBN starts building IMPs using the cheaper Honeywell 316.
+   IMPs however are limited to 4 host connections, and so BBN develops a terminal IMP (TIP) that supports up to 64 terminals (September)
+:  Ray Tomlinson of BBN invents email program to send messages across a distributed network.
+   The original program was derived from two others:
+   an intra-machine email program (SENDMSG) and an experimental file transfer program (CPYNET) (:amk:irh:)
+:  Project Gutenberg is started by Michael Hart with the purpose of making copyright-free works,
+   including books, electronically available.
+   The first text is the US Declaration of Independence (:dhr,msh:)
+
+1972
+:  Ray Tomlinson (BBN) modifies email program for ARPANET where it becomes a quick hit.
+   The @ sign was chosen from the punctuation keys on Tomlinson's Model 33 Teletype for its "at" meaning (March)
+:  Larry Roberts writes first email management program (RD) to list,
+   selectively read, file, forward, and respond to messages (July)
+:  International Conference on Computer Communications (ICCC) at the Washington D.C.
+   Hilton with demonstration of ARPANET between 40 machines and the Terminal Interface Processor (TIP) organized by Bob Kahn. (October)
+:  First computer-to-computer chat takes place at UCLA, and is repeated during ICCC,
+   as psychotic PARRY (at Stanford) discusses its problems with the Doctor (at BBN).
+:  International Network Working Group (INWG) formed in October as a result of a meeting at ICCC identifying the need for a combined effort in advancing networking technologies.
+   Vint Cerf appointed first Chair. By 1974, INWG became [IFIP](http://www.ifip.or.at/) WG 6.1 (:vgc:)
+:  Louis Pouzin leads the French effort to build its own ARPANET - CYCLADES
+:  RFC 318: [Telnet specification](http://www.faqs.org/rfcs/rfc318.html)
+
+1973
+:  First international connections to the ARPANET:
+   University College of London (England) via [NORSAR](http://www.norsar.no/) (Norway)
+:  Bob Metcalfe's Harvard PhD Thesis outlines idea for Ethernet.
+   The concept was tested on Xerox PARC's Alto computers,
+   and the first Ethernet network called the Alto Aloha System (May) (:amk:)
+:  Bob Kahn poses Internet problem, starts Internetting research program at ARPA.
+   Vinton Cerf sketches gateway architecture in March on back of envelope in a San Francisco hotel lobby (:vgc:)
+:  Cerf and Kahn present basic Internet ideas at INWG in September at Univ of Sussex, Brighton, UK (:vgc:)
+:  RFC 454: File Transfer specification
+:  Network Voice Protocol (NVP) specification (RFC 741) and implementation enabling conference calls over ARPAnet. (:bb1:)
+:  SRI (NIC) begins publishing ARPANET News in March; number of ARPANET users estimated at 2,000
+:  ARPA study shows email composing 75% of all ARPANET traffic
+:  Christmas Day Lockup - Harvard IMP hardware problem leads it to broadcast zero-length hops to any ARPANET destination,
+   causing all other IMPs to send their traffic to Harvard (25 December)
+:  RFC 527: [ARPAWOCKY](http://www.faqs.org/rfcs/rfc527.html)
+:  RFC 602: [The Stockings Were Hung by the Chimney with Care](http://www.faqs.org/rfcs/rfc602.html)
+
+1974
+:  Vint Cerf and Bob Kahn publish "[A Protocol for Packet Network Intercommunication](http://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf)"
+   which specified in detail the design of a Transmission Control Program (TCP).
+   [IEEE Trans Comm] (:amk:)
+:  BBN opens Telenet, the first public packet data service (a commercial version of ARPANET) (:sk2:)
+
+1975
+:  Operational management of Internet transferred to DCA (now [DISA](http://www.disa.mil/))
+:  First ARPANET mailing list, [MsgGroup](http://web.archive.org/web/20020209153802/www.tcm.org/msggroup/),
+   is created by Steve Walker. Einar Stefferud soon took over as moderator as the list was not automated at first.
+   A science fiction list, SF-Lovers, was to become the most popular unofficial list in the early days
+:  John Vittal develops MSG, the first all-inclusive email program providing replying,
+   forwarding, and filing capabilities.
+:  Satellite links cross two oceans (to Hawaii and UK) as the first TCP tests are run over them by Stanford, BBN, and UCL
+:  "[Jargon File](http://catb.org/~esr/jargon/html/)", by Raphael Finkel at SAIL, first released (:esr:)
+:  Shockwave Rider by John Brunner (:pds:)
+
+1976
+:  Elizabeth II, Queen of the United Kingdom sends out an email on 26 March from the Royal Signals and Radar Establishment (RSRE) in Malvern
+:  UUCP (Unix-to-Unix CoPy) developed at AT&T Bell Labs and distributed with [UNIX](http://www.columbia.edu/~rh120/ch001j.c11) one year later.
+:  Multiprocessing Pluribus IMPs are deployed
+
+1977
+:  THEORYNET created by Larry Landweber at Univ of Wisconsin providing electronic mail to over 100 researchers in computer science (using a locally developed email system over TELENET)
+:  RFC 733: [Mail specification](http://www.faqs.org/rfcs/rfc733.html)
+:  Tymshare spins out Tymnet under pressure from TELENET.
+   Both go on to develop X.25 protocol standard for virtual circuit style packet switching (:vgc:)
+:  First demonstration of ARPANET/SF Bay Packet Radio Net/Atlantic SATNET operation of Internet protocols with BBN-supplied gateways in July (:vgc:)
+
+1978
+:  TCP split into TCP and IP (March)
+:  Possibly the first commercial [spam message](http://www.templetons.com/brad/spamreact.html#msg)
+   is sent on 1 May by a DEC marketer advertising an upcoming presentation of its new DECSYSTEM-20 computers
+:  RFC 748: [TELNET RANDOMLY-LOSE Option](http://www.faqs.org/rfcs/rfc748.html)
+
+1979
+:  Meeting between Univ of Wisconsin, DARPA, [National Science Foundation](http://www.nsf.gov/) (NSF),
+   and computer scientists from many universities to establish a Computer Science Department research computer network (organized by Larry Landweber).
+:  USENET established using UUCP between Duke and UNC by Tom Truscott, Jim Ellis, and Steve Bellovin.
+   All original groups were under NET.* hierarchy.
+:  First MUD, MUD1, by Richard Bartle and Roy Trubshaw at U of Essex
+:  ARPA establishes the Internet Configuration Control Board (ICCB)
+:  Packet Radio Network (PRNET) experiment starts with DARPA funding.
+   Most communications take place between mobile vans. ARPANET connection via SRI.
+:  On April 12, Kevin MacKenzie emails the MsgGroup a suggestion of adding some emotion back into the dry text medium of email, such as -) for indicating a sentence was tongue-in-cheek.
+   Though flamed by many at the time, emoticons became widely used after Scott Fahlman suggested the use of :-) and :-( in a CMU BBS on 19 September 1982
+{: .dl-traducao}
 
-
-<dl>
-
-<dt>**1970**</dt>
-
-<dd>First publication of the original ARPANET Host-Host protocol: C.S. Carr, S. Crocker, V.G. Cerf, "HOST-HOST Communication Protocol in the ARPA Network," in AFIPS Proceedings of SJCC (:vgc:)</dd>
-
-<dd>First report on ARPANET at AFIPS: "Computer Network Development to Achieve Resource Sharing" (March)</dd>
-
-<dd>ALOHAnet, the first packet radio network, developed by Norman Abramson, Univ of Hawaii, becomes operational (July) (:sk2:)
-
-*   connected to the ARPANET in 1972
-
-</dd>
-
-<dd>ARPANET hosts start using Network Control Protocol (NCP), first host-to-host protocol</dd>
-
-<dd>First cross-country link installed by AT&T between UCLA and BBN at 56kbps. This line is later replaced by another between BBN and RAND. A second line is added between MIT and Utah</dd>
-
-<dt>**1971**</dt>
-
-<dd>15 nodes (23 hosts): UCLA, SRI, UCSB, Univ of Utah, BBN, MIT, RAND, SDC, Harvard, Lincoln Lab, Stanford, UIU(C), CWRU, CMU, NASA/Ames</dd>
-
-<dd>BBN starts building IMPs using the cheaper Honeywell 316\. IMPs however are limited to 4 host connections, and so BBN develops a terminal IMP (TIP) that supports up to 64 terminals (September)</dd>
-
-<dd>Ray Tomlinson of BBN invents email program to send messages across a distributed network. The original program was derived from two others: an intra-machine email program (SENDMSG) and an experimental file transfer program (CPYNET) (:amk:irh:)</dd>
-
-<dd>Project Gutenberg is started by Michael Hart with the purpose of making copyright-free works, including books, electronically available. The first text is the US Declaration of Independence (:dhr,msh:)</dd>
-
-<dt>**1972**</dt>
-
-<dd>Ray Tomlinson (BBN) modifies email program for ARPANET where it becomes a quick hit. The @ sign was chosen from the punctuation keys on Tomlinson's Model 33 Teletype for its "at" meaning (March)</dd>
-
-<dd>Larry Roberts writes first email management program (RD) to list, selectively read, file, forward, and respond to messages (July)</dd>
-
-<dd>International Conference on Computer Communications (ICCC) at the Washington D.C. Hilton with demonstration of ARPANET between 40 machines and the Terminal Interface Processor (TIP) organized by Bob Kahn. (October)</dd>
-
-<dd>First computer-to-computer chat takes place at UCLA, and is repeated during ICCC, as psychotic PARRY (at Stanford) discusses its problems with the Doctor (at BBN).</dd>
-
-<dd>International Network Working Group (INWG) formed in October as a result of a meeting at ICCC identifying the need for a combined effort in advancing networking technologies. Vint Cerf appointed first Chair. By 1974, INWG became [IFIP](http://www.ifip.or.at/) WG 6.1 (:vgc:)</dd>
-
-<dd>Louis Pouzin leads the French effort to build its own ARPANET - CYCLADES</dd>
-
-<dd>RFC 318: [Telnet specification](http://www.faqs.org/rfcs/rfc318.html)</dd>
-
-<dt>**1973**</dt>
-
-<dd>First international connections to the ARPANET: University College of London (England) via [NORSAR](http://www.norsar.no/) (Norway)</dd>
-
-<dd>Bob Metcalfe's Harvard PhD Thesis outlines idea for Ethernet. The concept was tested on Xerox PARC's Alto computers, and the first Ethernet network called the Alto Aloha System (May) (:amk:)</dd>
-
-<dd>Bob Kahn poses Internet problem, starts Internetting research program at ARPA. Vinton Cerf sketches gateway architecture in March on back of envelope in a San Francisco hotel lobby (:vgc:)</dd>
-
-<dd>Cerf and Kahn present basic Internet ideas at INWG in September at Univ of Sussex, Brighton, UK (:vgc:)</dd>
-
-<dd>RFC 454: File Transfer specification</dd>
-
-<dd>Network Voice Protocol (NVP) specification (RFC 741) and implementation enabling conference calls over ARPAnet. (:bb1:)</dd>
-
-<dd>SRI (NIC) begins publishing ARPANET News in March; number of ARPANET users estimated at 2,000</dd>
-
-<dd>ARPA study shows email composing 75% of all ARPANET traffic</dd>
-
-<dd>Christmas Day Lockup - Harvard IMP hardware problem leads it to broadcast zero-length hops to any ARPANET destination, causing all other IMPs to send their traffic to Harvard (25 December)</dd>
-
-<dd>RFC 527: [ARPAWOCKY](http://www.faqs.org/rfcs/rfc527.html)</dd>
-
-<dd>RFC 602: [The Stockings Were Hung by the Chimney with Care](http://www.faqs.org/rfcs/rfc602.html)</dd>
-
-<dt>**1974**</dt>
-
-<dd>Vint Cerf and Bob Kahn publish "[A Protocol for Packet Network Intercommunication](http://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf)" which specified in detail the design of a Transmission Control Program (TCP). [IEEE Trans Comm] (:amk:)</dd>
-
-<dd>BBN opens Telenet, the first public packet data service (a commercial version of ARPANET) (:sk2:)</dd>
-
-<dt>**1975**</dt>
-
-<dd>Operational management of Internet transferred to DCA (now [DISA](http://www.disa.mil/))</dd>
-
-<dd>First ARPANET mailing list, [MsgGroup](http://web.archive.org/web/20020209153802/www.tcm.org/msggroup/), is created by Steve Walker. Einar Stefferud soon took over as moderator as the list was not automated at first. A science fiction list, SF-Lovers, was to become the most popular unofficial list in the early days</dd>
-
-<dd>John Vittal develops MSG, the first all-inclusive email program providing replying, forwarding, and filing capabilities.</dd>
-
-<dd>Satellite links cross two oceans (to Hawaii and UK) as the first TCP tests are run over them by Stanford, BBN, and UCL</dd>
-
-<dd>"[Jargon File](http://catb.org/~esr/jargon/html/)", by Raphael Finkel at SAIL, first released (:esr:)</dd>
-
-<dd>Shockwave Rider by John Brunner (:pds:)</dd>
-
-<dt>**1976**</dt>
-
-<dd>Elizabeth II, Queen of the United Kingdom sends out an email on 26 March from the Royal Signals and Radar Establishment (RSRE) in Malvern</dd>
-
-<dd>UUCP (Unix-to-Unix CoPy) developed at AT&T Bell Labs and distributed with [UNIX](http://www.columbia.edu/~rh120/ch001j.c11) one year later.</dd>
-
-<dd>Multiprocessing Pluribus IMPs are deployed</dd>
-
-<dt>**1977**</dt>
-
-<dd>THEORYNET created by Larry Landweber at Univ of Wisconsin providing electronic mail to over 100 researchers in computer science (using a locally developed email system over TELENET)</dd>
-
-<dd>RFC 733: [Mail specification](http://www.faqs.org/rfcs/rfc733.html)</dd>
-
-<dd>Tymshare spins out Tymnet under pressure from TELENET. Both go on to develop X.25 protocol standard for virtual circuit style packet switching (:vgc:)</dd>
-
-<dd>First demonstration of ARPANET/SF Bay Packet Radio Net/Atlantic SATNET operation of Internet protocols with BBN-supplied gateways in July (:vgc:)</dd>
-
-<dt>**1978**</dt>
-
-<dd>TCP split into TCP and IP (March)</dd>
-
-<dd>Possibly the first commercial [spam message](http://www.templetons.com/brad/spamreact.html#msg) is sent on 1 May by a DEC marketer advertising an upcoming presentation of its new DECSYSTEM-20 computers</dd>
-
-<dd>RFC 748: [TELNET RANDOMLY-LOSE Option](http://www.faqs.org/rfcs/rfc748.html)</dd>
-
-<dt>**1979**</dt>
-
-<dd>Meeting between Univ of Wisconsin, DARPA, [National Science Foundation](http://www.nsf.gov/) (NSF), and computer scientists from many universities to establish a Computer Science Department research computer network (organized by Larry Landweber).</dd>
-
-<dd>USENET established using UUCP between Duke and UNC by Tom Truscott, Jim Ellis, and Steve Bellovin. All original groups were under NET.* hierarchy.</dd>
-
-<dd>First MUD, MUD1, by Richard Bartle and Roy Trubshaw at U of Essex</dd>
-
-<dd>ARPA establishes the Internet Configuration Control Board (ICCB)</dd>
-
-<dd>Packet Radio Network (PRNET) experiment starts with DARPA funding. Most communications take place between mobile vans. ARPANET connection via SRI.</dd>
-
-<dd>On April 12, Kevin MacKenzie emails the MsgGroup a suggestion of adding some emotion back into the dry text medium of email, such as -) for indicating a sentence was tongue-in-cheek. Though flamed by many at the time, emoticons became widely used after Scott Fahlman suggested the use of :-) and :-( in a CMU BBS on 19 September 1982</dd>
-
-</dl>
 
 * * *
 
