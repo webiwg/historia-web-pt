@@ -35,29 +35,49 @@ NIC 44125                                                   1 April 1978
 
                       TELNET RANDOMLY-LOSE Option
 
-1.  Command name and code.
+1.  Nome e código do comando.
 
    RANDOMLY-LOSE        256
 
-2.  Command meanings.
+2.  Significado do comando (O que faz).
 
    IAC WILL RANDOMLY-LOSE
 
       The sender  of this command  REQUESTS  permission  to, or confirms
       that it will, randomly lose.
+      
+      Quem envia esse comando (REQUESTS) pede/solicita permissão para randomly lose ou
+      confirma que vai ocorrer randomly lose.
+      
+      Quem envia esse comando (REQUESTS) pede/solicita ou permissão ou
+      confirma que vai ocorrer randomly lose.
+      
+      O emissor desse comando (REQUESTS) pede/solicita permissão 
+      ou confirma que vai ocorrer randomly lose.
 
    IAC WON'T RANDOMLY-LOSE
 
       The sender of this command REFUSES to randomly lose.
+      
+      O emissor desse comando se nega (REFUSES) a randomly lose.
 
    IAC DO RANDOMLY-LOSE
 
       The sender  of this command  REQUESTS that the receiver, or grants
       the receiver permission to, randomly lose.
+      
+      O emissor desse comando (REQUESTS) pede/solicita que o receptor, ou 
+      dá permissão ao receptor para, randomly lose.
+      
+      O emissor desse comando (REQUESTS) pede/solicita que o receptor ramdomly lose
+      ou dá permissão ao receptor para randomly lose.
+        
 
    IAC DON'T RANDOMLY-LOSE
 
       The command sender DEMANDS that the receiver not randomly lose.
+      
+      O emissor (DEMANDS) exige que o receptor não randomly lose.
 
 3.  Default.
 
@@ -66,14 +86,22 @@ NIC 44125                                                   1 April 1978
    DON'T RANDOMLY-LOSE
 
    i.e., random lossage will not happen.
+   
+   i,e., perca randômica não acontecerá.
 
-4.  Motivation for the option.
+4.  O motivo dessa opção.
 
+   Vários servidores aparentam prover random lossage como parte do seus
+   serviços ,por exemplo, quebras no sistema (crasches), perca de dados,
+   mau funcionamento de programas, etc... 
+   Esses serviços são frequentemente não documentados e são em geral 
+   confusos para um usuário novo (noob),  
    Several  hosts appear  to provide  random  lossage,  such  as  system
    crashes,  lost data,  incorrectly functioning programs, etc., as part
    of their services.   These services are often undocumented and are in
    general  quite confusing  to the novice  user.   A general  means  is
    needed to allow the user to disable these features.
+
 
 
 
