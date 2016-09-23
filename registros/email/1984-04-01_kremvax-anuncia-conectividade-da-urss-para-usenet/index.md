@@ -47,7 +47,7 @@ Lines: 41
 
 <.....>
 
-Well, today, 840401, this is at last the Socialist Union of Soviet
+Well, hoje today, 840401, this is at last the Socialist Union of Soviet
 Republics joining the Usenet network and saying hallo to everybody.
 
 One reason for us to join this network has been to have a means of
