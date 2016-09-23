@@ -33,18 +33,15 @@ Network Working Group                                         M. Crispin
 Request for Comments 748                                           SU-AI
 NIC 44125                                                   1 April 1978
 
-                      TELNET RANDOMLY-LOSE Option
+                      Opção de PERDA-ALEATORIA para TELNET
 
 1.  Nome e código do comando.
 
    RANDOMLY-LOSE        256
 
-2.  Significado do comando (O que faz).
+2.  Significado do comando.
 
    IAC WILL RANDOMLY-LOSE
-
-      The sender  of this command  REQUESTS  permission  to, or confirms
-      that it will, randomly lose.
       
       Quem envia esse comando (REQUESTS) pede/solicita permissão para randomly lose ou
       confirma que vai ocorrer randomly lose.
@@ -56,8 +53,6 @@ NIC 44125                                                   1 April 1978
       ou confirma que vai ocorrer randomly lose.
 
    IAC WON'T RANDOMLY-LOSE
-
-      The sender of this command REFUSES to randomly lose.
       
       O emissor desse comando se nega (REFUSES) a randomly lose.
 
@@ -113,8 +108,6 @@ NIC 44125                                                   1 April 1978
 
 NWG/RFC# 748                                          MRC 1-APR-78 44125
 Telnet Randomly-Lose Option
-
-
 
 5.  Description of the option.
 
