@@ -47,39 +47,39 @@ Lines: 41
 
 <.....>
 
-Well, today, 840401, this is at last the Socialist Union of Soviet
-Republics joining the Usenet network and saying hallo to everybody.
+Bem, hoje, 840401, isto é, finalmente, a União  Socialista da
+República Soviética aderiu à rede Usenet e diz olá para todos.
 
-One reason for us to join this network has been to have a means of
-having an open discussion forum with the American and European people
-and making clear to them our strong efforts towards attaining peaceful
-coexistence between the people of the Soviet Union and those of the
-United States and Europe.
+Uma razão para nós juntarmos a esta rede tem sido a de ter um meio de
+ter um fórum de discussão aberto com o povo americano e europeu
+e tornando claro para eles os nossos esforços fortes no sentido da obtenção pacífica
+a coexistência entre os povos da União Soviética e os da
+Estados Unidos e Europa.
 
-We have been informed that on this network many people have given strong
-anti-Russian opinions, but we believe they have been misguided by their
-leaders, especially the American administration, who is seeking for war
-and domination of the world.
-By well informing those people from our side we hope to have a possibility
-to make clear to them our intentions and ideas.
+Fomos informados de que nesta rede muitas pessoas têm dado forte
+opiniões anti-russas, mas acreditamos que eles têm sido mal orientados pelos seus
+líderes, especialmente a administração norte-americana, que está buscando pela guerra
+e dominação do mundo.
+por bem informando as pessoas do nosso lado, esperamos ter uma possibilidade
+para tornar claro para eles as nossas intenções e idéias.
 
-Some of those in the Western world, who believe in the truth of what we
-say have made possible our entry on this network; to them we are very
-grateful. We hereby invite you to freely give your comments and opinions.
+Alguns destes no mundo ocidental, quem acredita na verdade que nós
+dissemos que tem feito possível a nossa entrada nesta rede; a eles estamos muito
+grato. Convidamos você a dar livremente os seus comentários e opiniões.
 
-Here are the data for our backbone site:
+Aqui estão os dados para o nosso site de suporte  :
 
-Name: moskvax
-Organization: Moscow Institute for International Affairs
-Contact: K. Chernenko
-Phone: +7 095 840401
-Postal-Address: Moscow, Soviet Union
-Electronic-Address: mcvax!moskvax!kremvax!chernenko
-News: mcvax kremvax kgbvax
-Mail: mcvax kremvax kgbvax
+Nome: moskvax
+Organização: Moscow Institute for International Affairs
+Contato: K. Chernenko
+Telefone: +7 095 840401
+Endereço: Moscow, Soviet Union
+E-mail: mcvax!moskvax!kremvax!chernenko
+Novidades: mcvax kremvax kgbvax
+Correio: mcvax kremvax kgbvax
 
-And now, let's open a flask of Vodka and have a drink on our entry on
-this network. So:
+
+E agora, vamos abrir uma garrafa de vodka e beber na nossa entrada nesta rede. Portanto:
 
 			NA ZDAROVJE!
 
