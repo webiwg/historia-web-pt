@@ -34,38 +34,38 @@ discussion: https://github.com/webiwg/historia-web-pt/issues/16
 Relay-Version: version B 2.10 5/3/83; site utzoo.UUCP
 Posting-Version: version B 2.10.1 4/1/83 (SU840401); site kremvax.UUCP
 Path: utzoo!linus!philabs!mcvax!moskvax!kremvax!chernenko
-From: chernenko@kremvax.UUCP (K. Chernenko)
+De: chernenko@kremvax.UUCP (K. Chernenko)
 Newsgroups: net.general,eunet.general,net.politics,eunet.politics
-Subject: USSR on Usenet
+Assunto: USSR na Usenet
 Message-ID: <0001@kremvax.UUCP>
-Date: Sun, 1-Apr-84 11:02:52 EST
+Data: Domingo, 1-Abr-84 11:02:52 EST
 Article-I.D.: kremvax.0001
-Posted: Sun Apr  1 11:02:52 1984
-Date-Received: Tue, 3-Apr-84 19:42:40 EST
-Organization: MIIA, Moscow
-Lines: 41
+Postado: Domingo Abr  1 11:02:52 1984
+Data-Recebida: Tue, 3-Apr-84 19:42:40 EST
+Organização: MIIA, Moscow
+Linhas: 41
 
 <.....>
 
-Bem, hoje, 840401, isto é, finalmente, a União  Socialista da
-República Soviética aderiu à rede Usenet e diz olá para todos.
+Bem, hoje, 840401, isto é, finalmente, a União  das
+Repúblicas Socialistas Soviéticas aderiu à rede Usenet e diz olá para todos.
 
 Uma razão para nós juntarmos a esta rede tem sido a de ter um meio de
-ter um fórum de discussão aberto com o povo americano e europeu
-e tornando claro para eles os nossos esforços fortes no sentido da obtenção pacífica
+ter um fórum de discussão aberto com o povo americano e europeu,
+tornando claro para eles os nossos esforços fortes no sentido da obtenção pacífica
 a coexistência entre os povos da União Soviética e os da
 Estados Unidos e Europa.
 
-Fomos informados de que nesta rede muitas pessoas têm dado forte
+Fomos informados de que , nesta rede, muitas pessoas têm dado forte
 opiniões anti-russas, mas acreditamos que eles têm sido mal orientados pelos seus
-líderes, especialmente a administração norte-americana, que está buscando pela guerra
+líderes, especialmente a administração norte-americana, que está buscando a guerra
 e dominação do mundo.
 por bem informando as pessoas do nosso lado, esperamos ter uma possibilidade
 para tornar claro para eles as nossas intenções e idéias.
 
-Alguns destes no mundo ocidental, quem acredita na verdade que nós
-dissemos que tem feito possível a nossa entrada nesta rede; a eles estamos muito
-grato. Convidamos você a dar livremente os seus comentários e opiniões.
+Alguns destes no mundo ocidental, que acreditam na verdade que nós
+dissemos que tornaram possível a nossa entrada nesta rede; a eles estamos muito
+grato. Convidamos vocês a darem livremente os seus comentários e opiniões.
 
 Aqui estão os dados para o nosso site de suporte  :
 
@@ -79,7 +79,7 @@ Novidades: mcvax kremvax kgbvax
 Correio: mcvax kremvax kgbvax
 
 
-E agora, vamos abrir uma garrafa de vodka e beber na nossa entrada nesta rede. Portanto:
+E agora, vamos abrir uma garrafa de vodka e beber a nossa entrada nesta rede. Portanto:
 
 			NA ZDAROVJE!
 
