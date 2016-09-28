@@ -19,6 +19,7 @@ sponsors: null
 translators: null
 reviewers: null
 isDraft: true
+isReleaseCandidate: false
 discussion: https://github.com/webiwg/historia-web-pt/issues/20
 ---
 

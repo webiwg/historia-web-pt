@@ -18,7 +18,8 @@ authors: [{
 sponsors: null
 translators: null
 reviewers: null
-isDraft: true
+isDraft: false
+isReleaseCandidate: true
 discussion: https://github.com/webiwg/historia-web-pt/issues/16
 ---
 
