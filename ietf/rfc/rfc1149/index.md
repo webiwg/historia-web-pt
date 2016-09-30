@@ -47,26 +47,26 @@ Visão geral e racional
    mensageiros, mas muitos pombos podem ser usados sem interferência 
    significativa um com outro, fora do ínicio da primavera. Isto é devido
    ao espaço _ether_ 3D para os pombos, em contraste ao _ether_ 1D usado
-   pela IEEE802.3. Os pombos tem um sistema de desvio intrinsíco de colisão,
+   pela IEEE802.3. Os pombos tem um sistema de desvio intrínseco de colisão,
    que aumenta a disponibilidade. Ao contrário de altas tecnologias de rede,
    tais como Rádio Pacote, comunicação não é limitada a distância linha de visão.
    Serviço de orientação de conexão está disponível em algumas cidades, usualmente
    baseada em uma tecnologia _hub_ central.
 
 
-Frame Format
+Formato do _Frame_
 
-   The IP datagram is printed, on a small scroll of paper, in
-   hexadecimal, with each octet separated by whitestuff and blackstuff.
-   The scroll of paper is wrapped around one leg of the avian carrier.
-   A band of duct tape is used to secure the datagram's edges.  The
-   bandwidth is limited to the leg length.  The MTU is variable, and
-   paradoxically, generally increases with increased carrier age.  A
-   typical MTU is 256 milligrams.  Some datagram padding may be needed.
+   O datagrama IP é impresso, em um pedaço pequeno de papel, em hexadecimal,
+   com cada octeto separado por _whitestuff_ e _blackstuff_. O rolo de papel
+   está envolto sobre uma perna do pombo correio. Uma bandagem de fita adesiva
+   é utilizada para proteger as bordas do datagrama. A largura da bandagem é 
+   limitada ao tamanho da perna. O _MTU_ é variável, e paradoxalmente, geralmente
+   aumenta com a idade do pombo. Um _MTU_ típico é 256 miligramas. Algumas plataformas
+   de datagramas serão necessárias.
 
-   Upon receipt, the duct tape is removed and the paper copy of the
-   datagram is optically scanned into a electronically transmittable
-   form.
+   Após o recebimento, a fita adesiva é removida e cópia do papel é oticalmente
+   escaneada de forma eletronicamente transmitivel.
+  
 
 Discussion
 
