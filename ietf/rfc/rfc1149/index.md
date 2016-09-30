@@ -68,12 +68,14 @@ Formato do _Frame_
    escaneada de forma eletronicamente transmitivel.
   
 
-Discussion
-
+Discussão
+   
+   Múltiplos tipos de serviços podem ser providenciados com estrutura de poder
+   priorizada. Uma propriedade adicional é detecção e erradicação de worm 
+   embutida. Poruqe IP só garante a entrega de melhor esforço, perda de 
+   um pombo pode ser tolerada. Com tempo os pombos se auto-regeneram.
    Multiple types of service can be provided with a prioritized pecking
-   order.  An additional property is built-in worm detection and
-   eradication.  Because IP only guarantees best effort delivery, loss
-   of a carrier can be tolerated.  With time, the carriers are self-
+   
 
 
 
@@ -81,11 +83,11 @@ Waitzman                                                        [Page 1]
 
 RFC 1149             IP Datagrams on Avian Carriers         1 April 1990
 
-
-   regenerating.  While broadcasting is not specified, storms can cause
-   data loss.  There is persistent delivery retry, until the carrier
-   drops.  Audit trails are automatically generated, and can often be
-   found on logs and cable trays.
+   Enquanto o _broadcasting_ não é específico, tempestades podem causar
+   perda de dados. Existe uma nova tentativa de entrega persistente, até
+   que o pombo caía. Trilhas de audiotria são geradas automaticamentes, e 
+   podem ser achadas em _logs_ e suportes para cabos.
+   
 
 Security Considerations
 
