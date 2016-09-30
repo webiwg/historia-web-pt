@@ -39,19 +39,20 @@ Status deste Memo
    deste memo é ilimitada.
  
 
-Overview and Rational
+Visão geral e racional
 
-   Avian carriers can provide high delay, low throughput, and low
-   altitude service.  The connection topology is limited to a single
-   point-to-point path for each carrier, used with standard carriers,
-   but many carriers can be used without significant interference with
-   each other, outside of early spring.  This is because of the 3D ether
-   space available to the carriers, in contrast to the 1D ether used by
-   IEEE802.3.  The carriers have an intrinsic collision avoidance
-   system, which increases availability.  Unlike some network
-   technologies, such as packet radio, communication is not limited to
-   line-of-sight distance.  Connection oriented service is available in
-   some cities, usually based upon a central hub topology.
+   Pombos correios podem provocar alto _delay_ , baixo _throughput_ e 
+   serviço de baixa altitude. A topologia da conexão está limitada a
+   um único caminho ponto-a-ponto para cada pombo, usado com padrão dos 
+   mensageiros, mas muitos pombos podem ser usados sem interferência 
+   significativa um com outro, fora do ínicio da primavera. Isto é devido
+   ao espaço _ether_ 3D para os pombos, em contraste ao _ether_ 1D usado
+   pela IEEE802.3. Os pombos tem um sistema de desvio intrinsíco de colisão,
+   que aumenta a disponibilidade. Ao contrário de altas tecnologias de rede,
+   tais como Rádio Pacote, comunicação não é limitada a distância linha de visão.
+   Serviço de orientação de conexão está disponível em algumas cidades, usualmente
+   baseada em uma tecnologia _hub_ central.
+
 
 Frame Format
 
