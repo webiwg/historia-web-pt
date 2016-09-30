@@ -44,12 +44,6 @@ NIC 44125                                                   1 April 1978
 
    IAC WILL RANDOMLY-LOSE
 
-      Quem envia esse comando (REQUESTS) pede/solicita permissão para randomly lose ou
-      confirma que vai ocorrer randomly lose.
-
-      Quem envia esse comando (REQUESTS) pede/solicita ou permissão ou
-      confirma que vai ocorrer randomly lose.
-
       O emissor desse comando (REQUESTS) pede/solicita permissão
       ou confirma que vai ocorrer randomly lose.
 
@@ -59,21 +53,14 @@ NIC 44125                                                   1 April 1978
 
    IAC DO RANDOMLY-LOSE
 
-      The sender  of this command  REQUESTS that the receiver, or grants
-      the receiver permission to, randomly lose.
-
       O emissor desse comando (REQUESTS) pede/solicita que o receptor, ou
       dá permissão ao receptor para, randomly lose.
 
-      O emissor desse comando (REQUESTS) pede/solicita que o receptor ramdomly lose
-      ou dá permissão ao receptor para randomly lose.
-
+     
 
    IAC DON'T RANDOMLY-LOSE
 
-      The command sender DEMANDS that the receiver not randomly lose.
-
-      O emissor (DEMANDS) exige que o receptor não randomly lose.
+      O emissor (DEMANDS) exige que o receptor não faça randomly lose.
 
 3.  Default.
 
@@ -81,22 +68,17 @@ NIC 44125                                                   1 April 1978
 
    DON'T RANDOMLY-LOSE
 
-   i.e., random lossage will not happen.
-
    i,e., perca randômica não acontecerá.
 
 4.  O motivo dessa opção.
 
    Vários servidores aparentam prover random lossage como parte do seus
-   serviços ,por exemplo, quebras no sistema (crasches), perca de dados,
+   serviços ,por exemplo, quebras no sistema (crashes), perca de dados,
    mau funcionamento de programas, etc...
    Esses serviços são frequentemente não documentados e são em geral
-   confusos para um usuário novo (noob),
-   Several  hosts appear  to provide  random  lossage,  such  as  system
-   crashes,  lost data,  incorrectly functioning programs, etc., as part
-   of their services.   These services are often undocumented and are in
-   general  quite confusing  to the novice  user.   A general  means  is
-   needed to allow the user to disable these features.
+   confusos para um usuário novo. Um meio geral é necessário para permitir
+   o usuário desabilitar tais recursos.
+  
 
 
 
@@ -110,25 +92,32 @@ NIC 44125                                                   1 April 1978
 NWG/RFC# 748                                          MRC 1-APR-78 44125
 Telnet Randomly-Lose Option
 
-5.  Description of the option.
-
+5.  Descrição da opção
+   
+   O modo normal não permiti perda randômica; por isso o sistema não é permitido
+   crashar,
    The normal  mode does not allow random  lossage; therefore the system
-   is not allowed  to crash,  mung user files, etc.  If the server wants
-   to provide  random lossage, it must first ask for permission from the
-   user by sending IAC WILL RANDOMLY-LOSE.
-
-   If the user wants  to permit  the server  to randomly lose, it replys
-   with  IAC  DO   RANDOMLY-LOSE.    Otherwise   it   sends   IAC   DONT
-   RANDOMLY-LOSE, and the server is forbidden from randomly losing.
-
+   is not allowed  to crash,  arquivos de usuários **mung** , etc. Se o server 
+   quer promover perda randômica, primeiro irá perguntar por permissão
+   pelo usuário mandando IAC WILL RANDOMLY-LOSE.
+   
+   Se o usuário quer permitir que o server faça perda randômica, responde
+   com IAC DO RANDOMLY-LOSE. Caso contrário envia  IAC   DONT RANDOMLY-LOSE,
+   e server é proibido de ter perca randômica.
+ 
+   Alternativamente, o usuário poderá pedir ao server perda randômica, ao
+   enviar IAC DO RANDOMLY-LOSE, e o server irá ou responder com IAC WILL 
+   RANDOMLY-LOSE, significando que irá proceder com alguma perda randômica
+   (
    Alternatively, the user could request the server to randomly lose, by
    sending  IAC DO RANDOMLY-LOSE,  and the server will either reply with
    IAC WILL RANDOMLY-LOSE,  meaning that it will then proceed to do some
-   random  lossage  (garbaging  disk files is recommended for an initial
-   implementation).   Or,  it could send IAC WONT RANDOMLY-LOSE, meaning
-   that it insists upon being reliable.
+   random  lossage  (garbaging de arquivos de disco é recomendado para uma 
+   implementação inicial). O, irá enviar IAC WONT RANDOMLY-LOSE, significando 
+   que insiste até que seja confiável.
 
-   Since  this is implemented  as a TELNET  option,  it is expected that
-   servers  which do not implement  this option  will not randomly lose;
-   ie, they will provide 100% reliable uptime.
+   Desde de que isso é implementando no TELNET como opção, é esperado que
+   servers que não implementam tal opção não terão perda randômica; i.e,
+   eles irão promover 100% de confiança em tempo operante.
+  
 </pre>
