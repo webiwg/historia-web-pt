@@ -28,15 +28,16 @@ Network Working Group                                        D. Waitzman
 Request for Comments: 1149                                       BBN STC
                                                             1 April 1990
 
+   Um Padrão para a Transmissão de Datagramas IP em Pombos Correios
+   _A Standard for the Transmission of IP Datagrams on Avian Carriers_
 
-   A Standard for the Transmission of IP Datagrams on Avian Carriers
-
-Status of this Memo
-
-   This memo describes an experimental method for the encapsulation of
-   IP datagrams in avian carriers.  This specification is primarily
-   useful in Metropolitan Area Networks.  This is an experimental, not
-   recommended standard.  Distribution of this memo is unlimited.
+Status deste Memo
+   
+   Este memo descreve um metódo experimental para encapsulamento de datagramas de IP
+   em pombos correios . Esta especificação é primariamente útil em Redes de Área
+   Metropolitana. Isto é um experimento, não um padrão recomendado. Distribuição
+   deste memo é ilimitada.
+ 
 
 Overview and Rational
 
