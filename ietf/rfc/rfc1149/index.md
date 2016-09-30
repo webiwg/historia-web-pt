@@ -29,7 +29,7 @@ Pedidos para comentários: 1149                                       BBN STC
                                                             1º Abril 1990
 
    Um Padrão para a Transmissão de Datagramas IP em Pombos Correios
-   _A Standard for the Transmission of IP Datagrams on Avian Carriers_
+   __A Standard for the Transmission of IP Datagrams on Avian Carriers__
 
 Status deste Memo
    
@@ -41,27 +41,27 @@ Status deste Memo
 
 Visão geral e racional
 
-   Pombos correios podem provocar alto _delay_ , baixo _throughput_ e 
+   Pombos correios podem provocar alto __delay__ , baixo __throughput__ e 
    serviço de baixa altitude. A topologia da conexão está limitada a
    um único caminho ponto-a-ponto para cada pombo, usado com padrão dos 
    mensageiros, mas muitos pombos podem ser usados sem interferência 
    significativa um com outro, fora do ínicio da primavera. Isto é devido
-   ao espaço _ether_ 3D para os pombos, em contraste ao _ether_ 1D usado
+   ao espaço __ether__ 3D para os pombos, em contraste ao __ether__ 1D usado
    pela IEEE802.3. Os pombos tem um sistema de desvio intrínseco de colisão,
    que aumenta a disponibilidade. Ao contrário de altas tecnologias de rede,
    tais como Rádio Pacote, comunicação não é limitada a distância linha de visão.
    Serviço de orientação de conexão está disponível em algumas cidades, usualmente
-   baseada em uma tecnologia _hub_ central.
+   baseada em uma tecnologia __hub__ central.
 
 
-Formato do _Frame_
+Formato do __Frame__
 
    O datagrama IP é impresso, em um pedaço pequeno de papel, em hexadecimal,
-   com cada octeto separado por _whitestuff_ e _blackstuff_. O rolo de papel
+   com cada octeto separado por __whitestuff__ e __blackstuff__. O rolo de papel
    está envolto sobre uma perna do pombo correio. Uma bandagem de fita adesiva
    é utilizada para proteger as bordas do datagrama. A largura da bandagem é 
-   limitada ao tamanho da perna. O _MTU_ é variável, e paradoxalmente, geralmente
-   aumenta com a idade do pombo. Um _MTU_ típico é 256 miligramas. Algumas plataformas
+   limitada ao tamanho da perna. O __MTU__ é variável, e paradoxalmente, geralmente
+   aumenta com a idade do pombo. Um __MTU__ típico é 256 miligramas. Algumas plataformas
    de datagramas serão necessárias.
 
    Após o recebimento, a fita adesiva é removida e cópia do papel é oticalmente
@@ -74,7 +74,7 @@ Discussão
    priorizada. Uma propriedade adicional é detecção e erradicação de worm 
    embutida. Poruqe IP só garante a entrega de melhor esforço, perda de 
    um pombo pode ser tolerada. Com tempo os pombos se auto-regeneram.
-   Multiple types of service can be provided with a prioritized pecking
+   
    
 
 
@@ -83,10 +83,10 @@ Waitzman                                                        [Page 1]
 
 RFC 1149             IP Datagrams on Avian Carriers         1º Abril 1990
 
-   Enquanto o _broadcasting_ não é específico, tempestades podem causar
+   Enquanto o __broadcasting__ não é específico, tempestades podem causar
    perda de dados. Existe uma nova tentativa de entrega persistente, até
    que o pombo caía. Trilhas de audiotria são geradas automaticamentes, e 
-   podem ser achadas em _logs_ e suportes para cabos.
+   podem ser achadas em __logs__ e suportes para cabos.
    
 
 Considerações de Segurança
