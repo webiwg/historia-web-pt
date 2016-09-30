@@ -25,8 +25,8 @@ discussion: https://github.com/webiwg/historia-web-pt/issues/20
 
 <pre>
 Network Working Group                                        D. Waitzman
-Request for Comments: 1149                                       BBN STC
-                                                            1 April 1990
+Pedidos para comentários: 1149                                       BBN STC
+                                                            1º Abril 1990
 
    Um Padrão para a Transmissão de Datagramas IP em Pombos Correios
    _A Standard for the Transmission of IP Datagrams on Avian Carriers_
@@ -81,7 +81,7 @@ Discussão
 
 Waitzman                                                        [Page 1]
 
-RFC 1149             IP Datagrams on Avian Carriers         1 April 1990
+RFC 1149             IP Datagrams on Avian Carriers         1º Abril 1990
 
    Enquanto o _broadcasting_ não é específico, tempestades podem causar
    perda de dados. Existe uma nova tentativa de entrega persistente, até
@@ -89,13 +89,14 @@ RFC 1149             IP Datagrams on Avian Carriers         1 April 1990
    podem ser achadas em _logs_ e suportes para cabos.
    
 
-Security Considerations
+Considerações de Segurança
 
-   Security is not generally a problem in normal operation, but special
-   measures must be taken (such as data encryption) when avian carriers
-   are used in a tactical environment.
+   Segurança é não geralmente um problema numa operação normal, mas medidas
+   especial devem ser tomadas (como criptografia de dados) quando pombos 
+   correios são usados em um ambiente tático.
+ 
 
-Author's Address
+Endereço do autor:
 
    David Waitzman
    BBN Systems and Technologies Corporation
@@ -103,9 +104,9 @@ Author's Address
    10 Moulton Street
    Cambridge, MA 02238
 
-   Phone: (617) 873-4323
+   Telefone: (617) 873-4323
 
-   EMail: dwaitzman@BBN.COM
+   E-mail: dwaitzman@BBN.COM
 
 
 
