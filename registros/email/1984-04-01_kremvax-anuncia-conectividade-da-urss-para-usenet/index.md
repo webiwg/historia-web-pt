@@ -23,6 +23,17 @@ isReleaseCandidate: true
 discussion: https://github.com/webiwg/historia-web-pt/issues/16
 ---
 
+<!-- Geração automática de índice, inicio -->
+<nav  markdown="1">
+
+## Índice de tópicos
+{:.no_toc}
+
+1. Índice de Tópicos. Esta linha será substituída
+{:toc}
+
+</nav>
+<!-- Geração automática de índice, fim -->
 
 ## Tradução
 
