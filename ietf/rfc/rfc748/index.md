@@ -16,10 +16,9 @@ authors: [{
     link: "https://en.wikipedia.org/wiki/Mark_Crispin"
 }]
 sponsors: null
-translators: null
+translators: robsmayer
 reviewers: null
 isDraft: true
-isReleaseCandidate: false
 discussion: https://github.com/webiwg/historia-web-pt/issues/18
 ---
 
@@ -34,90 +33,90 @@ Network Working Group                                         M. Crispin
 Request for Comments 748                                           SU-AI
 NIC 44125                                                   1 April 1978
 
-                      Opção de PERDA-ALEATORIA para TELNET
+                      TELNET RANDOMLY-LOSE Option
 
 1.  Nome e código do comando.
 
    RANDOMLY-LOSE        256
 
-2.  Significado do comando.
+2.  Significado do comando (O que faz).
 
    IAC WILL RANDOMLY-LOSE
-
-      O emissor desse comando (REQUESTS) pede/solicita permissão
+   
+      Quem envia esse comando (REQUESTS) pede/solicita permissão para randomly lose ou
+      confirma que vai ocorrer randomly lose.
+      
+      Quem envia esse comando (REQUESTS) pede/solicita ou permissão ou
+      confirma que vai ocorrer randomly lose.
+      
+      O emissor desse comando (REQUESTS) pede/solicita permissão 
       ou confirma que vai ocorrer randomly lose.
+      
+      O emissor desse comando (REQUESTS) pede/solicita permissão
+      (confirma) que vai ocorrer randomly lose. (Nota: acho que é a melhor opção)
 
    IAC WON'T RANDOMLY-LOSE
-
+   
       O emissor desse comando se nega (REFUSES) a randomly lose.
 
    IAC DO RANDOMLY-LOSE
 
-      O emissor desse comando (REQUESTS) pede/solicita que o receptor, ou
-      dá permissão ao receptor para, randomly lose.
-
-     
+      O emissor desse comando (REQUESTS) pede/solicita que o receptor
+      (dá permissão ao receptor) para  randomly lose. (Nota: não gostei dessa tradução)
+        
 
    IAC DON'T RANDOMLY-LOSE
 
-      O emissor (DEMANDS) exige que o receptor não faça randomly lose.
+      O emissor (DEMANDS) exige que o receptor não randomly lose.
 
 3.  Default.
 
    WON'T RANDOMLY-LOSE
 
    DON'T RANDOMLY-LOSE
-
+   
    i,e., perca randômica não acontecerá.
 
 4.  O motivo dessa opção.
 
+   Obs: A expressão random lossage pode ser interpretada como perca randômica
+   ou perca aleatória, mas nessa tradução manterei a expressão original.
+   
    Vários servidores aparentam prover random lossage como parte do seus
    serviços ,por exemplo, quebras no sistema (crashes), perca de dados,
-   mau funcionamento de programas, etc...
-   Esses serviços são frequentemente não documentados e são em geral
-   confusos para um usuário novo. Um meio geral é necessário para permitir
-   o usuário desabilitar tais recursos.
-  
-
-
-
-
-
-
-
-
+   mau funcionamento de programas, etc... 
+   Esses serviços são frequentemente não documentados e são em geral 
+   confusos para um usuário novo (noob). Logo, um meio simples é necessário 
+   para permitir que o usuário desative essas ocorrências.
+   
+   
                                  - 1 -
 
 NWG/RFC# 748                                          MRC 1-APR-78 44125
-Telnet Randomly-Lose Option
+Opção Randomly-Lose Telnet
 
-5.  Descrição da opção
-   
-   O modo normal não permiti perda randômica; por isso o sistema não é permitido
-   crashar,
-   The normal  mode does not allow random  lossage; therefore the system
-   is not allowed  to crash,  arquivos de usuários **mung** , etc. Se o server 
-   quer promover perda randômica, primeiro irá perguntar por permissão
-   pelo usuário mandando IAC WILL RANDOMLY-LOSE.
-   
-   Se o usuário quer permitir que o server faça perda randômica, responde
-   com IAC DO RANDOMLY-LOSE. Caso contrário envia  IAC   DONT RANDOMLY-LOSE,
-   e server é proibido de ter perca randômica.
- 
-   Alternativamente, o usuário poderá pedir ao server perda randômica, ao
-   enviar IAC DO RANDOMLY-LOSE, e o server irá ou responder com IAC WILL 
-   RANDOMLY-LOSE, significando que irá proceder com alguma perda randômica
-   (
-   Alternatively, the user could request the server to randomly lose, by
-   sending  IAC DO RANDOMLY-LOSE,  and the server will either reply with
-   IAC WILL RANDOMLY-LOSE,  meaning that it will then proceed to do some
-   random  lossage  (garbaging de arquivos de disco é recomendado para uma 
-   implementação inicial). O, irá enviar IAC WONT RANDOMLY-LOSE, significando 
-   que insiste até que seja confiável.
 
-   Desde de que isso é implementando no TELNET como opção, é esperado que
-   servers que não implementam tal opção não terão perda randômica; i.e,
-   eles irão promover 100% de confiança em tempo operante.
-  
+
+5. Descrição da opção.
+   
+   O modo padrão não permite random lossage; portanto não é permitido que
+   o sistema caia (crash), (mung*) arquivos do usuário, etc. Se o sevidor
+   quiser enviar random lossage, em primeiro lugar, ele deve pedir permisão
+   para o usuário mandando IAC WILL RANDOMLY-LOSE.
+   
+   Se o usuário quiser random lose do servidor, o servidor responderá 
+   IAC DO RANDOMLY-LOSE. Caso contrário, ele responderá IAC DONT RANDOMLY-LOSE
+   e o servidor será proibido de randomly lose.
+   
+   Como uma outra alternativa, o usuário pode solicitar random lossage
+   do servidor mandando IAC DO RANDOMLY-LOSE e o servidor responderá
+   ou com IAC WILL RANDOMLY-LOSE, ou seja, ele irá prosseguir fazendo 
+   random lose (para uma implementação inicial é recomendado apagar arquivos
+   do disco). Ou, ele responderá IAC WONT RANDOMLY-LOSE que significa 
+   que ele insiste em não fazer fazer randomly lose.
+
+   Sendo que essa opção é implementada para TELNET, é esperado que em 
+   servidores que não tem essa opção implementada não ocorra random 
+   lossage; ie, logo, eles funcionarão com atividade 100% confiável. 
+   
 </pre>
