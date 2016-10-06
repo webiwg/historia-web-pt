@@ -5,21 +5,22 @@ January 15, 2013
 Prologue
 --------
 
-Back in the early 2000′s, my colleague and friend [Derek
-Featherstone](http://simplyaccessible.com/) and I launched a joint consultancy
-group in Ottawa, Canada that focused on the issues of on-line accessibility, and
-the emergent techniques and requirements of this (at the time) new aspect of web
-development. Derek and I wrapped up WATS.ca somewhere around 2006 as we moved on
-to other projects, but we both remain active in the field today.
+Back in the early 2000′s,
+my colleague and friend [Derek Featherstone](http://simplyaccessible.com/)
+and I launched a joint consultancy group in Ottawa,
+Canada that focused on the issues of on-line accessibility,
+and the emergent techniques and requirements of this (at the time) new aspect of web development.
+Derek and I wrapped up WATS.ca somewhere around 2006 as we moved on to other projects,
+but we both remain active in the field today.
 
-We jointly published a number of articles on our web-site that often became
-go-to references then, and it seems a shame that they be lost to the vagaries of
-time; the original site long since gone. I have created an Archive section of
-this site to preserve those postings, and the following article from that time
-is one such. Please note that some of the information in this or other similar
-articles may be dated, or superseded by events in time: I am making no attempt
-to update these articles and am simply posting them as they existed when they
-were first written.
+We jointly published a number of articles on our web-site that often became go-to references then,
+and it seems a shame that they be lost to the vagaries of time;
+the original site long since gone.
+I have created an Archive section of this site to preserve those postings,
+and the following article from that time is one such.
+Please note that some of the information in this or other similar articles may be dated,
+or superseded by events in time:
+I am making no attempt to update these articles and am simply posting them as they existed when they were first written.
 
 By: Derek Featherstone | Posted: December 06, 2003
 
@@ -33,82 +34,81 @@ By: Derek Featherstone | Posted: December 06, 2003
     Accesskeys](//john.foliot.ca/link-relationships-as-an-alternative-to-accesskeys/)
 -   [The Future of Accesskeys](//john.foliot.ca/the-future-of-accesskeys/)
 
-The topic of accesskeys regularly appears on mailing lists, forums, and other
-arenas. Developers ask what the concensus is, and the answer is — there isn’t
-one. We believe that the functionality accesskeys provide is worthwhile, but
-their implementation and standardization leave something to be desired.
+The topic of accesskeys regularly appears on mailing lists, forums, and other arenas.
+Developers ask what the concensus is, and the answer is — there isn’t one.
+We believe that the functionality accesskeys provide is worthwhile,
+but their implementation and standardization leave something to be desired.
 
 Accesskeys
 ----------
 
-In general, HTML defined accesskeys are being used to provide the ability to
-quickly invoke the links in a site that go to specific destinations including
-such examples as a search page, a contact page or the home page of a site. In
-some cases they are being used to provide an alternative mechanism to “skip
-navigation” or “skip to content”. In principle, we agree that this functionality
-is a worthwhile end goal as it has the potential to make the web more usable for
-all.
+In general, HTML defined accesskeys are being used to provide the ability to quickly invoke the links in a site that go to specific destinations including such examples as a search page,
+a contact page or the home page of a site.
+In some cases they are being used to provide an alternative mechanism to “skip navigation” or “skip to content”.
+In principle, we agree that this functionality is a worthwhile end goal as it has the potential to make the web more usable for all.
 
 The Ideal Solution
 ------------------
 
-We also firmly believe there have to be a number of conditions for accesskeys to
-be not only useful, but successfully implemented on a large scale. These
-include:
+We also firmly believe there have to be a number of conditions for accesskeys to be not only useful,
+but successfully implemented on a large scale.
+These include:
 
-Standardized implementation across sites  
-The reason behind this is obvious. If it isn’t standardized, then users will
-have to learn different accesskeys on each site they visit. Many sites and
-authors have suggested different standards, with the most widely referenced
-being that at
-<a href="//clagnut.com/accessibility" class="broken_link">Clagnut</a> and
-[DiveIntoAccessibility.org](//www.diveintoaccessibility.org/accessibility_statement.html)
-that use numbers for Accesskeys, similar to that
-<a href="//www.e-envoy.gov.uk/Resources/WebHandbookIndex1Article/fs/en?CONTENT_ID=4000092&amp;chk=XHiT3L" class="broken_link">recommended by the Government in the UK</a>.
+Standardized implementation across sites
+:  The reason behind this is obvious.
+   If it isn’t standardized, then users will have to learn different accesskeys on each site they visit.
+   Many sites and authors have suggested different standards, with the most widely referenced being that at
+   <a href="//clagnut.com/accessibility" class="broken_link">Clagnut</a> and
+   [DiveIntoAccessibility.org](//www.diveintoaccessibility.org/accessibility_statement.html)
+   that use numbers for Accesskeys, similar to that
+   <a href="//www.e-envoy.gov.uk/Resources/WebHandbookIndex1Article/fs/en?CONTENT_ID=4000092&amp;chk=XHiT3L" class="broken_link">recommended by the Government in the UK</a>.
 
-Conflict resolution  
-In cases where a conflict exists between an HTML defined Accesskey and a built
-in keyboard binding for a given User Agent or a user-defined keyboard binding in
-a user agent, the HTML defined Accesskey **must not** override the User
-Agent’s behaviour. If an HTML defined accesskey were to take precedence over a
-User Agent keyboard binding, critical functionality could be lost, potentially
-leaving the user confused, or unable to complete tasks.
+Conflict resolution
+:  In cases where a conflict exists between an HTML defined Accesskey and a built in keyboard binding for a given User Agent or a user-defined keyboard binding in a user agent,
+   the HTML defined Accesskey **must not** override the User Agent’s behaviour.
+   If an HTML defined accesskey were to take precedence over a User Agent keyboard binding,
+   critical functionality could be lost,
+   potentially leaving the user confused,
+   or unable to complete tasks.
 
 Standardization
 ---------------
 
 Standardization itself is not so much of a problem as is conflict resolution.
-Thankfully, many developers have come to this realization, and have worked
-toward standardizing accesskeys, and an emerging trend is to use the digits 0
-though 9, instead of letters.
+Thankfully, many developers have come to this realization,
+and have worked toward standardizing accesskeys,
+and an emerging trend is to use the digits 0 though 9,
+instead of letters.
 
 ### The Problem with Letters and Learned Behaviours
 
-The problem with letters is obvious – HTML defined accesskeys appear to conflict
-with User Agent defined keyboard bindings to menus and other functionality.
+The problem with letters is obvious –
+HTML defined accesskeys appear to conflict with User Agent defined keyboard bindings to menus and other functionality.
 
-In these cases of apparent conflict, the HTML defined accesskey can be invoked
-differently than the User Agent menus (see: relevant discussion on the [WAI
-list](//lists.w3.org/Archives/Public/w3c-wai-ig/2003AprJun/0612.html), and on
-the [WebAIM list](//webaim.org/discussion/mail_message.php?id=2270))
+In these cases of apparent conflict, the HTML defined accesskey can be invoked differently than the User Agent menus
+(see: relevant discussion on the [WAI list](//lists.w3.org/Archives/Public/w3c-wai-ig/2003AprJun/0612.html),
+and on the [WebAIM list](//webaim.org/discussion/mail_message.php?id=2270))
 
-The problem with this is that it will be extremely difficult to teach new
-keystroke behaviour to users, and there is no easy way to determine which
-keystroke method to use as there is generally no method for determining the
-accesskeys on a site when you first arrive at it (hence the reason many sites
-now use Alt-0 to display their accessibility statement and list of accesskeys,
-and others are using different methods to display the accesskeys inline within
-the document.)
+The problem with this is that it will be extremely difficult to teach new keystroke behaviour to users,
+and there is no easy way to determine which keystroke method to use as there is generally no method for determining the accesskeys on a site when you first arrive at it
+(hence the reason many sites now use Alt-0 to display their accessibility statement and list of accesskeys,
+and others are using different methods to display the accesskeys inline within the document.)
 
 ### The Problem with Symbols
 
-In the summer of 2002, [we collected as much information as we
-could](//john.foliot.ca/accesskeys-and-reserved-keystroke-combinations/)
-regarding which keystroke combinations were “reserved” in user agents and
-assistive devices.
+In the summer of 2002, [we collected as much information as we could](//john.foliot.ca/accesskeys-and-reserved-keystroke-combinations/)
+regarding which keystroke combinations were “reserved” in user agents and assistive devices.
 
-There remained some symbols available, but symbols are problematic, especially
-when dealing with International keyboards layouts.
+There remained some symbols available,
+but symbols are problematic,
+especially when dealing with International keyboards layouts.
+
+
+<!--
+  TODO terminei de formatar aqui. Vou dormir. Outra hora continuo formatando (fititnt, 2016-10-06 04:10)
+-->
+
+
 
 ### The Problem with Numbers
 

@@ -5,21 +5,23 @@ January 15, 2013
 Prologue
 --------
 
-Back in the early 2000′s, my colleague and friend [Derek
-Featherstone](http://simplyaccessible.com/) and I launched a joint consultancy
-group in Ottawa, Canada that focused on the issues of on-line accessibility, and
-the emergent techniques and requirements of this (at the time) new aspect of web
-development. Derek and I wrapped up WATS.ca somewhere around 2006 as we moved on
-to other projects, but we both remain active in the field today.
+Back in the early 2000′s,
+my colleague and friend [Derek Featherstone](http://simplyaccessible.com/)
+and I launched a joint consultancy group in Ottawa,
+Canada that focused on the issues of on-line accessibility,
+and the emergent techniques and requirements of this (at the time) new aspect of web development.
+Derek and I wrapped up WATS.ca somewhere around 2006 as we moved on to other projects,
+but we both remain active in the field today.
 
-We jointly published a number of articles on our web-site that often became
-go-to references then, and it seems a shame that they be lost to the vagaries of
-time; the original site long since gone. I have created an Archive section of
-this site to preserve those postings, and the following article from that time
-is one such. Please note that some of the information in this or other similar
-articles may be dated, or superseded by events in time: I am making no attempt
-to update these articles and am simply posting them as they existed when they
-were first written.
+We jointly published a number of articles on our web-site that often became go-to references then,
+and it seems a shame that they be lost to the vagaries of time;
+the original site long since gone.
+I have created an Archive section of this site to preserve those postings,
+and the following article from that time is one such.
+Please note that some of the information in this or other similar articles may be dated,
+or superseded by events in time:
+I am making no attempt to update these articles and am simply posting them as they existed when they were first written.
+
 
 By: Derek Featherstone | Posted: August 14, 2004
 

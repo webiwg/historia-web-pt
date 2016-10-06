@@ -5,21 +5,23 @@ January 15, 2013
 Prologue
 --------
 
-Back in the early 2000′s, my colleague and friend [Derek
-Featherstone](http://simplyaccessible.com/) and I launched a joint consultancy
-group in Ottawa, Canada that focused on the issues of on-line accessibility, and
-the emergent techniques and requirements of this (at the time) new aspect of web
-development. Derek and I wrapped up WATS.ca somewhere around 2006 as we moved on
-to other projects, but we both remain active in the field today.
+Back in the early 2000′s,
+my colleague and friend [Derek Featherstone](http://simplyaccessible.com/)
+and I launched a joint consultancy group in Ottawa,
+Canada that focused on the issues of on-line accessibility,
+and the emergent techniques and requirements of this (at the time) new aspect of web development.
+Derek and I wrapped up WATS.ca somewhere around 2006 as we moved on to other projects,
+but we both remain active in the field today.
 
-We jointly published a number of articles on our web-site that often became
-go-to references then, and it seems a shame that they be lost to the vagaries of
-time; the original site long since gone. I have created an Archive section of
-this site to preserve those postings, and the following article from that time
-is one such. Please note that some of the information in this or other similar
-articles may be dated, or superseded by events in time: I am making no attempt
-to update these articles and am simply posting them as they existed when they
-were first written.
+We jointly published a number of articles on our web-site that often became go-to references then,
+and it seems a shame that they be lost to the vagaries of time;
+the original site long since gone.
+I have created an Archive section of this site to preserve those postings,
+and the following article from that time is one such.
+Please note that some of the information in this or other similar articles may be dated,
+or superseded by events in time:
+I am making no attempt to update these articles and am simply posting them as they existed when they were first written.
+
 
 Using Accesskeys – Is it worth it?
 ----------------------------------
@@ -36,23 +38,21 @@ Originally Posted: May 08, 2003
     Accesskeys](//john.foliot.ca/link-relationships-as-an-alternative-to-accesskeys/)
 -   [The Future of Accesskeys](//john.foliot.ca/the-future-of-accesskeys/)
 
-The [Accesskey
-attribute](http://www.w3.org/tr/html401/interact/forms.html#adef-accesskey)
-assigns an access key to an element. An access key is a single character from
-the document character set. Pressing an access key assigned to an element gives
-focus to the element. The action that occurs when an element receives focus
-depends on the element. For example, when a user activates a link defined by the
-A element, the user agent generally follows the link. When a user activates a
-radio button, the user agent changes the value of the radio button. When the
-user activates a text field, it allows input, etc.
+The [Accesskey attribute](http://www.w3.org/tr/html401/interact/forms.html#adef-accesskey)
+assigns an access key to an element.
+An access key is a single character from the document character set.
+Pressing an access key assigned to an element gives focus to the element.
+The action that occurs when an element receives focus depends on the element.
+For example, when a user activates a link defined by the A element, the user agent generally follows the link.
+When a user activates a radio button, the user agent changes the value of the radio button.
+When the user activates a text field, it allows input, etc.
 
-The following elements support the accesskey attribute: A, AREA, BUTTON, INPUT,
-LABEL, and LEGEND, and TEXTAREA.
+The following elements support the accesskey attribute:
+A, AREA, BUTTON, INPUT, LABEL, and LEGEND, and TEXTAREA.
 
-The invocation of access keys depends on the underlying system. For instance, on
-machines running MS Windows, one generally has to press the “alt” key in
-addition to the access key. On Apple systems, one generally has to press the
-“cmd” key in addition to the access key.
+The invocation of access keys depends on the underlying system.
+For instance, on machines running MS Windows, one generally has to press the <kbd>alt</kbd> key in addition to the access key.
+On Apple systems, one generally has to press the <kbd>cmd</kbd> key in addition to the access key.
 
 The rendering of access keys depends on the user agent.
 
@@ -99,11 +99,11 @@ The rendering of access keys depends on the user agent.
 Now for the bad news…
 ---------------------
 
-In a non-scientific study conducted in the summer of 2002, we researched the
-availability of available Accesskeys which had not already been reserved by
-various other adaptive technologies, such as JAWS and IBM’s HomePageReader, a
-popular screen reading web browser, which has built in keystroke shortcuts for
-going into different modes.
+In a non-scientific study conducted in the summer of 2002,
+we researched the availability of available Accesskeys which had not already been reserved by various other adaptive technologies,
+such as JAWS and IBM’s HomePageReader,
+a popular screen reading web browser,
+which has built in keystroke shortcuts for going into different modes.
 
 -   Alt + I starts Read Items mode
 -   Alt + N starts Windows Cursors reading mode
@@ -116,31 +116,25 @@ going into different modes.
 -   Alt + T Table Navigation
 -   Alt + D Dial
 
-HomePageReader makes no distinction between these keystrokes and will not allow
-you to use accesskeys. Besides, their mechanism actually seems to make more
-sense — using links mode to cycle through a list of links seems much more useful
-and usable. (Interestingly, for accesskeys to work in HomePageReader, the user
-must first “click” the mouse within the display screen of the application… a
-curious requirement in a tool geared to the visually impaired…)
+HomePageReader makes no distinction between these keystrokes and will not allow you to use accesskeys.
+Besides, their mechanism actually seems to make more sense —
+using links mode to cycle through a list of links seems much more useful and usable.
+(Interestingly, for accesskeys to work in HomePageReader,
+the user must first “click” the mouse within the display screen of the application…
+a curious requirement in a tool geared to the visually impaired…)
 
-Disappointingly, our research discovered that all but 3 keys were previously
-“claimed” by one technology or the other:
+Disappointingly, our research discovered that all but 3 keys were previously “claimed” by one technology or the other:
 
 -   AccessKey / (slash)
 -   AccessKey \\ (backslash)
 -   AccessKey \] (right square bracket)
 
-At that point it was then pointed out (by [Jukka “Yucca”
-Korpela](http://www.cs.tut.fi/~jkorpela/) – a well respected accessibility
-expert) that even these keys would be inaccessible to users not using a North
-American Standard (QWERTY) keyboard. **So while it seems that Accesskeys is a
-great idea in principle, implementation brings with it the possibility that it
-either will not be available to all users, or that the keystroke combination
-encoded within the web page may conflict with a reserved keystroke combination
-in an adaptive technology or future user agent.**
+At that point it was then pointed out (by [Jukka “Yucca” Korpela](http://www.cs.tut.fi/~jkorpela/) –
+a well respected accessibility expert) that even these keys would be inaccessible to users not using a North American Standard (QWERTY) keyboard.
+**So while it seems that Accesskeys is a great idea in principle,
+implementation brings with it the possibility that it either will not be available to all users,
+or that the keystroke combination encoded within the web page may conflict with a reserved keystroke combination in an adaptive technology or future user agent.**
 
-This potential problem was subsequently brought to the attention of the Canadian
-Common Look and Feel Access Working Group (who had previously suggested the use
-of Accesskeys M, 1 and 2), and after consideration the Access Working Group
-reversed it’s recommendation and now suggest **not** to use Accesskeys on
-Government of Canada Web sites.
+This potential problem was subsequently brought to the attention of the Canadian Common Look and Feel Access Working Group
+(who had previously suggested the use of Accesskeys M, 1 and 2),
+and after consideration the Access Working Group reversed it’s recommendation and now suggest **not** to use Accesskeys on Government of Canada Web sites.
