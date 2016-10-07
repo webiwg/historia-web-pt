@@ -1,26 +1,52 @@
-January 15, 2013
+---
+layout: translation
+date: 2013-12-04 # Data de ultima atualização do original
+title: "How to make your wireframes more accessible in five easy steps" # Titulo traduzido
+description: "In a non-scientific study conducted in the summer of 2002, we researched
+the availability of available Accesskeys which had not already been reserved by various
+other software technologies which might be employed by various users. "
 
-<img src="http://john.foliot.ca/wp-content/uploads/2013/01/accesskeys.jpg" alt="accesskeys" class="aligncenter size-full wp-image-465" sizes="(max-width: 620px) 100vw, 620px" srcset="http://john.foliot.ca/wp-content/uploads/2013/01/accesskeys.jpg 620w, http://john.foliot.ca/wp-content/uploads/2013/01/accesskeys-300x109.jpg 300w" width="620" height="226" />
+copyright: 'Copyright John Foliot, via WATS.ca' # Quem tem direitos de cópia
+license: null # Caso seja uma licença padrão (MIT, GPL...) por aqui
+license-custom: null # Caso a licença não seja uma padrão, por uma descrição curta dela aqui
+authors: [{
+    name: "John Foliot",
+    link: "https://twitter.com/johnfoliot"
+}]
+translators: [{
+    name: "Nome Do Futuro Tradutor Aqui",
+    link: "http://twitter.com/webiwg"
+}]
+reviewers: []
+discussion: https://github.com/webiwg/acessibilidade-web-pt/issues/11
+original: {
+    title: "Accesskeys and Reserved Keystroke Combinations", # Titulo original, no idioma origial
+    link: "http://john.foliot.ca/accesskeys-and-reserved-keystroke-combinations/", # Link para documento original
+    dateOfTranslation: "2016-10-07" # Data em que a tradução foi finalizada
+}
+isDraft: true
+isReleaseCandidate: false
+---
 
-Prologue
---------
-
-Back in the early 2000′s,
-my colleague and friend [Derek Featherstone](http://simplyaccessible.com/)
-and I launched a joint consultancy group in Ottawa,
-Canada that focused on the issues of on-line accessibility,
-and the emergent techniques and requirements of this (at the time) new aspect of web development.
-Derek and I wrapped up WATS.ca somewhere around 2006 as we moved on to other projects,
-but we both remain active in the field today.
-
-We jointly published a number of articles on our web-site that often became go-to references then,
-and it seems a shame that they be lost to the vagaries of time;
-the original site long since gone.
-I have created an Archive section of this site to preserve those postings,
-and the following article from that time is one such.
-Please note that some of the information in this or other similar articles may be dated,
-or superseded by events in time:
-I am making no attempt to update these articles and am simply posting them as they existed when they were first written.
+> Prologue
+> --------
+>
+> Back in the early 2000′s,
+> my colleague and friend [Derek Featherstone](http://simplyaccessible.com/)
+> and I launched a joint consultancy group in Ottawa,
+> Canada that focused on the issues of on-line accessibility,
+> and the emergent techniques and requirements of this (at the time) new aspect of web development.
+> Derek and I wrapped up WATS.ca somewhere around 2006 as we moved on to other projects,
+> but we both remain active in the field today.
+>
+> We jointly published a number of articles on our web-site that often became go-to references then,
+> and it seems a shame that they be lost to the vagaries of time;
+> the original site long since gone.
+> I have created an Archive section of this site to preserve those postings,
+> and the following article from that time is one such.
+> Please note that some of the information in this or other similar articles may be dated,
+> or superseded by events in time:
+> I am making no attempt to update these articles and am simply posting them as they existed when they were first written.
 
 By: Derek Featherstone | Posted: December 06, 2003
 

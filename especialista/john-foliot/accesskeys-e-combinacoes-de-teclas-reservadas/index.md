@@ -1,12 +1,12 @@
 ---
 layout: translation
 date: 2013-12-04 # Data de ultima atualização do original
-title: "How to make your wireframes more accessible in five easy steps" # Titulo traduzido
+title: "Accesskeys and Reserved Keystroke Combinations" # Titulo traduzido
 description: "In a non-scientific study conducted in the summer of 2002, we researched
 the availability of available Accesskeys which had not already been reserved by various
 other software technologies which might be employed by various users. "
 
-copyright: 'Copyright Alison Walden, via http://accessib.li/' # Quem tem direitos de cópia
+copyright: 'Copyright John Foliot, via WATS.ca' # Quem tem direitos de cópia
 license: null # Caso seja uma licença padrão (MIT, GPL...) por aqui
 license-custom: null # Caso a licença não seja uma padrão, por uma descrição curta dela aqui
 authors: [{
@@ -48,30 +48,23 @@ isReleaseCandidate: false
 > or superseded by events in time:
 > I am making no attempt to update these articles and am simply posting them as they existed when they were first written.
 
-In a non-scientific study conducted in the summer of 2002, we researched the
-availability of available Accesskeys which had not already been reserved by
-various other software technologies which might be employed by various users.
-The results indicated a real problem in that most ALT + \_\_ keystroke
-combinations (assuming the Windows operating platform) have already been
-reserved by one type of application or another.
+In a non-scientific study conducted in the summer of 2002,
+we researched the availability of available Accesskeys which had not already been reserved by various other software technologies which might be employed by various users.
+The results indicated a real problem in that most ALT + \_\_ keystroke combinations
+(assuming the Windows operating platform) have already been reserved by one type of application or another.
 
-Given that at this writing there are few if any available ALT + \_\_ keystrokes
-left, and conceding that built in or assigned keystroke combinations inherent in
-software applications should take precedence for the end user, WATS.ca continues
-to advocate that the ACCESSKEY element/attribute, while a good idea in
-principle, is fraught with so many potential problems that we have abandoned
-using them in the interest of true inter-operability.
+Given that at this writing there are few if any available ALT + \_\_ keystrokes left,
+and conceding that built in or assigned keystroke combinations inherent in software applications should take precedence for the end user, WATS.
+ca continues to advocate that the ACCESSKEY element/attribute,
+while a good idea in principle,
+is fraught with so many potential problems that we have abandoned using them in the interest of true inter-operability.
 
-While it would be presumptuous of us to declare this table “complete” it *does*
-illustrate the number of keystroke combinations which would conflict with
-implementation of the ACCESSKEY functionality introduced in HTML 4.0. Errors,
-omissions or inclusions are gratefully appreciated and will be added to this
-page upon receipt.
+While it would be presumptuous of us to declare this table “complete” it *does* illustrate the number of keystroke combinations which would conflict with implementation of the ACCESSKEY functionality introduced in HTML 4.0.
+Errors, omissions or inclusions are gratefully appreciated and will be added to this page upon receipt.
 
-We have included Opera for reference only. We are aware that Opera doesn’t use
-the ALT + \_ keystroke to invoke accesskeys. We also acknowledge that this
-appears Windows-centric and that other Operating Systems may invoke alternative
-modifier kyes to access the designated hot-key.
+We have included Opera for reference only.
+We are aware that Opera doesn’t use the ALT + \_ keystroke to invoke accesskeys.
+We also acknowledge that this appears Windows-centric and that other Operating Systems may invoke alternative modifier kyes to access the designated hot-key.
 
 ### Known reserved keystroke combinations
 
@@ -696,20 +689,14 @@ modifier kyes to access the designated hot-key.
 
 <hr style="margin-top: 2em; margin-bottom: 2em"/>
 
-Addendum: A big thanks goes out to Mikko Rantalainen
-(<mikko.rantalainen@peda.net>) for providing the following information regarding
-internationalization, specifically Finnish/Swedish localizations:
+Addendum: A big thanks goes out to Mikko Rantalainen <em>mikko.rantalainen at peda.net</em> for providing the following information regarding internationalization,
+specifically Finnish/Swedish localizations:
 
--   Default Internet Explorer for Finnish localization has menu bar accelerators
-    for T, M, N, S, K and O and address bar accelerator E.
--   In addition, shortcuts with ‘=’, ‘(‘, ‘)’, ‘\[‘, ‘\]’, ‘/’, ”, ‘;’ and ‘:’
-    require using shift or AltGr with Finnish/Swedish (and most other European)
-    keyboard layouts so those cannot be used with just ALT. (For example, to
-    type ‘\[‘ I have to press AltGr+8. So “ALT+\[” requires me to press
-    Alt+AltGr+8 which seldom works as expected. If you accept this kind of
-    shortcuts you might as well add “AltGr+µ” as it’s equally easy to
-    type (Alt+AltGr+M) with my Finnish layout keyboard).
--   Non-numeric keys that can be used without any modifier key in
-    Finnish/Swedish keyboard layout are: + ‘ – . , &lt; § and letters å ä ö
-    \[written in UTF-8\]
+-   Default Internet Explorer for Finnish localization has menu bar accelerators for T, M, N, S, K and O and address bar accelerator E.
+-   In addition, shortcuts with ‘=’, ‘(‘, ‘)’, ‘\[‘, ‘\]’, ‘/’, ”, ‘;’ and ‘:’ require using shift or AltGr with Finnish/Swedish
+    (and most other European) keyboard layouts so those cannot be used with just ALT.
+    (For example, to type ‘\[‘ I have to press AltGr+8. So “ALT+\[” requires me to press Alt+AltGr+8 which seldom works as expected.
+    If you accept this kind of shortcuts you might as well add “AltGr+µ” as it’s equally easy to type (Alt+AltGr+M) with my Finnish layout keyboard).
+-   Non-numeric keys that can be used without any modifier key in Finnish/Swedish keyboard layout are:
+    \+ ‘ – . , &lt; § and letters å ä ö \[written in UTF-8\]
 
