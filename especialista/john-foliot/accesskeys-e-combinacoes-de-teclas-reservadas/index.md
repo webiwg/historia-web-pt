@@ -1,38 +1,52 @@
-January 15, 2013
+---
+layout: translation
+date: 2013-12-04 # Data de ultima atualização do original
+title: "How to make your wireframes more accessible in five easy steps" # Titulo traduzido
+description: "In a non-scientific study conducted in the summer of 2002, we researched
+the availability of available Accesskeys which had not already been reserved by various
+other software technologies which might be employed by various users. "
 
-<img src="http://john.foliot.ca/wp-content/uploads/2013/01/accesskeys.jpg" alt="accesskeys" class="aligncenter size-full wp-image-465" sizes="(max-width: 620px) 100vw, 620px" srcset="http://john.foliot.ca/wp-content/uploads/2013/01/accesskeys.jpg 620w, http://john.foliot.ca/wp-content/uploads/2013/01/accesskeys-300x109.jpg 300w" width="620" height="226" />
+copyright: 'Copyright Alison Walden, via http://accessib.li/' # Quem tem direitos de cópia
+license: null # Caso seja uma licença padrão (MIT, GPL...) por aqui
+license-custom: null # Caso a licença não seja uma padrão, por uma descrição curta dela aqui
+authors: [{
+    name: "John Foliot",
+    link: "https://twitter.com/johnfoliot"
+}]
+translators: [{
+    name: "Nome Do Futuro Tradutor Aqui",
+    link: "http://twitter.com/webiwg"
+}]
+reviewers: []
+discussion: https://github.com/webiwg/acessibilidade-web-pt/issues/11
+original: {
+    title: "Accesskeys and Reserved Keystroke Combinations", # Titulo original, no idioma origial
+    link: "http://john.foliot.ca/accesskeys-and-reserved-keystroke-combinations/", # Link para documento original
+    dateOfTranslation: "2016-10-07" # Data em que a tradução foi finalizada
+}
+isDraft: true
+isReleaseCandidate: false
+---
 
-Prologue
---------
-
-Back in the early 2000′s,
-my colleague and friend [Derek Featherstone](http://simplyaccessible.com/)
-and I launched a joint consultancy group in Ottawa,
-Canada that focused on the issues of on-line accessibility,
-and the emergent techniques and requirements of this (at the time) new aspect of web development.
-Derek and I wrapped up WATS.ca somewhere around 2006 as we moved on to other projects,
-but we both remain active in the field today.
-
-We jointly published a number of articles on our web-site that often became go-to references then,
-and it seems a shame that they be lost to the vagaries of time;
-the original site long since gone.
-I have created an Archive section of this site to preserve those postings,
-and the following article from that time is one such.
-Please note that some of the information in this or other similar articles may be dated,
-or superseded by events in time:
-I am making no attempt to update these articles and am simply posting them as they existed when they were first written.
-
-By: John Foliot | Posted: December 04, 2003
-
-#### Related
-
--   [Using Accesskeys – Is it worth
-    it?](//john.foliot.ca/using-accesskeys-is-it-worth-it/)
--   [More reasons why we don’t use
-    accesskeys](//john.foliot.ca/more-reasons-why-we-dont-use-accesskeys/)
--   [Link Relationships as an Alternative to
-    Accesskeys](//john.foliot.ca/link-relationships-as-an-alternative-to-accesskeys/)
--   [The Future of Accesskeys](//john.foliot.ca/the-future-of-accesskeys/)
+> Prologue
+> --------
+>
+> Back in the early 2000′s,
+> my colleague and friend [Derek Featherstone](http://simplyaccessible.com/)
+> and I launched a joint consultancy group in Ottawa,
+> Canada that focused on the issues of on-line accessibility,
+> and the emergent techniques and requirements of this (at the time) new aspect of web development.
+> Derek and I wrapped up WATS.ca somewhere around 2006 as we moved on to other projects,
+> but we both remain active in the field today.
+>
+> We jointly published a number of articles on our web-site that often became go-to references then,
+> and it seems a shame that they be lost to the vagaries of time;
+> the original site long since gone.
+> I have created an Archive section of this site to preserve those postings,
+> and the following article from that time is one such.
+> Please note that some of the information in this or other similar articles may be dated,
+> or superseded by events in time:
+> I am making no attempt to update these articles and am simply posting them as they existed when they were first written.
 
 In a non-scientific study conducted in the summer of 2002, we researched the
 availability of available Accesskeys which had not already been reserved by
@@ -61,411 +75,626 @@ modifier kyes to access the designated hot-key.
 
 ### Known reserved keystroke combinations
 
-IE 5.5/6
-
-Firefox / NS 7 / Mozilla
-
-Opera 7
-
-IBM HPR
-
-JAWS Classic Settings (Using IE 5.5/6)
-
-JAWS Laptop Settings (Using IE
-5.5/6)
-
-Window Eyes (Using IE 5.5/6)
-
-<a href="//www.cs.utexas.edu/users/s2s/latest/jaws1/home/index.shtml" class="broken_link"><br />
-JAWSAssist Extension for FireFox<br />
-</a>
-
-IE 5.5/6
-
-Firefox / NS 7 / Mozilla
-
-Opera 7
-
-IBM HPR
-
-JAWS Classic Settings (Using IE 5.5/6)
-
-JAWS Laptop Settings (Using IE
-5.5/6)
-
-Window Eyes (Using IE 5.5/6)
-
-<a href="//www.cs.utexas.edu/users/s2s/latest/jaws1/home/index.shtml" class="broken_link"><br />
-JAWSAssist Extension for FireFox<br />
-</a>
-
-Alt+A
-
-Favorites
-
-Favorites
-
-Favorites
-
-Favorites
-
-Favorites
-
-Alt+B
-
-Bookmarks
-
-Bookmark
-
-Read All Options in Dialog Box
-
-Bookmarks
-
-Alt+C
-
-Read Characters
-
-Alt+D
-
-Address
-
-Address
-
-Dial
-
-Address
-
-Address
-
-Address
-
-Address
-
-Alt+E
-
-Edit
-
-Edit
-
-Edit
-
-Edit
-
-Edit
-
-Edit
-
-Edit
-
-Edit
-
-Alt+F
-
-File
-
-File
-
-File
-
-File
-
-File
-
-File
-
-File
-
-File
-
-Alt+G
-
-Go
-
-Go
-
-Use Graphics Wizard
-
-Go
-
-Alt+H
-
-Help
-
-Help
-
-Help
-
-Help
-
-Help
-
-Read Current Line
-
-Help
-
-Help
-
-Alt+I
-
-Read Items
-
-Alt+J
-
-Table Jump
-
-Read Prior Word
-
-Alt+K
-
-Provide a list of Accesskeys for the current page
-
-Read Current Word / Spell Current Word (Key must be pressed twice within half a
-second for the spell function.)
-
-Alt+L
-
-Read Links
-
-Read Next Word
-
-Alt+M
-
-Mail
-
-Read Prior Character or Icon
-
-Alt+N
-
-Navigate
-
-Read Windows Cursor
-
-Read Next Line
-
-Alt+O
-
-Read Controls
-
-Alt+P
-
-Activate JAWS Cursor
-
-Alt+Q
-
-QA (Mozilla Only)
-
-Alt+R
-
-Turn JAWS Cursor Restriction On or Off
-
-Alt+S
-
-Settings
-
-Change Screen Echo
-
-Alt+T
-
-Tools
-
-Tools
-
-Table Navigation
-
-Tools
-
-Speak the Title of the Current Window
-
-Tools
-
-Tools
-
-Alt+U
-
-Debug (Mozilla Only)
-
-Alt+V
-
-View
-
-View
-
-View
-
-View
-
-View
-
-Change Verbosity Level
-
-View
-
-View
-
-Alt+W
-
-Window
-
-Window
-
-Read Words
-
-Read the Application Window
-
-Window
-
-Alt+X
-
-Alt+Y
-
-Read Prior Line
-
-Alt+Z
-
-Alt+1
-
-Default English installation of Firefox on Linux uses Alt+(\#) to shift tab
-focus when browsing multiple tabs
-
-Read Headings
-
-Reserved for User-defined windows
-
-Cycling Heading level 1
-
-Alt+2
-
-Default English installation of Firefox on Linux uses Alt+(\#) to shift tab
-focus when browsing multiple tabs
-
-Reserved for User-defined windows
-
-Cycling Heading level 2
-
-Alt+3
-
-Default English installation of Firefox on Linux uses Alt+(\#) to shift tab
-focus when browsing multiple tabs
-
-Reserved for User-defined windows
-
-Cycling Heading level 3
-
-Alt+4
-
-Default English installation of Firefox on Linux uses Alt+(\#) to shift tab
-focus when browsing multiple tabs
-
-Reserved for User-defined windows
-
-Cycling Heading level 4
-
-Alt+5
-
-Default English installation of Firefox on Linux uses Alt+(\#) to shift tab
-focus when browsing multiple tabs
-
-Say Sentence (Numberpad)
-
-Say Sentence (Numberpad)
-
-Reserved for User-defined windows
-
-Cycling Heading level 5
-
-Alt+6
-
-Default English installation of Firefox on Linux uses Alt+(\#) to shift tab
-focus when browsing multiple tabs
-
-Reserved for User-defined windows
-
-Cycling Heading level 6
-
-Alt+7
-
-Default English installation of Firefox on Linux uses Alt+(\#) to shift tab
-focus when browsing multiple tabs
-
-Reserved for User-defined windows
-
-Alt+8
-
-Default English installation of Firefox on Linux uses Alt+(\#) to shift tab
-focus when browsing multiple tabs
-
-Left Mouse Click
-
-Reserved for User-defined windows
-
-Alt+9
-
-Default English installation of Firefox on Linux uses Alt+(\#) to shift tab
-focus when browsing multiple tabs
-
-Right Mouse Click (Press this key twice within a second for a double mouse
-click.)
-
-Reserved for User-defined windows
-
-Alt+0
-
-Default English installation of Firefox on Linux uses Alt+(\#) to shift tab
-focus when browsing multiple tabs
-
-Reserved for User-defined windows
-
-Alt+ \`
-
-Alt+ –
-
-Open a child window control menu
-
-Open a child window control menu
-
-Alt+ =
-
-Alt+ (
-
-Alt+ )
-
-Screen Sensitive Help
-
-Alt+ \[
-
-Alt+ \]
-
-Alt+
-
-Alt+ /
-
-Speak Coordinates of Active Cursor
-
-Alt+ ;
-
-Activate PC Cursor
-
-Alt+ :
-
-Alt+ ,
-
-Read Current Character
-
-Alt+ .
-
-Read Next Character or Icon
-
-Alt+ (Left Arrow)
-
-Back
-
-Back
-
-Alt+ (Right Arrow)
-
-Forward
-
-Forward
+<table summary="Known reserved keystroke combinations"
+  frame="hsides" border="1" cellpadding="3" cellspacing="0">
+  <thead>
+    <tr>
+      <th> </th>
+      <th>IE 5.5/6</th>
+      <th>Firefox / NS 7 / Mozilla</th>
+      <th>Opera 7</th>
+      <th>IBM HPR</th>
+      <th>JAWS Classic Settings (Using IE 5.5/6)</th>
+      <th>JAWS Laptop Settings (Using IE
+        <br> 5.5/6)
+      </th>
+      <th>Window Eyes (Using IE 5.5/6)</th>
+      <th>
+        <a href="//www.cs.utexas.edu/users/s2s/latest/jaws1/home/index.shtml" class="broken_link">
+          <br> JAWSAssist Extension for FireFox
+          <br>
+        </a>
+      </th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th> </th>
+      <th>IE 5.5/6</th>
+      <th>Firefox / NS 7 / Mozilla</th>
+      <th>Opera 7</th>
+      <th>IBM HPR</th>
+      <th>JAWS Classic Settings (Using IE 5.5/6)</th>
+      <th>JAWS Laptop Settings (Using IE
+        <br> 5.5/6)
+      </th>
+      <th>Window Eyes (Using IE 5.5/6)</th>
+      <th>
+        <a href="//www.cs.utexas.edu/users/s2s/latest/jaws1/home/index.shtml" class="broken_link">
+          <br> JAWSAssist Extension for FireFox
+          <br>
+        </a>
+      </th>
+    </tr>
+  </tfoot>
+  <tbody style="height: 350px; overflow: scroll;">
+    <tr>
+      <td width="12">Alt+A</td>
+      <td width="11">Favorites</td>
+      <td width="11"> </td>
+      <td width="11"> </td>
+      <td width="11">Favorites</td>
+      <td width="11">Favorites</td>
+      <td width="11">Favorites</td>
+      <td width="11">Favorites</td>
+      <td width="11"> </td>
+    </tr>
+    <tr>
+      <td>Alt+B</td>
+      <td> </td>
+      <td>Bookmarks</td>
+      <td>Bookmark</td>
+      <td> </td>
+      <td> </td>
+      <td>Read All Options in Dialog Box</td>
+      <td> </td>
+      <td>Bookmarks</td>
+    </tr>
+    <tr>
+      <td>Alt+C</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Read Characters</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+D</td>
+      <td>Address</td>
+      <td>Address</td>
+      <td> </td>
+      <td>Dial</td>
+      <td>Address</td>
+      <td>Address</td>
+      <td>Address</td>
+      <td>Address</td>
+    </tr>
+    <tr>
+      <td>Alt+E</td>
+      <td>Edit</td>
+      <td>Edit</td>
+      <td>Edit</td>
+      <td>Edit</td>
+      <td>Edit</td>
+      <td>Edit</td>
+      <td>Edit</td>
+      <td>Edit</td>
+    </tr>
+    <tr>
+      <td>Alt+F</td>
+      <td>File</td>
+      <td>File</td>
+      <td>File</td>
+      <td>File</td>
+      <td>File</td>
+      <td>File</td>
+      <td>File</td>
+      <td>File </td>
+    </tr>
+    <tr>
+      <td>Alt+G</td>
+      <td> </td>
+      <td>Go</td>
+      <td> </td>
+      <td>Go</td>
+      <td> </td>
+      <td>Use Graphics Wizard</td>
+      <td> </td>
+      <td>Go </td>
+    </tr>
+    <tr>
+      <td>Alt+H</td>
+      <td>Help</td>
+      <td>Help</td>
+      <td>Help</td>
+      <td>Help</td>
+      <td>Help</td>
+      <td>Read Current Line</td>
+      <td>Help</td>
+      <td>Help </td>
+    </tr>
+    <tr>
+      <td>Alt+I</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Read Items</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+J</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Table Jump</td>
+      <td> </td>
+      <td>Read Prior Word</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+K</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Provide a list of Accesskeys for the current page</td>
+      <td> </td>
+      <td>Read Current Word / Spell Current Word (Key must be pressed twice within half
+        a second for the spell function.)</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+L</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Read Links</td>
+      <td> </td>
+      <td>Read Next Word</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+M</td>
+      <td> </td>
+      <td> </td>
+      <td>Mail</td>
+      <td> </td>
+      <td> </td>
+      <td>Read Prior Character or Icon</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+N</td>
+      <td> </td>
+      <td> </td>
+      <td>Navigate</td>
+      <td>Read Windows Cursor</td>
+      <td> </td>
+      <td>Read Next Line</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+O</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Read Controls</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+P</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Activate JAWS Cursor</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+Q</td>
+      <td> </td>
+      <td>QA (Mozilla Only)</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+R</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Turn JAWS Cursor Restriction On or Off</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+S</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Settings</td>
+      <td> </td>
+      <td>Change Screen Echo</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+T</td>
+      <td>Tools</td>
+      <td>Tools</td>
+      <td> </td>
+      <td>Table Navigation</td>
+      <td>Tools</td>
+      <td>Speak the Title of the Current Window</td>
+      <td>Tools</td>
+      <td>Tools </td>
+    </tr>
+    <tr>
+      <td>Alt+U</td>
+      <td> </td>
+      <td>Debug (Mozilla Only)</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+V</td>
+      <td>View</td>
+      <td>View</td>
+      <td>View</td>
+      <td>View</td>
+      <td>View</td>
+      <td>Change Verbosity Level</td>
+      <td>View</td>
+      <td>View </td>
+    </tr>
+    <tr>
+      <td>Alt+W</td>
+      <td> </td>
+      <td>Window</td>
+      <td>Window</td>
+      <td>Read Words</td>
+      <td> </td>
+      <td>Read the Application Window</td>
+      <td> </td>
+      <td>Window </td>
+    </tr>
+    <tr>
+      <td>Alt+X</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+Y</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Read Prior Line</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+Z</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+1</td>
+      <td> </td>
+      <td>Default English installation of Firefox on Linux uses Alt+(#) to shift tab
+        focus when browsing multiple tabs</td>
+      <td> </td>
+      <td>Read Headings</td>
+      <td> </td>
+      <td> </td>
+      <td>Reserved for User-defined windows</td>
+      <td>Cycling Heading level 1</td>
+    </tr>
+    <tr>
+      <td>Alt+2</td>
+      <td> </td>
+      <td>Default English installation of Firefox on Linux uses Alt+(#) to shift tab
+        focus when browsing multiple tabs</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Reserved for User-defined windows</td>
+      <td>Cycling Heading level 2</td>
+    </tr>
+    <tr>
+      <td>Alt+3</td>
+      <td> </td>
+      <td>Default English installation of Firefox on Linux uses Alt+(#) to shift tab
+        focus when browsing multiple tabs</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Reserved for User-defined windows</td>
+      <td>Cycling Heading level 3</td>
+    </tr>
+    <tr>
+      <td>Alt+4</td>
+      <td> </td>
+      <td>Default English installation of Firefox on Linux uses Alt+(#) to shift tab
+        focus when browsing multiple tabs</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Reserved for User-defined windows</td>
+      <td>Cycling Heading level 4</td>
+    </tr>
+    <tr>
+      <td>Alt+5</td>
+      <td> </td>
+      <td>Default English installation of Firefox on Linux uses Alt+(#) to shift tab
+        focus when browsing multiple tabs</td>
+      <td> </td>
+      <td> </td>
+      <td>Say Sentence (Numberpad)</td>
+      <td>Say Sentence (Numberpad)</td>
+      <td>Reserved for User-defined windows</td>
+      <td>Cycling Heading level 5</td>
+    </tr>
+    <tr>
+      <td>Alt+6</td>
+      <td> </td>
+      <td>Default English installation of Firefox on Linux uses Alt+(#) to shift tab
+        focus when browsing multiple tabs</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Reserved for User-defined windows</td>
+      <td>Cycling Heading level 6</td>
+    </tr>
+    <tr>
+      <td>Alt+7</td>
+      <td> </td>
+      <td>Default English installation of Firefox on Linux uses Alt+(#) to shift tab
+        focus when browsing multiple tabs</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Reserved for User-defined windows</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+8</td>
+      <td> </td>
+      <td>Default English installation of Firefox on Linux uses Alt+(#) to shift tab
+        focus when browsing multiple tabs</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Left Mouse Click</td>
+      <td>Reserved for User-defined windows</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+9</td>
+      <td> </td>
+      <td>Default English installation of Firefox on Linux uses Alt+(#) to shift tab
+        focus when browsing multiple tabs</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Right Mouse Click (Press this key twice within a second for a double mouse
+        click.)</td>
+      <td>Reserved for User-defined windows</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+0</td>
+      <td> </td>
+      <td>Default English installation of Firefox on Linux uses Alt+(#) to shift tab
+        focus when browsing multiple tabs</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Reserved for User-defined windows</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+ `</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+ –</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Open a child window control menu</td>
+      <td>Open a child window control menu</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+ =</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+ (</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+ )</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Screen Sensitive Help</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+ [</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+ ]</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+ </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+ /</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Speak Coordinates of Active Cursor</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+ ;</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Activate PC Cursor</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+ :</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+ ,</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Read Current Character</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+ .</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Read Next Character or Icon</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Alt+ (Left Arrow)</td>
+      <td> </td>
+      <td>Back</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td></td>
+      <td> </td>
+      <td>Back</td>
+    </tr>
+    <tr>
+      <td>Alt+ (Right Arrow)</td>
+      <td> </td>
+      <td>Forward</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td></td>
+      <td> </td>
+      <td>Forward </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr style="margin-top: 2em; margin-bottom: 2em"/>
 
 Addendum: A big thanks goes out to Mikko Rantalainen
 (<mikko.rantalainen@peda.net>) for providing the following information regarding
