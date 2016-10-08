@@ -1,11 +1,11 @@
 ---
 layout: translation
-date: 2013-12-04 # Data de ultima atualização do original
-title: "How to make your wireframes more accessible in five easy steps" # Titulo traduzido
-description: "In a non-scientific study conducted in the summer of 2002, we researched
-the availability of available Accesskeys which had not already been reserved by various
-other software technologies which might be employed by various users. "
-
+date: 2003-04-08 # Data de ultima atualização do original
+title: "Using Accesskeys – Is it worth it?" # Titulo traduzido
+description: "The Accesskey attribute assigns an access key to an element.
+An access key is a single character from the document character set.
+Pressing an access key assigned to an element gives focus to the element.
+The action that occurs when an element receives focus depends on the element. "
 copyright: 'Copyright John Foliot, via WATS.ca' # Quem tem direitos de cópia
 license: null # Caso seja uma licença padrão (MIT, GPL...) por aqui
 license-custom: null # Caso a licença não seja uma padrão, por uma descrição curta dela aqui
@@ -18,10 +18,10 @@ translators: [{
     link: "http://twitter.com/webiwg"
 }]
 reviewers: []
-discussion: https://github.com/webiwg/acessibilidade-web-pt/issues/11
+discussion: https://github.com/webiwg/historia-web-pt/issues/6
 original: {
-    title: "Accesskeys and Reserved Keystroke Combinations", # Titulo original, no idioma origial
-    link: "http://john.foliot.ca/accesskeys-and-reserved-keystroke-combinations/", # Link para documento original
+    title: "Using Accesskeys – Is it worth it?", # Titulo original, no idioma origial
+    link: "http://john.foliot.ca/using-accesskeys-is-it-worth-it/", # Link para documento original
     dateOfTranslation: "2016-10-07" # Data em que a tradução foi finalizada
 }
 isDraft: true
@@ -52,20 +52,8 @@ isReleaseCandidate: false
 Using Accesskeys – Is it worth it?
 ----------------------------------
 
-Originally Posted: May 08, 2003
 
-#### Related
-
--   [Accesskeys and Reserved Keystroke
-    Combinations](//john.foliot.ca/accesskeys-and-reserved-keystroke-combinations/)
--   [More reasons why we don’t use
-    accesskeys](//john.foliot.ca/more-reasons-why-we-dont-use-accesskeys/)
--   [Link Relationships as an Alternative to
-    Accesskeys](//john.foliot.ca/link-relationships-as-an-alternative-to-accesskeys/)
--   [The Future of Accesskeys](//john.foliot.ca/the-future-of-accesskeys/)
-
-The [Accesskey attribute](http://www.w3.org/tr/html401/interact/forms.html#adef-accesskey)
-assigns an access key to an element.
+The [Accesskey attribute](http://www.w3.org/tr/html401/interact/forms.html#adef-accesskey) assigns an access key to an element.
 An access key is a single character from the document character set.
 Pressing an access key assigned to an element gives focus to the element.
 The action that occurs when an element receives focus depends on the element.
@@ -74,7 +62,7 @@ When a user activates a radio button, the user agent changes the value of the ra
 When the user activates a text field, it allows input, etc.
 
 The following elements support the accesskey attribute:
-A, AREA, BUTTON, INPUT, LABEL, and LEGEND, and TEXTAREA.
+`A`, `AREA`, `BUTTON`, `INPUT`, `LABEL`, and `LEGEND`, and `TEXTAREA`.
 
 The invocation of access keys depends on the underlying system.
 For instance, on machines running MS Windows, one generally has to press the <kbd>alt</kbd> key in addition to the access key.
@@ -84,23 +72,23 @@ The rendering of access keys depends on the user agent.
 
 ### Using HTML designated access keys:
 
--   Windows Operating System/MSIE: Alt \[key number\] Enter
--   Windows Operating System/Mozilla, Netscape, K-Meleon: Alt \[key number\]
--   Windows Operating System/Opera: Shift + Esc \[key number\]
--   Macintosh Operating System/MSIE: Ctrl \[key number\] Enter
--   Macintosh Operating System/Mozilla, Netscape: Ctrl \[key number\]
--   Macintosh Operating System/Opera: Shift + Esc \[key number\]
--   Linux Mandrake Operating System/Galeon/Mozilla: Alt \[key number\]
+-   Windows Operating System/MSIE: <kbd>Alt</kbd> \[key number\] Enter
+-   Windows Operating System/Mozilla, Netscape, K-Meleon: <kbd>Alt</kbd> \[key number\]
+-   Windows Operating System/Opera: <kbd>Shift</kbd> + <kbd>Esc</kbd> \[key number\]
+-   Macintosh Operating System/MSIE: <kbd>Ctrl</kbd> \[key number\] Enter
+-   Macintosh Operating System/Mozilla, Netscape: <kbd>Ctrl</kbd> \[key number\]
+-   Macintosh Operating System/Opera: <kbd>Shift</kbd> + <kbd>Esc<kbd> \[key number\]
+-   Linux Mandrake Operating System/Galeon/Mozilla: <kbd>Alt</kbd> \[key number\]
 
 ### Using HTML designated access keys:
 
--   Windows Operating System/MSIE: Alt \[key number\] Enter
--   Windows Operating System/Mozilla, Netscape, K-Meleon: Alt \[key number\]
--   Windows Operating System/Opera: Shirft+Esc \[key number\] Enter
--   Macintosh Operating System/MSIE: Ctrl \[key number\] Enter
--   Macintosh Operating System/Mozilla, Netscape: Ctrl \[key number\]
--   Macintosh Operating System/Opera: Shirft+Esc \[key number\] Enter
--   Linux Mandrake Operating System/Galeon/Mozilla: Alt \[key number\]
+-   Windows Operating System/MSIE: <kbd>Alt</kbd> \[key number\] Enter
+-   Windows Operating System/Mozilla, Netscape, K-Meleon: <kbd>Alt</kbd> \[key number\]
+-   Windows Operating System/Opera: <kbd>Shirft</kbd> + <kbd>Esc</kbd> \[key number\] Enter
+-   Macintosh Operating System/MSIE: <kbd>Ctrl<kbd> \[key number\] Enter
+-   Macintosh Operating System/Mozilla, Netscape: <kbd>Ctrl</kbd> \[key number\]
+-   Macintosh Operating System/Opera: <kbd>Shirft</kbd> + <kbd>Esc</kbd> \[key number\] Enter
+-   Linux Mandrake Operating System/Galeon/Mozilla: <kbd>Alt</kbd> \[key number\]
 
 ### Browsers that recognize HTML designated access keys:
 
@@ -131,16 +119,16 @@ such as JAWS and IBM’s HomePageReader,
 a popular screen reading web browser,
 which has built in keystroke shortcuts for going into different modes.
 
--   Alt + I starts Read Items mode
--   Alt + N starts Windows Cursors reading mode
--   Alt + W starts Words reading mode
--   Alt + C starts Character reading mode (read character by character)
--   Alt + L starts Links reading mode (only read the links on the page)
--   Alt + O (letter O not number zero) starts Controls reading mode
--   Alt + 1 starts Heading reading mode (reading only the headings on a page)
--   Alt + J Table Jump
--   Alt + T Table Navigation
--   Alt + D Dial
+-   <kbd>Alt</kbd> + <kbd>I</kbd> starts Read Items mode
+-   <kbd>Alt</kbd> + <kbd>N</kbd> starts Windows Cursors reading mode
+-   <kbd>Alt</kbd> + <kbd>W</kbd> starts Words reading mode
+-   <kbd>Alt</kbd> + <kbd>C</kbd> starts Character reading mode (read character by character)
+-   <kbd>Alt</kbd> + <kbd>L</kbd> starts Links reading mode (only read the links on the page)
+-   <kbd>Alt</kbd> + <kbd>O</kbd> (letter O not number zero) starts Controls reading mode
+-   <kbd>Alt</kbd> + <kbd>1</kbd> starts Heading reading mode (reading only the headings on a page)
+-   <kbd>Alt</kbd> + <kbd>J</kbd> Table Jump
+-   <kbd>Alt</kbd> + <kbd>T</kbd> Table Navigation
+-   <kbd>Alt</kbd> + <kbd>D</kbd> Dial
 
 HomePageReader makes no distinction between these keystrokes and will not allow you to use accesskeys.
 Besides, their mechanism actually seems to make more sense —
@@ -151,9 +139,9 @@ a curious requirement in a tool geared to the visually impaired…)
 
 Disappointingly, our research discovered that all but 3 keys were previously “claimed” by one technology or the other:
 
--   AccessKey / (slash)
--   AccessKey \\ (backslash)
--   AccessKey \] (right square bracket)
+-   AccessKey <kbd>/</kbd> (slash)
+-   AccessKey <kbd>\</kbd> (backslash)
+-   AccessKey <kbd>\</kbd> (right square bracket)
 
 At that point it was then pointed out (by [Jukka “Yucca” Korpela](http://www.cs.tut.fi/~jkorpela/) –
 a well respected accessibility expert) that even these keys would be inaccessible to users not using a North American Standard (QWERTY) keyboard.

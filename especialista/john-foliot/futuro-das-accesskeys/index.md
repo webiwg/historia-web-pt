@@ -18,10 +18,10 @@ translators: [{
     link: "http://twitter.com/webiwg"
 }]
 reviewers: []
-discussion: https://github.com/webiwg/acessibilidade-web-pt/issues/11
+discussion: https://github.com/webiwg/historia-web-pt/issues/10
 original: {
-    title: "Accesskeys and Reserved Keystroke Combinations", # Titulo original, no idioma origial
-    link: "http://john.foliot.ca/accesskeys-and-reserved-keystroke-combinations/", # Link para documento original
+    title: "The Future of Accesskeys", # Titulo original, no idioma origial
+    link: "http://john.foliot.ca/the-future-of-accesskeys/", # Link para documento original
     dateOfTranslation: "2016-10-07" # Data em que a tradução foi finalizada
 }
 isDraft: true
