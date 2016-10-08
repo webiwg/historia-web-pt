@@ -86,6 +86,7 @@ Conflict resolution
    critical functionality could be lost,
    potentially leaving the user confused,
    or unable to complete tasks.
+{: .dl-traducao}
 
 Standardization
 ---------------
