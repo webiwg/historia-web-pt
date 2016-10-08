@@ -17,7 +17,7 @@ authors: [{
 }]
 sponsors: null
 translators: robsmayer
-reviewers: null
+reviewers: Vilmar Neto
 isDraft: true
 discussion: https://github.com/webiwg/historia-web-pt/issues/18
 ---
@@ -42,32 +42,22 @@ NIC 44125                                                   1 April 1978
 2.  Significado do comando (O que faz).
 
    IAC WILL RANDOMLY-LOSE
-   
-      Quem envia esse comando (REQUESTS) pede/solicita permissão para randomly lose ou
-      confirma que vai ocorrer randomly lose.
-      
-      Quem envia esse comando (REQUESTS) pede/solicita ou permissão ou
-      confirma que vai ocorrer randomly lose.
-      
-      O emissor desse comando (REQUESTS) pede/solicita permissão 
-      ou confirma que vai ocorrer randomly lose.
       
       O emissor desse comando (REQUESTS) pede/solicita permissão
-      (confirma) que vai ocorrer randomly lose. (Nota: acho que é a melhor opção)
-
+      (confirma) que vai ocorrer randomly lose. 
    IAC WON'T RANDOMLY-LOSE
    
-      O emissor desse comando se nega (REFUSES) a randomly lose.
+      O emissor desse comando se nega (REFUSES) a ter randomly lose.
 
    IAC DO RANDOMLY-LOSE
 
       O emissor desse comando (REQUESTS) pede/solicita que o receptor
-      (dá permissão ao receptor) para  randomly lose. (Nota: não gostei dessa tradução)
+      (dá permissão ao receptor) para  ter randomly lose. (Nota: não gostei dessa tradução)
         
 
    IAC DON'T RANDOMLY-LOSE
 
-      O emissor (DEMANDS) exige que o receptor não randomly lose.
+      O emissor (DEMANDS) exige que o receptor não faç randomly lose.
 
 3.  Default.
 
@@ -117,6 +107,6 @@ Opção Randomly-Lose Telnet
 
    Sendo que essa opção é implementada para TELNET, é esperado que em 
    servidores que não tem essa opção implementada não ocorra random 
-   lossage; ie, logo, eles funcionarão com atividade 100% confiável. 
+   lossage; i.e, logo, eles funcionarão com atividade 100% confiável. 
    
 </pre>
