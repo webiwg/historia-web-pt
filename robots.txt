@@ -1,0 +1,4 @@
+User-agent: *
+allow: /
+
+sitemap: http://historia.pt.webiwg.org/sitemap.xml
