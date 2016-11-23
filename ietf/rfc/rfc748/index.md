@@ -23,6 +23,9 @@ translators: [{
 reviewers: [{
     name: "Vilmar Neto",
     link: "http://www.webiwg.org"
+},{
+    name: "Pedro Belasco",
+    link: "http://pbelasco.org"
 }]
 isDraft: false
 isReleaseCandidate: true
@@ -72,15 +75,15 @@ NIC 44125                                                   1 April 1978
 
    DON'T RANDOMLY-LOSE
 
-   i,e., perca randômica não acontecerá.
+   i,e., perda randômica não acontecerá.
 
 4.  O motivo dessa opção.
 
-   Obs: A expressão random lossage pode ser interpretada como perca randômica
-   ou perca aleatória, mas nessa tradução manterei a expressão original.
+   Obs: A expressão random lossage pode ser interpretada como perda randômica
+   ou perda aleatória, mas nessa tradução manterei a expressão original.
 
    Vários servidores aparentam prover random lossage como parte do seus
-   serviços ,por exemplo, quebras no sistema (crashes), perca de dados,
+   serviços ,por exemplo, quebras no sistema (crashes), perda de dados,
    mau funcionamento de programas, etc...
    Esses serviços são frequentemente não documentados e são em geral
    confusos para um usuário novo (noob). Logo, um meio simples é necessário
