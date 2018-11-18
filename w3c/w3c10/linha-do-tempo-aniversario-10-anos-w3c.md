@@ -3,11 +3,11 @@ layout: translation
 date: 2005-04-14
 title: Linha do tempo de aniversário de 10 anos da W3C
 description: Description of W3C10 Timeline Graphic from pre-internet to date
-copyright: '<a href="http://www.w3.org/Consortium/Legal/ipr-notice#Copyright" shape="rect">Copyright</a> of the original
-2010 <a href="/" shape="rect"><acronym title=" World Wide Web Consortium">W3C</acronym></a><sup></sup> (<a href=" http://www.csail.mit.edu/" shape="rect"><acronym title=" Massachusetts Institute of Technology">MIT</acronym></a>, <a href="http://www.ercim.org/" shape="rect"><acronym title=" European Research Consortium for Informatics and Mathematics">ERCIM</acronym></a>,
-<a href="http://www.keio.ac.jp/" shape="rect">Keio</a>),
+copyright: '<a href="http://www.w3.org/Consortium/Legal/ipr-notice#Copyright" shape="rect">Copyright ↗</a> of the original
+2010 <a href="/" shape="rect"><acronym title=" World Wide Web Consortium">W3C</acronym> ↗</a><sup></sup> (<a href=" http://www.csail.mit.edu/" shape="rect"><acronym title=" Massachusetts Institute of Technology">MIT</acronym> ↗</a>, <a href="http://www.ercim.org/" shape="rect"><acronym title=" European Research Consortium for Informatics and Mathematics">ERCIM</acronym> ↗</a>,
+<a href="http://www.keio.ac.jp/" shape="rect">Keio ↗</a>),
 All Rights Reserved. Translated by <acronym title="Web Independent Working Group">WebIWG</acronym>.
-W3C <a href="http://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer" shape="rect">liability</a>, <a href="http://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks" shape="rect">trademark</a> and <a rel="Copyright" href=" http://www.w3.org/Consortium/Legal/copyright-documents" shape="rect">document use</a> rules
+W3C <a href="http://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer" shape="rect">liability ↗</a>, <a href="http://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks" shape="rect">trademark ↗</a> and <a rel="Copyright" href=" http://www.w3.org/Consortium/Legal/copyright-documents" shape="rect">document use ↗</a> rules
 apply for the original and the translation.</p>'
 license: "W3C Software License"
 license-custom: null
@@ -33,7 +33,7 @@ isDraft: false
 discussion: https://github.com/webiwg/historia-web-pt/issues/2
 ---
 
-Este [gráfico temporal(timeline)](timeline-2500x998.png) produzido pela [W3C's Tenth Anniversary Celebration](/2004/09/W3C10.html) mostra cronologicamente os seguinte tipos de informação:
+Este [gráfico temporal (timeline)](timeline-2500x998.png) produzido pela [W3C's Tenth Anniversary Celebration](/2004/09/W3C10.html) mostra cronologicamente os seguinte tipos de informação:
 
 *   [Pre-Internet, Internet, Web, W3C Event timeline](#events)
 *   [W3C Activity Creation timeline](#activities)

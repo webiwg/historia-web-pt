@@ -1,4 +1,4 @@
 User-agent: *
 allow: /
 
-sitemap: http://historia.pt.webiwg.org/sitemap.xml
+sitemap: https://webiwg.github.io/historia-web-pt/sitemap.xml

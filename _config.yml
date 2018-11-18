@@ -19,8 +19,8 @@ lang: pt
 description: >
   Aqui você encontra textos sobre sobre a história da web de abrangência
   mundial e específicas do Brasil no idioma português, inclusive contemporânea.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://historia.pt.webiwg.org" # url completa para o site. NÃO termine com barra
+baseurl: "/historia-web-pt" # the subpath of your site, e.g. /blog
+url: "https://webiwg.github.io" # url completa para o site. NÃO termine com barra
 twitter_username: WebIWG
 github_username:  WebIWG
 github_repository: webiwg/historia-web-pt
