@@ -21,7 +21,7 @@ authors: [{
 }]
 sponsors: null
 translators: [{
-    name: "Vilmar Neto",
+    name: "vil aprato",
     link: "http://www.webiwg.org"
 }]
 reviewers: null
